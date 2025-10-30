@@ -5,7 +5,6 @@ how they apply to training and teaching
 
 ## Lesson overview
 
-!!! overview ""
     :fontawesome-regular-bookmark: **Description**  
     Module 1 reviews the principles of learning and explores how these fundamental concepts apply directly to effective training and teaching practices 
     
@@ -28,11 +27,11 @@ how they apply to training and teaching
     :fontawesome-solid-users: **Target Audience:** Researchers, undergraduate students, postgraduate students, etc...  
     </br>
     
-    :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  
+    :fontawesome-solid-stairs: **Level:** Beginner  
     
     :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
     
-    :fontawesome-solid-money-bill-1: **Funding:** This project has received funding from [name of funders].  
+    :fontawesome-solid-money-bill-1: **Funding:** This project has received funding from ELIXIR-EXCELERATE and the ELIXIR Training Platform.  
 
     [comment]: # (Property in Bioschema: description)
     [comment]: # (Property in Bioschema: coursePrequsites)
@@ -42,10 +41,6 @@ how they apply to training and teaching
     [comment]: # (Property in Biochema: licence)
     [comment]: # (This is an example for CONVERGE)
 
-#### Contributors
-
-[cards class_name="contributors" cols="6"(./docs/assets/cards/contributor_cards.yaml)]
-Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](www.flaticon.com)
 
 ---
 ## Citing this lesson
@@ -64,4 +59,12 @@ To run this lesson you need to install data from …
 ### Software setup
 To run this course you need to install… continue with software installation instructions
 
+---
+
+#### Contributors
+
+[cards class_name="contributors" cols="6"(./docs/assets/cards/contributor_cards.yaml)]
+Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](www.flaticon.com)
+
+---
 
