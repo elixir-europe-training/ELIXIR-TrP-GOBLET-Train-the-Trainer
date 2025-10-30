@@ -1,7 +1,7 @@
 site_name: ELIXIR GOBLET Train-the-Trainer Programme
 nav:
   - Home: index.md
-  - Module 1: 
+  - Module 1 - Principles of learning: 
     - home: module_1/index.md
   - Module 2: 
     - home: module_2/index.md
