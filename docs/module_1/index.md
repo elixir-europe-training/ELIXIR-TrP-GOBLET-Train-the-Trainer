@@ -1,6 +1,4 @@
-# Module 1 - Principles of learning
-how they apply to training and teaching
-
+# Module 1 - Principles of learning - how they apply to training and teaching
 
 
 ## Lesson overview
