@@ -1,6 +1,7 @@
 # Module 1 - Principles of learning - how they apply to training and teaching
 
 
+
 ## Lesson overview
 
     :fontawesome-regular-bookmark: **Description**  
