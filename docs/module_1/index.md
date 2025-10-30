@@ -1,11 +1,13 @@
-# Module 1
+# Module 1 - Principles of learning
+how they apply to training and teaching
+
 
 
 ## Lesson overview
 
 !!! overview ""
     :fontawesome-regular-bookmark: **Description**  
-    Add a short description of the training materail should be inserted here. 
+    Module 1 reviews the principles of learning and explores how these fundamental concepts apply directly to effective training and teaching practices 
     
     </br>
     
