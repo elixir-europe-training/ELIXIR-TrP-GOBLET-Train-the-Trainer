@@ -4,7 +4,7 @@
 
 ## Lesson overview
 
-</br>
+    </br>
 
     :fontawesome-regular-bookmark: **Description**  
     Module 1 reviews the principles of learning and explores how these fundamental concepts apply directly to effective training and teaching practices 
