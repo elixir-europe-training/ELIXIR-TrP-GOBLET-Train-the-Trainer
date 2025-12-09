@@ -1,4 +1,4 @@
-# ELIXIR Lesson Title 
+# ELIXIR-GOBLET Train-the-Trainer Lessons 
 
 [add-bioschemas file='_data/metadata.yaml']
 
