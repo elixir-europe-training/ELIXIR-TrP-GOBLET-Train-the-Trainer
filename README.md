@@ -1,4 +1,4 @@
-# Elixir Training Lesson template
+# ELIXIR-GOBLET Train-the-Trainer lessons
 
 [![DOI](https://zenodo.org/badge/564252010.svg)](https://zenodo.org/badge/latestdoi/564252010)
 
