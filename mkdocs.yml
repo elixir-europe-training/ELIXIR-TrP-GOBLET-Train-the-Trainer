@@ -1,13 +1,13 @@
-site_name: ELIXIR GOBLET Train-the-Trainer Programme
+site_name: ELIXIR-GOBLET Train-the-Trainer Programme
 nav:
   - Home: index.md
   - Module 1 - Principles of learning: 
     - home: module_1/index.md
-  - Module 2: 
+  - Module 2 - Enhancing participation and engagement: 
     - home: module_2/index.md
-  - Module 3: 
+  - Module 3 - Design of engaging training: 
     - home: module_3/index.md
-  - Module 4: 
+  - Module 4 - Assessment and Feedback: 
     - home: module_4/index.md
   - About: follow_up_training.md
 
