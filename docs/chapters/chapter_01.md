@@ -7,8 +7,8 @@ The **ELIXIR-GOBLET Train-the-Trainer (TtT)** course is a structured curriculum 
 This session focuses on the theoretical foundations of how students receive, process, and retain knowledge.
 
 -   **Defining Learning:** Learning is described as a **relatively permanent change** in behaviour, skills, or knowledge resulting from experience.
--   **Memory Models:** It introduces models from cognitive science, specifically the movement of information from **working memory** (which has limited space for approximately 7 +/- 2 items) to **long-term memory**.
--   **Skill Acquisition:** The **Dreyfus model** is used to illustrate the progression of a learner from a **novice** (who follows rigid rules) to an **expert** (who relies on intuition).
+-   **Memory Models:** It introduces models from cognitive science, specifically the movement of information from **working memory** to **long-term memory**.
+-   **Skill Acquisition:** The **Dreyfus model** is used to illustrate the progression of a learner from a **novice** to an **expert**.
 -   **Learning Strategies:** Learners explore **six evidence-based strategies** for effective learning: spaced practice, interleaving, elaboration, concrete examples, dual coding, and retrieval practice.
 -   **Bloom's Taxonomy:** This taxonomy classifies cognitive skills into six levels, ranging from **Remembering** to **Creating**, helping instructors align their teaching with the desired level of cognitive complexity.
 
@@ -37,9 +37,9 @@ The final session focuses on measuring progress and integrating feedback into th
 -   **Feedback Frequency:** Because attention spans typically last only 10--15 minutes, formative feedback should ideally occur **every 5 to 15 minutes** to refocus learners.
 -   **Dealing with Feedback:** The session teaches instructors how to handle negative feedback by viewing it as an opportunity for **personal reflective practice** rather than a personal attack.
 -   **Course Evaluation:** The **Kirkpatrick-Katzell strategy** is used as a framework to evaluate training through four levels: Reaction, Learning, Behaviour, and Results.
--
 
-## 1.1 First subtopic
+
+<!--- ## 1.1 First subtopic
 Here you can enter text and create inline citations[@Garcia2020] by using the bibtex plugin. Add your references in `references.bib`, and cite [@hoebelheinrich_nancy_j_2022_6769695] by adding the @refid inside brackets like this `[@10.1093/bioinformatics/btt113]`
 
 You can also embed videos from a local source (with a relative path) or from an url (like youtube). To use a youtube URL, 
@@ -61,5 +61,5 @@ just attach the ID of the video to a youtube embedded video link: `https://youtu
 
 ## 1.3 Third subtopic
 
-
+--->
 
