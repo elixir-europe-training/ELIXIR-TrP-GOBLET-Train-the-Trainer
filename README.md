@@ -26,6 +26,7 @@ pip install mkdocs-material
 pip install mkdocs-video
 pip install mkdocs-bibtex 
 pip install neoteroi-mkdocs
+pip install addbioschemas
 ```
 
 Clone this repository to your local computer. Then, make the repository your current directory and type:
