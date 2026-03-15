@@ -1,0 +1,22 @@
+- title: Module 1
+  url: ./module_1/index.md
+  content: |
+    Principles of learning - How they apply to training and teaching
+  # image: ./assets/images/cards/001-zeus.png
+
+- title: Module 2
+  url: ./module_2/index.md
+  content: |
+    Enhancing learner engagement and participation
+  # image: ./assets/images/cards/003-athena.png
+
+- title: Module 3
+  url: ./module_3/index.md
+  content: |
+    Design of training sessions
+  # image: ./assets/images/cards/007-poseidon.png
+
+- title: Module 4
+  url: ./module_4/index.md
+  content: |
+    Assessment and Feedback 
