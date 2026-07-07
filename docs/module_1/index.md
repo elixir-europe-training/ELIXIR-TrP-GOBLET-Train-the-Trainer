@@ -1,6 +1,8 @@
 # Module 1 - Principles of learning - how they apply to training and teaching
 
 
+    !!! example "This module is uncer construction. The reference material can be found here...." 
+----------------------------------------------------------------------------------------------------
 
 ## Lesson overview
 
@@ -8,6 +10,7 @@
 
     </br>
 
+    
     :fontawesome-regular-bookmark: **Description**  
     Module 1 reviews the principles of learning and explores how these fundamental concepts apply directly to effective training and teaching practices 
     
@@ -57,7 +60,7 @@ Please cite as:
 ## Setup
 
 ### Data setup
-To run this lesson you need to toto to install data from …
+To run this lesson you need to install data from …
 
 ### Software setup
 To run this course you need to install… continue with software installation instructions
