@@ -15,7 +15,7 @@
     </br>
     
     :fontawesome-solid-arrow-left: **Prerequisites**  
-    To be able to follow this course, learners should have knowledge in:  
+   There are no prequisits required for this session.  
     &emsp;1. First requirement  
     &emsp;2. Second requirement  
     
