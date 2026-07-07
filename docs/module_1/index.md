@@ -57,7 +57,7 @@ Please cite as:
 ## Setup
 
 ### Data setup
-To run this lesson you need to install data from …
+To run this lesson you need to toto to install data from …
 
 ### Software setup
 To run this course you need to install… continue with software installation instructions
