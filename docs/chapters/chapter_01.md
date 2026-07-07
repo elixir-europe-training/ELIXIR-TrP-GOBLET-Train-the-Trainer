@@ -2,7 +2,7 @@
 
 The **ELIXIR-GOBLET Train-the-Trainer (TtT)** course is a structured curriculum designed to help instructors improve their teaching practices by understanding how people learn and how to design effective training. The course is organised into **four distinct sessions**, which are detailed in the provided sources:
 
-### **Session 1: Principles of Learning**
+### **Session 1: Principles of Learning - How they apply to training and teaching**
 
 This session focuses on the theoretical foundations of how students receive, process, and retain knowledge.
 
@@ -20,7 +20,7 @@ The second session transitions from theory to the practical application of **bac
 -   **SMART Learning Outcomes:** A pivotal concept is the creation of **SMART LOs** (Specific, Measurable, Achievable, Relevant, and Time-bound). These outcomes define what a learner will be able to do by the end of the session using **actionable verbs**.
 -   **Concept Mapping:** Instructors are taught to use **concept maps** as visual tools to represent how different topics are linked, which helps in breaking down training into manageable pieces.
 
-### **Session 3: Training Activities and Engagement**
+### **Session 3: Enhancing learner participation and engagement**
 
 This session addresses **learner participation** and the psychological aspects of motivation.
 
@@ -29,7 +29,7 @@ This session addresses **learner participation** and the psychological aspects o
 -   **Motivation (The Three Pillars):** For learners to be fully motivated, they must see the **value** of the goal, have high **expectancy** (self-efficacy), and feel the **environment** is supportive.
 -   **Avoiding Demotivation:** Instructors are cautioned against "diminishing language" and are encouraged to be aware of **stereotype threat** and **impostor syndrome**.
 
-### **Session 4: Assessment and Feedback**
+### **Session 4: Assessment and feedback in training and teaching**
 
 The final session focuses on measuring progress and integrating feedback into the learning process.
 
