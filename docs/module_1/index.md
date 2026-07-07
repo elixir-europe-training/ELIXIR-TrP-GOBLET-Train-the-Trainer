@@ -1,8 +1,8 @@
 # Module 1 - Principles of learning - how they apply to training and teaching
 
 
-    !!! example "This module is uncer construction. The reference material can be found [here....](https://docs.google.com/presentation/d/1XcP84XSnzM73RDfjaaBdp_KK2YdEgmNj/edit?usp=sharing&ouid=117857355916723671329&rtpof=true&sd=true)"
 
+<span style="color: red;">      This module is uncer construction. The reference material can be found <a href="https://docs.google.com/presentation/d/1XcP84XSnzM73RDfjaaBdp_KK2YdEgmNj/edit?usp=sharing&ouid=117857355916723671329&rtpof=true&sd=true">[here....]</a>      </span>
 ## Lesson overview
 
 !!! overview ""
