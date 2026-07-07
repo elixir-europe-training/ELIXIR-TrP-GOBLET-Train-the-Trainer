@@ -1,8 +1,7 @@
+<span style="color: red;"> <font size="20">     This module is under construction. The reference material can be found <a href="https://docs.google.com/presentation/d/1h_7aIcUhMIIpW5_-qMhX8vwh3mQ0LY4x/edit?usp=share_link&ouid=117857355916723671329&rtpof=true&sd=true">[here....]</a>   </font>   </span>
+
 # Module 1 - Principles of learning - how they apply to training and teaching
 
-
-
-<span style="color: red;">      This module is uncer construction. The reference material can be found <a href="https://docs.google.com/presentation/d/1XcP84XSnzM73RDfjaaBdp_KK2YdEgmNj/edit?usp=sharing&ouid=117857355916723671329&rtpof=true&sd=true">[here....]</a>      </span>
 ## Lesson overview
 
 !!! overview ""
