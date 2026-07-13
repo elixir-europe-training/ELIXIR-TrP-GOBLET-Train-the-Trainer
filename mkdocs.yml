@@ -3,7 +3,6 @@ nav:
   - Home: index.md
   - Module 1:
     - home: module_1/index.md
-    - Session 1: chapters/chapter_01.md
   - Module 2:
     - home: module_2/index.md
   - Module 3: 
