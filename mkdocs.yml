@@ -1,7 +1,7 @@
 site_name: ELIXIR-GOBLET Train-the-Trainer Programme
 nav:
   - Home: index.md
-  - About: chapters/chapters_01.md
+  - About: chapters/chapter_01.md
   - Module 1:
     - home: module_1/index.md
   - Module 2:
