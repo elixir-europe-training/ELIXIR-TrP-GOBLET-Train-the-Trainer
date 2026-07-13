@@ -7,7 +7,6 @@
 !!! overview ""
 
     </br>
-
     
     :fontawesome-regular-bookmark: **Description**  
     Module 1 reviews the principles of learning and explores how these fundamental concepts apply directly to effective training and teaching practices 
@@ -15,27 +14,26 @@
     </br>
     
     :fontawesome-solid-arrow-left: **Prerequisites**  
-   There are no prequisits required for this session.  
-    &emsp;1. First requirement  
-    &emsp;2. Second requirement  
+   This session is designed for those with some to little or no teaching experience. In other words, just an interest and enthusiasm for teaching is good enough.  
     
     </br>
     
     :fontawesome-solid-arrow-right: **Learning Outcomes:**  
     By the end of the course, learners will be able to:  
-    &emsp;1. First item  
-    &emsp;2. Second item  
+    &emsp;1. List at least two different types of learning (e.g. mnemonic and practical) 
+    &emsp;2. Describe the key features of a few learning models and principles 
+    &emsp;3. Explain why learning about how learning works and about models and principles of learning is important for classroom practice.
     
     </br>
     
-    :fontawesome-solid-users: **Target Audience:** Researchers, undergraduate students, postgraduate students, etc...  
+    :fontawesome-solid-users: **Target Audience:** Anyone involved in training.  
     </br>
     
     :fontawesome-solid-stairs: **Level:** Beginner  
     
     :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
     
-    :fontawesome-solid-money-bill-1: **Funding:** This project has received funding from ELIXIR-EXCELERATE and the ELIXIR Training Platform.  
+    :fontawesome-solid-money-bill-1: **Funding:** This project has received funding from ELIXIR-EXCELERATE, ELIXIR-STEERS and the ELIXIR Training Platform.  
 
     [comment]: # (Property in Bioschema: description)
     [comment]: # (Property in Bioschema: coursePrequsites)
