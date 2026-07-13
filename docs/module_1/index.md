@@ -6,42 +6,45 @@
 
 !!! overview ""
 
-    </br>
-    
-    :fontawesome-regular-bookmark: **Description**  
-    Module 1 reviews the principles of learning and explores how these fundamental concepts apply directly to effective training and teaching practices 
-    
-    </br>
-    
-    :fontawesome-solid-arrow-left: **Prerequisites**  
-   This session is designed for those with some to little or no teaching experience. In other words, just an interest and enthusiasm for teaching is good enough.  
-    
-    </br>
-    
-    :fontawesome-solid-arrow-right: **Learning Outcomes:**  
-    By the end of the course, learners will be able to:  
-    &emsp;1. List at least two different types of learning (e.g. mnemonic and practical) 
-    &emsp;2. Describe the key features of a few learning models and principles 
-    &emsp;3. Explain why learning about how learning works and about models and principles of learning is important for classroom practice.
-    
-    </br>
-    
-    :fontawesome-solid-users: **Target Audience:** Anyone involved in training.  
-    </br>
-    
-    :fontawesome-solid-stairs: **Level:** Beginner  
-    
-    :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
-    
-    :fontawesome-solid-money-bill-1: **Funding:** This project has received funding from ELIXIR-EXCELERATE, ELIXIR-STEERS and the ELIXIR Training Platform.  
+    :fontawesome-regular-bookmark: **Description**
 
-    [comment]: # (Property in Bioschema: description)
-    [comment]: # (Property in Bioschema: coursePrequsites)
-    [comment]: # (Property in Bioschema: teaches)
-    [comment]: # (Property in Bioschema: audience)
-    [comment]: # (Property in Bioschema: educationalLevel)
-    [comment]: # (Property in Biochema: licence)
-    [comment]: # (This is an example for CONVERGE)
+    Module 1 reviews the principles of learning and explores how these fundamental concepts apply directly to effective training and teaching practices.
+
+    :fontawesome-solid-arrow-left: **Prerequisites**
+
+    This session is designed for those with little or no teaching experience. An interest and enthusiasm for teaching is all that is required.
+
+    :fontawesome-solid-arrow-right: **Learning Outcomes**
+
+    By the end of the course, learners will be able to:
+
+    1. List at least two different types of learning (e.g. mnemonic and practical).
+    2. Describe the key features of several learning models and principles.
+    3. Explain why understanding how learning works is important for classroom practice.
+
+    :fontawesome-solid-users: **Target Audience**
+
+    Anyone involved in training.
+
+    :fontawesome-solid-stairs: **Level**
+
+    Beginner
+
+    :fontawesome-solid-lock: **License**
+
+    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+
+    :fontawesome-solid-money-bill-1: **Funding**
+
+    This project has received funding from ELIXIR-EXCELERATE, ELIXIR-STEERS and the ELIXIR Training Platform.
+    
+[comment]: # (Property in Bioschema: description)
+[comment]: # (Property in Bioschema: coursePrequsites)
+[comment]: # (Property in Bioschema: teaches)
+[comment]: # (Property in Bioschema: audience)
+[comment]: # (Property in Bioschema: educationalLevel)
+[comment]: # (Property in Biochema: licence)
+[comment]: # (This is an example for CONVERGE)
 
 
 ---
