@@ -1,42 +1,157 @@
-## **Getting started with the ELIXIR-GOBLEt Train-the-Trainer course**
+# What is the ELIXIR-GOBLET Train-the-Trainer course?
 
-The **ELIXIR-GOBLET Train-the-Trainer (TtT)** course is a structured curriculum designed to help instructors improve their teaching practices by understanding how people learn and how to design effective training. The course is organised into **four distinct sessions**, which are detailed in the provided sources:
+## About this handbook
 
-### **Session 1: Principles of Learning - How they apply to training and teaching**
+This handbook presents the core lessons of the ELIXIR-GOBLET Train-the-Trainer course, commonly referred to as **TtT**. It is intended as a resource for trainers who will deliver the 2-days TtT course, as well as for those who want to learn more about good practices in teaching and training.
 
-This session focuses on the theoretical foundations of how students receive, process, and retain knowledge.
+The handbook brings together the pedagogical principles, practical approaches, and facilitation strategies that underpin the TtT course. It is designed to help TtT instructors understand not only *what* is taught during the course, but also *why* it is taught and *how* it can be facilitated effectively.
 
--   **Defining Learning:** Learning is described as a **relatively permanent change** in behaviour, skills, or knowledge resulting from experience.
--   **Memory Models:** It introduces models from cognitive science, specifically the movement of information from **working memory** to **long-term memory**.
--   **Skill Acquisition:** The **Dreyfus model** is used to illustrate the progression of a learner from a **novice** to an **expert**.
--   **Learning Strategies:** Learners explore **six evidence-based strategies** for effective learning: spaced practice, interleaving, elaboration, concrete examples, dual coding, and retrieval practice.
--   **Bloom's Taxonomy:** This taxonomy classifies cognitive skills into six levels, ranging from **Remembering** to **Creating**, helping instructors align their teaching with the desired level of cognitive complexity.
+The ELIXIR-GOBLET TtT course is the result of many years of collaboration among trainers, training coordinators, and training facilitators across the ELIXIR and GOBLET communities. It began as an initiative developed by enthusiastic trainers from different ELIXIR Nodes during the ELIXIR-EXCELERATE project and has continued to evolve through the contributions, experience, and commitment of the ELIXIR-GOBLET TtT instructor community.
 
-### **Session 2: Design and Plan: Session, Course, and Materials**
+As such, the course should not be seen as a fixed or static product. It is a living training resource that reflects shared expertise, collective practice, and continuous improvement.
 
-The second session transitions from theory to the practical application of **backward instructional design**.
+## Purpose of the TtT course
 
--   **Nicholls' Five Phases:** The design process follows five interdependent steps: selecting **Learning Outcomes (LOs)**, identifying **Learning Experiences (LEs)**, developing relevant **content**, creating **assessments**, and **evaluating** course effectiveness.
--   **SMART Learning Outcomes:** A pivotal concept is the creation of **SMART LOs** (Specific, Measurable, Achievable, Relevant, and Time-bound). These outcomes define what a learner will be able to do by the end of the session using **actionable verbs**.
--   **Concept Mapping:** Instructors are taught to use **concept maps** as visual tools to represent how different topics are linked, which helps in breaking down training into manageable pieces.
+The ELIXIR-GOBLET Train-the-Trainer course is a structured curriculum designed to help trainers improve their teaching practice. It introduces key concepts from learning theory, instructional design, learner engagement, assessment, and feedback, and connects these concepts to practical training situations.
 
-### **Session 3: Enhancing learner participation and engagement**
+The course supports trainers in moving from a content-centred approach to a learner-centred approach. Rather than focusing only on what the trainer wants to present, TtT encourages trainers to ask:
 
-This session addresses **learner participation** and the psychological aspects of motivation.
+- What should learners be able to do by the end of the training?
+- What learning experiences will help them achieve this?
+- How can we keep learners actively engaged?
+- How can we assess whether learning is taking place?
+- How can feedback be used to improve both learning and teaching?
 
--   **Active Learning Paradigm:** The course advocates for a shift from "Sage on the Stage" (lecturing) to "**Guide on the Side**" (facilitating), where learning occurs "**by doing**".
--   **Engagement Techniques:** Specific active learning practices are introduced, including **peer instruction**, **flipped classrooms**, **think-pair-share**, and **pair programming**.
--   **Motivation (The Three Pillars):** For learners to be fully motivated, they must see the **value** of the goal, have high **expectancy** (self-efficacy), and feel the **environment** is supportive.
--   **Avoiding Demotivation:** Instructors are cautioned against "diminishing language" and are encouraged to be aware of **stereotype threat** and **impostor syndrome**.
+For TtT instructors, the course is also an opportunity to model effective training practice. The way the course is facilitated should reflect the same principles that participants are encouraged to apply in their own teaching.
 
-### **Session 4: Assessment and feedback in training and teaching**
+## Structure of the course
 
-The final session focuses on measuring progress and integrating feedback into the learning process.
+The ELIXIR-GOBLET TtT course is organised around four core sessions:
 
--   **Formative vs Summative Assessment:** **Formative assessment** takes place *during* teaching to improve the quality of learning (e.g., sticky notes, minute cards, or the "fist of five"), while **summative assessment** evaluates achievement against a benchmark at the *end*.
--   **Feedback Frequency:** Because attention spans typically last only 10--15 minutes, formative feedback should ideally occur **every 5 to 15 minutes** to refocus learners.
--   **Dealing with Feedback:** The session teaches instructors how to handle negative feedback by viewing it as an opportunity for **personal reflective practice** rather than a personal attack.
--   **Course Evaluation:** The **Kirkpatrick-Katzell strategy** is used as a framework to evaluate training through four levels: Reaction, Learning, Behaviour, and Results.
+1. **Principles of learning - how they apply to training and teaching**
+2. **Design and Plan: Session, Course, and Materials**
+3. **Enhancing learner participation and engagement**
+4. **Assessment and feedback in training and teaching**
+
+Each session introduces a set of concepts and tools that trainers can apply when designing, delivering, and evaluating their own training.
+
+---
+
+## Session 1: Principles of learning - how they apply to training and teaching
+
+The first session introduces the theoretical foundations of how people learn. It helps participants reflect on learning as a process and consider how this process should influence the way training is designed and delivered.
+
+A key message of this session is that learning is not simply the transfer of information from trainer to learner. Learning involves a relatively permanent change in knowledge, skills, attitudes, or behaviour as a result of experience and practice.
+
+Participants are introduced to concepts from cognitive science, including the distinction between working memory and long-term memory. Working memory has limited capacity, which means that learners can only process a limited amount of new information at one time. This has important implications for training design: content needs to be structured, paced, and supported in ways that help learners process and retain information.
+
+The session also introduces models of skill acquisition, such as the Dreyfus model, which describes how learners progress from novice to expert. Novices often rely on rules and explicit instructions, while more experienced practitioners are able to recognise patterns, make decisions more fluently, and draw on intuition developed through practice.
+
+Participants also explore evidence-based learning strategies, including:
+
+- spaced practice
+- interleaving
+- elaboration
+- concrete examples
+- dual coding
+- retrieval practice
+
+These strategies help trainers think about how to support learning beyond simple exposure to content.
+
+Finally, the session introduces **Bloom’s Taxonomy** as a way to classify different levels of cognitive complexity, from remembering and understanding to applying, analysing, evaluating, and creating. This taxonomy helps trainers align learning outcomes, activities, and assessments with the level of learning they want participants to achieve.
+
+For TtT instructors, this session is an opportunity to help participants connect learning theory to their own experience as trainers and learners. The emphasis should be on making the theory practical and usable.
+
+---
+
+## Session 2: Design and Plan: Session, Course, and Materials
+
+The second session focuses on how to design effective training. It moves from the principles of learning to the practical process of planning sessions, courses, and learning materials.
+
+A central concept in this session is **backward instructional design**. Instead of starting with content, trainers are encouraged to begin by defining what learners should be able to do by the end of the training. Once the intended learning outcomes are clear, trainers can then design learning experiences, select content, and develop assessment methods that support those outcomes.
+
+The course introduces a structured design process based on five interdependent phases:
+
+1. selecting learning outcomes
+2. identifying learning experiences
+3. developing relevant content
+4. creating assessments
+5. evaluating course effectiveness
+
+This process helps trainers ensure that all parts of a training session are aligned.
+
+A key focus of the session is the development of **SMART learning outcomes**. Learning outcomes should be:
+
+- **Specific**
+- **Measurable**
+- **Achievable**
+- **Relevant**
+- **Time-bound**
+
+Well-written learning outcomes describe what learners will be able to do by the end of a session or course. They use action verbs and provide a clear basis for selecting activities and assessments.
+
+Participants are also introduced to **concept mapping** as a tool for organising ideas and identifying relationships between topics. Concept maps can help trainers break complex subjects into manageable parts and make explicit the structure of what needs to be taught.
+
+For TtT instructors, this session is highly practical. Participants work on their own training examples, revise learning outcomes, discuss how design choices affect the learning experience, until they reach a point of delivering a training lesson.
+
+---
+
+## Session 3: Enhancing learner participation and engagement
+
+The third session focuses on learner engagement and active learning. It encourages trainers to think beyond lecturing and to design training that requires learners to participate, practise, reflect, and interact.
+
+A central theme of this session is the shift from the trainer as the **“sage on the stage”** to the trainer as the **“guide on the side”**. This does not mean that trainers should never explain or present information. Rather, it means that effective training should create opportunities for learners to actively work with the material.
+
+Participants reflect on a range of active learning strategies, such as:
+
+- peer instruction
+- flipped classroom approaches
+- think-pair-share
+- group discussions
+- pair programming
+- practical exercises
+- reflection activities
+
+These approaches help learners process information, apply new ideas, and learn from one another.
+
+The session also addresses motivation. For learners to engage meaningfully, they need to perceive value in the learning goal, believe that they can succeed, and feel that the learning environment is supportive. These elements are closely connected to learner confidence, participation, and persistence.
+
+TtT participants are also encouraged to consider how trainers can unintentionally demotivate learners. This includes the use of diminishing language, assumptions about learners’ prior knowledge, and behaviours that may reinforce stereotype threat or impostor feelings.
+
+For TtT instructors, this session is especially important because the course itself should model active learning. Participants should experience the kinds of activities they are being encouraged to use, and they should have opportunities to reflect on how and why those activities work and in which contexts can work.
+
+---
+
+## Session 4: Assessment and feedback in training and teaching
+
+The final core session focuses on assessment and feedback as essential parts of the learning process.
+
+Assessment is presented not only as a way to judge whether learning has taken place, but also as a way to support learning while it is happening. Participants are introduced to the distinction between **formative assessment** and **summative assessment**.
+
+**Formative assessment** takes place during the learning process. Its purpose is to provide information that can help both learners and trainers adjust what they are doing. Examples include sticky notes, minute cards, quick polls, quizzes, exercises, group check-ins, and techniques such as the “fist of five”.
+
+**Summative assessment** takes place at the end of a course or learning activity. Its purpose is to evaluate achievement against defined criteria or benchmarks.
+
+The session emphasises the importance of frequent feedback. Because attention and engagement can fluctuate during training, trainers should build in regular opportunities to check understanding, refocus learners, and identify areas of difficulty. Short feedback loops help trainers respond to learners’ needs before problems become too large.
+
+Participants also discuss how to receive and use feedback on their own teaching. Negative or critical feedback can be difficult to hear, but it can also be a valuable source of information for reflective practice. TtT encourages trainers to approach feedback not as a personal attack, but as an opportunity to improve their training design and facilitation.
+
+For TtT instructors, this session is an opportunity to reinforce the idea that assessment, feedback, and evaluation should be planned from the beginning, not added at the end as an afterthought.
+
+---
+
+## How TtT instructors should use this handbook
+
+This handbook is intended to support TtT instructors before, during, and after course delivery.
+
+Before the course, instructors can use it to review the pedagogical foundations of each session, prepare their facilitation strategy, and identify key messages to emphasise.
+
+During the course, the handbook can serve as a guide for explaining concepts, framing activities, and supporting discussions with participants.
+
+After the course, it can be used as a reference for reflection, revision, and continued development of the TtT curriculum.
+
+Above all, TtT instructors should use this handbook as a shared resource. The ELIXIR-GOBLET Train-the-Trainer course has grown through community knowledge and practice, and its continued quality depends on instructors reflecting on their experience, sharing improvements, and supporting one another.
+
 
 
 <!--- ## 1.1 First subtopic
