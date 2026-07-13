@@ -16,9 +16,9 @@
 
     :fontawesome-solid-arrow-right: **Learning Outcomes**
 
-    By the end of the course, learners will be able to:
+    By the end of this session, learners will be able to:
 
-    1. List at least two different types of learning (e.g. mnemonic and practical).
+    1. List at least two different types of learning.
     2. Describe the key features of several learning models and principles.
     3. Explain why understanding how learning works is important for classroom practice.
 
@@ -37,39 +37,35 @@
     :fontawesome-solid-money-bill-1: **Funding**
 
     This project has received funding from ELIXIR-EXCELERATE, ELIXIR-STEERS and the ELIXIR Training Platform.
-    
-[comment]: # (Property in Bioschema: description)
-[comment]: # (Property in Bioschema: coursePrequsites)
-[comment]: # (Property in Bioschema: teaches)
-[comment]: # (Property in Bioschema: audience)
-[comment]: # (Property in Bioschema: educationalLevel)
-[comment]: # (Property in Biochema: licence)
-[comment]: # (This is an example for CONVERGE)
+
+[comment]: # (Property in Bioschemas: description)
+[comment]: # (Property in Bioschemas: coursePrequsites)
+[comment]: # (Property in Bioschemas: teaches)
+[comment]: # (Property in Bioschemas: audience)
+[comment]: # (Property in Bioschemas: educationalLevel)
+[comment]: # (Property in Biochemas: licence)
 
 
 ---
-## Citing this lesson
+<!-- ## Citing this lesson
 
 Please cite as:
 
   1. Enter your citation here.
-  2. Geert van Geest, Elin Kronander, Jose Alejandro Romero Herrera, Nadja Žlender, & Alexia Cardona. (2023). The ELIXIR Training Lesson Template - Developing Training Together (v1.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.7913092. 
+  2. Geert van Geest, Elin Kronander, Jose Alejandro Romero Herrera, Nadja Žlender, & Alexia Cardona. (2023). The ELIXIR Training Lesson Template - Developing Training Together (v1.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.7913092. -->
 
 ---
 ## Setup
 
-### Data setup
-To run this lesson you need to install data from …
-
 ### Software setup
-To run this course you need to install… continue with software installation instructions
+For the online course, you will basically need a computer with a browser and to participate in the Zoom meeting. For the in person courses, you will need a pen/pencil and paper.
 
 ---
 
-#### Contributors
+<!-- #### Contributors
 
 [cards class_name="contributors" cols="6"(./docs/assets/cards/contributor_cards.yaml)]
-Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](www.flaticon.com)
+Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](www.flaticon.com) -->
 
 ---
 
