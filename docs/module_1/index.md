@@ -56,6 +56,11 @@ Here you can find the presentation for this session:
 The full presentation can be downloaded <a href="https://docs.google.com/presentation/d/1h_7aIcUhMIIpW5_-qMhX8vwh3mQ0LY4x/edit?usp=share_link&ouid=117857355916723671329&rtpof=true&sd=true">[here]</a>.
 
 
+## Introduction
+
+Session 1 may appear more theoretical than Sessions 2, 3, and 4, as it focuses on why understanding learning matters for trainers. As trainers, our effectiveness depends fundamentally on how well we understand learning itself. However, when we seek to improve our practice, we often face a dilemma: research on learning can be technically dense and difficult to apply, while practical teaching guides, although accessible, rarely explain why particular strategies work. This can leave us without a clear foundation for making sound instructional decisions. By understanding the principles that underlie learning, trainers gain more than a collection of techniques; they develop a conceptual framework that enables them to diagnose learning challenges, adapt their approach to different contexts, and make informed decisions about course design and instructional methods. This foundation is what helps good trainers become truly effective trainers - capable not only of teaching, but of fostering genuine and lasting learning.
+
+
 ## What is learning and how learning works
 
 
@@ -69,11 +74,25 @@ So let’s start with a reflection.
 !!! danger "Challenge"
     Think about a time when you had to learn something new. How did you approach the learning process? What strategies or steps did you use to understand, acquire and practise this new skill or concept?
 
-!!! note "Challenge"
+??? success "Answer" Learning can be:
+    Something that remains in the memory (information, knowledge)
+    Something that enables better understanding (understanding concepts, complex ideas)
+    Something that allows one to develop skills (e.g. writing)
+    Something that allows solving new types of problems (e.g. preventing a computer attack, teaching a student with intellectual disabilities)
+    Something that automates (e.g. driving)
+    Something that changes who we are (from being a student to being a teacher)
+    Something that helps us make decisions (e.g. choose a therapy)
+    Something that allows us to control our behaviour (e.g. to stop smoking)
+    Something that can change our behaviour (e.g. to stop smoking)
+
+There are different types of learning and depending on what you would like to learn different activities may be more suitable. 
+
+
+<!--> !!! note "Challenge"
     Think about a time when you had to learn something new. How did you approach the learning process? What strategies or steps did you use to understand, acquire and practise this new skill or concept?
 
 !!! success "Learning Outcomes"
-    Think about a time when you had to learn something new. How did you approach the learning process? What strategies or steps did you use to understand, acquire and practise this new skill or concept?
+    Think about a time when you had to learn something new. How did you approach the learning process? What strategies or steps did you use to understand, acquire and practise this new skill or concept? <-->
 
 
 The TtT is built around a fundamental, though basic, concept which is: learning. Our working definition of learning, an effective definition, is provided in the Lumen course on Educational Psychology: A (relatively) permanent change in behavior, skills, knowledge, or attitudes resulting from identifiable psychological or social experiences [ref](https://courses.lumenlearning.com/educationalpsychology/chapter/introduction-2/), [ref](https://s3.amazonaws.com/lumenlearning/success/Master+PDFs/Educational+Psychology.pdf). A key feature of learning, according to this definition, is *permanence*: the change has to last. Changes do not count as learning if they are temporary.
