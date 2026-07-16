@@ -46,26 +46,23 @@
 [comment]: # (Property in Biochemas: licence)
 
 
----
-<!-- ## Citing this lesson
+## Presentation
 
-Please cite as:
+Here you can find the presentation for this session:
 
-  1. Enter your citation here.
-  2. Geert van Geest, Elin Kronander, Jose Alejandro Romero Herrera, Nadja Žlender, & Alexia Cardona. (2023). The ELIXIR Training Lesson Template - Developing Training Together (v1.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.7913092. -->
+<iframe src="https://docs.google.com/presentation/d/1h_7aIcUhMIIpW5_-qMhX8vwh3mQ0LY4x/preview" width="640" height="360" allow="autoplay"></iframe>
 
----
-## Setup
 
-### Software setup
-For the online course, you will basically need a computer with a browser and to participate in the Zoom meeting. For the in person courses, you will need a pen/pencil and paper.
+The full presentation can be downloaded <a href="https://docs.google.com/presentation/d/1h_7aIcUhMIIpW5_-qMhX8vwh3mQ0LY4x/edit?usp=share_link&ouid=117857355916723671329&rtpof=true&sd=true">[here]</a>.
 
----
+# What is learning and how learning works
 
-<!-- #### Contributors
+## Why it’s important to know how learning works
 
-[cards class_name="contributors" cols="6"(./docs/assets/cards/contributor_cards.yaml)]
-Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](www.flaticon.com) -->
 
----
+The objective of any good trainer should be that his/her pupils learn, and philosophically, conceptually, but above all functionally, learning should thus be at the heart of their main task as an instructor. Becoming aware of what is learning and how learning works is fundamental to inform you about how  to become a better teacher. 
 
+So let’s start with a reflection. 
+
+!!! danger "Challenge"
+    Think about a time when you had to learn something new. How did you approach the learning process? What strategies or steps did you use to understand, acquire and practise this new skill or concept?

@@ -152,7 +152,29 @@ After the course, it can be used as a reference for reflection, revision, and co
 
 Above all, TtT instructors should use this handbook as a shared resource. The ELIXIR-GOBLET Train-the-Trainer course has grown through community knowledge and practice, and its continued quality depends on instructors reflecting on their experience, sharing improvements, and supporting one another.
 
+---
+## Setup
 
+### Software setup
+For the online course, you will basically need a computer with a browser and to participate in the Zoom meeting. For the in person courses, you will need a pen/pencil and paper.
+
+---
+<!-- ## Citing this lesson
+
+Please cite as:
+
+  1. Enter your citation here.
+  2. Geert van Geest, Elin Kronander, Jose Alejandro Romero Herrera, Nadja Žlender, & Alexia Cardona. (2023). The ELIXIR Training Lesson Template - Developing Training Together (v1.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.7913092. -->
+
+
+---
+
+<!-- #### Contributors
+
+[cards class_name="contributors" cols="6"(./docs/assets/cards/contributor_cards.yaml)]
+Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](www.flaticon.com) -->
+
+---
 
 <!--- ## 1.1 First subtopic
 Here you can enter text and create inline citations[@Garcia2020] by using the bibtex plugin. Add your references in `references.bib`, and cite [@hoebelheinrich_nancy_j_2022_6769695] by adding the @refid inside brackets like this `[@10.1093/bioinformatics/btt113]`
