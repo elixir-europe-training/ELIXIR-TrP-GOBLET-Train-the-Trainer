@@ -74,9 +74,10 @@ So let’s start with a reflection.
 !!! danger "Challenge"
     Think about a time when you had to learn something new. How did you approach the learning process? What strategies or steps did you use to understand, acquire and practise this new skill or concept?
 
-??? success "Answer" Learning can be:
-    Something that remains in the memory (information, knowledge)
-    Something that enables better understanding (understanding concepts, complex ideas)
+??? success "Answer" 
+    Learning can be:
+    * Something that remains in the memory (information, knowledge)
+    * Something that enables better understanding (understanding concepts, complex ideas)
     Something that allows one to develop skills (e.g. writing)
     Something that allows solving new types of problems (e.g. preventing a computer attack, teaching a student with intellectual disabilities)
     Something that automates (e.g. driving)
@@ -98,9 +99,9 @@ There are different types of learning and depending on what you would like to le
 The TtT is built around a fundamental, though basic, concept which is: learning. Our working definition of learning, an effective definition, is provided in the Lumen course on Educational Psychology: A (relatively) permanent change in behavior, skills, knowledge, or attitudes resulting from identifiable psychological or social experiences [ref](https://courses.lumenlearning.com/educationalpsychology/chapter/introduction-2/), [ref](https://s3.amazonaws.com/lumenlearning/success/Master+PDFs/Educational+Psychology.pdf). A key feature of learning, according to this definition, is *permanence*: the change has to last. Changes do not count as learning if they are temporary.
 
 From Ambrose et al. (2010, 2023) "How learning works":
-- Learning is not a product but a process occurring in the mind. As such, we can only infer that it has occurred from students' products or performance
-- Learning involves change in knowledge, beliefs, behaviours, or attitudes
-- Learning is not something done to students, but rather **something students themselves do**.
+* Learning is not a product but a process occurring in the mind. As such, we can only infer that it has occurred from students' products or performance
+* Learning involves change in knowledge, beliefs, behaviours, or attitudes
+* Learning is not something done to students, but rather **something students themselves do**.
 
 >*Learning results from what the student does and thinks and only from what the student does and thinks. The teacher can advance learning only by influencing what the student does to learn* 
 >
