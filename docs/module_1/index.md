@@ -66,3 +66,10 @@ So let’s start with a reflection.
 
 !!! danger "Challenge"
     Think about a time when you had to learn something new. How did you approach the learning process? What strategies or steps did you use to understand, acquire and practise this new skill or concept?
+
+!!! note "Challenge"
+    Think about a time when you had to learn something new. How did you approach the learning process? What strategies or steps did you use to understand, acquire and practise this new skill or concept?
+
+!!! success "Learning Outcomes"
+    Think about a time when you had to learn something new. How did you approach the learning process? What strategies or steps did you use to understand, acquire and practise this new skill or concept?
+
