@@ -1,6 +1,6 @@
-<span style="color: red;"> <font size="20">     This module is under construction. The reference material can be found <a href="https://docs.google.com/presentation/d/1ziXD-n2Q6ihKPGTkIp66X8RVqcjLCr0E/edit?usp=sharing&ouid=117857355916723671329&rtpof=true&sd=true">[here....]</a>   </font>   </span>
+<span style="color: red;"> <font size="20">     This session is under construction. The reference material can be found <a href="https://docs.google.com/presentation/d/1ziXD-n2Q6ihKPGTkIp66X8RVqcjLCr0E/edit?usp=sharing&ouid=117857355916723671329&rtpof=true&sd=true">[here....]</a>   </font>   </span>
 
-# Module 1 - Principles of learning - how they apply to training and teaching
+# Session 1 - Principles of learning - how they apply to training and teaching
 
 ## Lesson overview
 
@@ -8,7 +8,7 @@
 
     :fontawesome-regular-bookmark: **Description**
 
-    Module 1 reviews the principles of learning and explores how these fundamental concepts apply directly to effective training and teaching practices.
+    Session 1 reviews the principles of learning and explores how these fundamental concepts apply directly to effective training and teaching practices.
 
     :fontawesome-solid-arrow-left: **Prerequisites**
 
@@ -109,6 +109,8 @@ From Ambrose et al. (2010, 2023) "How learning works":
 
 ---
 This quotation from Herbert A. Simon clearly indicates that we cannot talk about teaching, teaching practices or effective teaching techniques if we don't understand first how people learn. 
+
+## How do people learn and how does learning work
 
 
 \bibliography
