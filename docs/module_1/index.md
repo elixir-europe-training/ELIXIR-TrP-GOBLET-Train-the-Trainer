@@ -844,18 +844,20 @@ Originally developed in 1956 and substantially revised in 2001, the taxonomy giv
 
 ### Seeing it in action: the coffee example
 
-A concrete, low-stakes domain works well for practising Bloom's levels before applying them to your own teaching material. Coffee brewing is a good one - there's real variety to work with (drip brewing, French press, espresso, moka pot, cold brew, AeroPress, Turkish coffee, and traditional percolators are all genuinely different methods), and nobody needs prior expertise to reason about it.
+A concrete, low-stakes domain works well for showing how the exact same topic can be pushed through every Bloom's level. Coffee brewing is a good one - there's real variety to work with (drip brewing, French press, espresso, moka pot, cold brew, AeroPress, Turkish coffee, and traditional percolators are all genuinely different methods), and nobody needs prior expertise to reason about it.
 
----
+Here's that one topic - methods for brewing coffee - pushed through all six levels:
 
-### Challenge - Categorise the coffee-brewing methods
+| Bloom's level | Example prompt |
+|---|---|
+| Remember | List at least 3 methods to brew coffee. |
+| Understand | Compare two coffee-brewing methods; explain their similarities and differences. |
+| Apply | Brew coffee using two different methods, following the correct technique for each. |
+| Analyze | Break down what makes each method produce a different result - which variables (grind size, water temperature, pressure, brew time) explain the differences in taste and body? |
+| Evaluate | Judge which brewing method would best suit a specific scenario (e.g. a busy office kitchen, a camping trip, an environmentally-conscious household), and justify the choice. |
+| Create | Propose an improvement to an existing brewing method, or invent a new one. |
 
-<a name="challenge-bloom-categorise-examples"></a>
-
-!!! question "Challenge - Categorise / classify the coffee-brewing methods into two different (and far apart) Bloom's levels"
-    Using the list of coffee-brewing methods, come up with one activity or question that would sit at a *low* Bloom's level (e.g. Remember or Understand), and one that would sit at a *high* level (e.g. Evaluate or Create) - for the same underlying content.
-
-    For example: "List at least 5 types of coffee-brewing methods" sits at Remember, while "Evaluate which brewing method would best suit a busy office kitchen, and justify your choice" sits at Evaluate.
+Notice how the verb itself - list, compare, brew, break down, judge, propose - changes as cognitive demand increases, even though the underlying topic never does. That's the whole point of the action-verb table above: the verb is what actually tells you, and the learner, what level you're really operating at.
 
 ---
 
