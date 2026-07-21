@@ -1,5 +1,3 @@
-<span style="color: red;"> <font size="20">     This session is under construction. The reference material can be found <a href="https://docs.google.com/presentation/d/1ziXD-n2Q6ihKPGTkIp66X8RVqcjLCr0E/edit?usp=sharing&ouid=117857355916723671329&rtpof=true&sd=true">[here....]</a>   </font>   </span>
-
 # Session 1 - Principles of learning - how they apply to training and teaching
 
 ## Lesson overview
