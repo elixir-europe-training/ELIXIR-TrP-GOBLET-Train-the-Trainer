@@ -170,14 +170,13 @@ This is a two-round exercise, and it works best if you run it exactly as describ
 
 Once both rounds are done and both counts are written down, it's time to compare.
 
-??? danger "Spoiler — reveals the mechanism of this exercise (trainers: expand this before running the session; future participants: skip this box until after you've done the exercise)"
+??? tip "For trainers running this session (click to reveal — contains the answer to this exercise)"
     Round 2 uses the *exact same set of letters* as Round 1 — just presented again, without saying so.
 
     Ask learners to compare their two counts before revealing this. Most people do noticeably better in Round 2 — and the reason is the point of the whole exercise: by Round 2, that specific sequence is no longer entirely unfamiliar. Having seen it once already, learners have started building some connection to it in long-term memory, and that makes it easier to hold in working memory the second time around.
 
     **The takeaway to draw out with the group:** *things become easier to hold in short-term memory once they're meaningful — meaning, here, coming from a connection already stored in long-term memory.* This is a direct, felt illustration of why working memory's limits aren't fixed in stone: what's "one item" to working memory depends on how much long-term memory has already organised around it.
 
-!!! tip "For trainers running this session"
     If you'd like an optional second demonstration of the same underlying idea — how *meaningful chunking* extends what working memory can hold — try this with the group: show the sequence `APHDBDNACKGBDCIA` for 10 seconds, have them try to recall it, then show the identical letters regrouped as `A PHD B DNA C KGB D CIA` and try again. Recall is usually much better the second time, because the regrouping reveals familiar acronyms (PhD, DNA, KGB, CIA) — the letters haven't changed, but they're no longer 16 meaningless symbols, they're four meaningful chunks.
 
 ---
