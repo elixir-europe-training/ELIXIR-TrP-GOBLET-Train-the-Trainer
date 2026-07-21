@@ -132,155 +132,160 @@ This quotation from Herbert A. Simon clearly indicates that we cannot talk about
 ### Learning models & learning principles, evidence-based strategies
 
 
-# Session 1 · Part I — Introduction and Learning Outcomes
+## Session 1 · Part VI — Model 1: Working Memory and Long-Term Memory
 
-## Why this session matters
+Of the three learning models this session covers, we start with the one about memory itself: how the mind actually processes and stores what you teach.
 
-Session 1 is a bit different from Sessions 2, 3, and 4: it's more theoretical. Instead of a specific training technique, it tackles a foundational question — **why should trainers care about how learning actually works?**
+### A simplified picture of the mind
 
-Here's the dilemma most trainers run into: academic research on learning tends to be dense and hard to translate into practice, while practical "how to teach" guides are easy to follow but rarely explain *why* their tips work. That gap leaves trainers making instructional decisions on gut feeling alone.
+According to this model, two different kinds of memory are involved in learning: **working memory** and **long-term memory**. A rough analogy: it's a bit like a computer's RAM versus its hard drive. RAM is fast but small; the hard drive is slow but holds far more. Real cognition is, of course, much messier than this — but the simplified picture is genuinely useful for classroom decisions.
 
-This session aims to close that gap. Understanding the principles behind learning gives you more than a bag of tricks — it gives you a way of thinking that lets you:
+- **[Working memory](glossary.md#glossary-working-memory)** is a temporary system that holds and manipulates information for short stretches — seconds to minutes — but only a small number of items at a time. When you encounter something new, working memory is what focuses your attention on it and starts integrating it with what you already know.
+- **[Long-term memory](glossary.md#glossary-long-term-memory)** is a vast store where information can sit for extended periods — days to a lifetime. It holds the foundational knowledge and skills that all further learning builds on.
 
-- diagnose why a learning activity isn't landing,
-- adapt your approach to a new context or audience,
-- and make deliberate, informed choices about how you design and run a course.
-
-That's the real difference between a good trainer and a truly effective one: not just delivering content, but engineering conditions where genuine, lasting learning happens.
+**A concrete example:** a friend gives you a note with her phone number — that's the *environment*, calling your attention. The first few times you call her, you have to look at the number and hold it in *working memory* just long enough to dial it. After calling her enough times, you no longer need the note at all — the number is now in *long-term memory*.
 
 !!! tip "For trainers running this session"
-    Warn learners up front that this session is dense. It covers a lot of theory in a short time, which can be demanding to sit through. A short heads-up ("bear with us, this one's more intense") goes a long way toward keeping the group with you.
+    Ask learners to come up with their own example of the three components — environment, working memory, long-term memory — using something from their own life. Making them generate the example, rather than just hearing yours, is itself a small piece of retrieval practice.
+
+### The path to permanent learning
+
+For anything to end up in long-term memory, it first has to be attended to and processed by working memory. That's the bottleneck: working memory can typically hold only around 4–7 items at once, and only for a matter of seconds to minutes. If you don't manage that constraint carefully as a trainer, it can seriously get in the way of learning — no matter how much effort or attention the learner is putting in.
 
 ---
 
-## Challenge 1.1 — How do you learn something new?
+### Challenge — How short is your short-term memory?
 
-Before introducing any theory, get learners to reflect on their own experience. This grounds everything that follows in something concrete rather than abstract.
+<a name="challenge-short-term-memory-span"></a>
 
-!!! question "Challenge 1.1 — 3 min individual + 3 min discussion"
-    Recall a time you learned something new — baking, driving, a mathematical theorem, a piece of music, anything. How did you go about it?
+This is a two-round exercise, and it works best if you run it exactly as described below, in order — the second round only works as intended if learners don't see it coming.
 
-    Use sticky notes or the [Google Form](https://forms.gle/HYWGWJMutfREeYdk9) to capture your answer, then we'll discuss a few examples together.
+!!! question "Challenge — How short is your short-term memory? Round 1 (solo)"
+    You'll see a sequence of letters displayed for 10 seconds. Try to remember as many as you can, in order.
 
-**Facilitation notes:** once responses come in, look for the different *types* of learning hiding in them. Learning can be, for example:
+    Once the slide moves on, write down every letter you remember, in the order they appeared. Then count how many *consecutive* letters (starting from the beginning) you got right, and note that number down.
 
-- something that stays in memory (facts, information),
-- something that builds understanding (grasping a concept or idea),
-- something that becomes a skill (e.g. writing),
-- something that lets you solve new kinds of problems,
-- something that becomes automatic (e.g. driving),
-- something that changes who you are (e.g. going from student to teacher),
-- something that shapes a decision (e.g. choosing between treatments),
-- or something that changes a behaviour (e.g. quitting a habit).
+!!! question "Challenge — How short is your short-term memory? Round 2 (solo)"
+    Now we'll repeat the exercise with a new set of letters. Same rules: 10 seconds on screen, then write down what you remember in order, then count your consecutive correct letters.
 
-Use the discussion to make two points, in this order:
+Once both rounds are done and both counts are written down, it's time to compare.
 
-1. **The best approach depends on the type of learning.** Practising a skill works well if you want to *do* something; rehearsal works well if you want to memorise a poem. There's no one-size-fits-all method.
-2. **One thing all these examples have in common is permanence.** Whatever the type of learning, it isn't real learning unless it lasts. Flag this now — it's the bridge into the next part of the session, where the group builds a working definition of "learning" together.
+??? danger "Spoiler — reveals the mechanism of this exercise (trainers: expand this before running the session; future participants: skip this box until after you've done the exercise)"
+    Round 2 uses the *exact same set of letters* as Round 1 — just presented again, without saying so.
 
-Also worth naming explicitly: **learning is something learners do.** It isn't something a trainer does *to* them.
+    Ask learners to compare their two counts before revealing this. Most people do noticeably better in Round 2 — and the reason is the point of the whole exercise: by Round 2, that specific sequence is no longer entirely unfamiliar. Having seen it once already, learners have started building some connection to it in long-term memory, and that makes it easier to hold in working memory the second time around.
+
+    **The takeaway to draw out with the group:** *things become easier to hold in short-term memory once they're meaningful — meaning, here, coming from a connection already stored in long-term memory.* This is a direct, felt illustration of why working memory's limits aren't fixed in stone: what's "one item" to working memory depends on how much long-term memory has already organised around it.
+
+!!! tip "For trainers running this session"
+    If you'd like an optional second demonstration of the same underlying idea — how *meaningful chunking* extends what working memory can hold — try this with the group: show the sequence `APHDBDNACKGBDCIA` for 10 seconds, have them try to recall it, then show the identical letters regrouped as `A PHD B DNA C KGB D CIA` and try again. Recall is usually much better the second time, because the regrouping reveals familiar acronyms (PhD, DNA, KGB, CIA) — the letters haven't changed, but they're no longer 16 meaningless symbols, they're four meaningful chunks.
 
 ---
 
-## Learning Outcomes for Session 1
+### What this means for classroom teaching
 
-By the end of this session, participants will be able to:
-
-1. **List** at least two different types of learning (e.g. mnemonic and practical).
-2. **Describe** the key features of a few learning models, principles, and strategies.
-3. **Explain** why understanding learning — and the models and principles behind it — matters for classroom practice.
+Real learning means achieving **permanence** — moving something out of the temporary workspace of working memory and into long-term storage. That transfer is delicate: it needs the right conditions, and when working memory gets overloaded, the transfer simply breaks down. Learning doesn't happen, no matter how hard the learner is trying.
 
 !!! tip "For trainers running this session"
-    Walk through these three outcomes and briefly explain each. For outcome 1, you can point back to Challenge 1.1 itself as the example: the activity where learners reflected on different types of learning *was* the teaching practice chosen to achieve that outcome.
+    Ask the group *before* giving your own answer: "given what we just did, what does this mean for how we should run a classroom?"
 
-### A quick word on Learning Outcomes vs. Teaching Objectives
+So — practically — how do we avoid overloading it?
 
-Learning Outcomes are at the heart of every ELIXIR-GOBLET Train-the-Trainer session — and we'd argue they should be at the heart of any course, university semester or short intensive workshop, whatever the topic or audience.
+### Give learners enough time, and let them practise
 
-The distinction that matters here:
+A few concrete levers:
 
-- **Learning Outcomes** describe what the *learner* will be able to do by the end of instruction.
-- **Teaching Objectives** describe what the *trainer* intends to do — the actions, environment, or process the trainer sets up to help learners reach those outcomes.
+- **Avoid cognitive overload** — don't try to move too much information at once; working memory's capacity is limited, not negotiable.
+- **Provide adequate processing time** — give learners enough time to actually encode what they're seeing or hearing, rather than rushing to the next point.
+- **Enable practice** — repeated engagement with material is what builds the connection into long-term memory.
+- **Minimise stress** — a stressed learner has a harder time consolidating memory; a comfortable environment isn't just pleasant, it's functional.
+- **Encourage reasoning** — deep processing, through understanding and connection-making, beats rote memorisation.
+- **Minimise distractions** — close the laptop when it isn't needed for the task at hand.
+- **Repeat key concepts** — deliberately, more than once.
+- **Tell meaningful stories rather than just transferring facts** — a story gives new information something to connect to.
 
-("Instruction," in this context, just means any unit of learning: a single lesson, a full session, an entire course, or even a semester-long module.)
-
-If the difference feels subtle right now, that's completely normal — it'll come up again several times over the course, and it gets easier to spot with practice.
-
-
-# Session 1 · Part I — Introduction and Learning Outcomes
-
-## Why this session matters
-
-Session 1 is a bit different from Sessions 2, 3, and 4: it's more theoretical. Instead of a specific training technique, it tackles a foundational question — **why should trainers care about how learning actually works?**
-
-Here's the dilemma most trainers run into: academic research on learning tends to be dense and hard to translate into practice, while practical "how to teach" guides are easy to follow but rarely explain *why* their tips work. That gap leaves trainers making instructional decisions on gut feeling alone.
-
-This session aims to close that gap. Understanding the principles behind learning gives you more than a bag of tricks — it gives you a way of thinking that lets you:
-
-- diagnose why a learning activity isn't landing,
-- adapt your approach to a new context or audience,
-- and make deliberate, informed choices about how you design and run a course.
-
-That's the real difference between a good trainer and a truly effective one: not just delivering content, but engineering conditions where genuine, lasting learning happens.
+One especially direct classroom practice that follows from this: avoid long, unbroken theoretical stretches. Alternate short blocks of theory with practical exercises, so working memory gets a chance to process and consolidate before the next load arrives.
 
 !!! tip "For trainers running this session"
-    Warn learners up front that this session is dense. It covers a lot of theory in a short time, which can be demanding to sit through. A short heads-up ("bear with us, this one's more intense") goes a long way toward keeping the group with you.
+    It also helps to check what learners already know, and how they currently have it organised, *before* introducing new material — connecting new concepts explicitly to things already in long-term memory makes the new material easier to absorb. This ties directly back to [P2 and P3](04-evidence-based-principles-of-learning.md) from the evidence-based principles: prior knowledge and how it's organised both shape how new learning lands.
+
+### Cognitive load: not all of it is bad
+
+Not all mental effort during learning is something to eliminate. There are actually three kinds of **[cognitive load](glossary.md#glossary-cognitive-load)**:
+
+- **Intrinsic** — the effort inherent to a topic's own complexity. You can't remove this without removing the content itself.
+- **Germane** — the *desirable* effort of actively building links between new and existing knowledge. This is, in a real sense, what learning *is* — you don't want to eliminate this.
+- **Extraneous** — everything else that distracts or gets in the way, arising from how information or tasks happen to be presented. This is the one worth actively eliminating.
+
+Some common sources of extraneous load, worth watching for in your own materials:
+
+- Overly cluttered slides — excessive text, unrelated images, distracting animation.
+- Confusing or disorganised instructions that force learners to spend effort figuring out what they're even being asked to do.
+- Unnecessary jargon that isn't actually relevant to the learning outcome.
+- Poorly integrated multimedia — background music or effects that compete for attention rather than support the content.
+- Visual and textual content that don't line up, forcing learners to keep glancing back and forth to connect them.
+- Tasks or questions that don't actually serve the learning outcome, pulling focus toward irrelevant details.
+
+Minimising extraneous load comes down to clear, concise, well-structured instructional design — so learners can spend their limited working-memory capacity on the content that actually matters, not on decoding how it's presented.
+
+!!! tip "For trainers running this session"
+    If learners want to go deeper on this afterwards: *Cognitive Load Theory, Simplified* (MindTools) is a good accessible next step.
+
+### The split-attention effect
+
+A specific, common source of extraneous load: the **[split-attention effect](glossary.md#glossary-split-attention-effect)**. This happens whenever a learner has to process multiple sources of information that are separated in space or time — looking back and forth between a diagram and its legend, say, or between slide text and what you're saying out loud. Every switch forces working memory to hold and stitch together information from different places, burning through its limited capacity fast.
+
+A concrete example: a diagram with a separate colour legend requires the learner to keep glancing between the drawing and the legend to interpret it — or to hold the colour-to-label mapping in working memory while looking at the drawing. Simply labelling the regions directly on the diagram removes that extra step entirely.
+
+Ways to reduce split attention:
+
+- **Integrate text and visuals** — put labels directly on a diagram, rather than in a separate legend.
+- **Coordinate spoken and visual content** — refer explicitly to what's on the slide as you talk, rather than saying something different from what's displayed.
+- **Eliminate redundancy** — don't read slide text aloud verbatim; either let learners read it themselves, or replace the text with a visual you narrate.
+- **Simplify slide design** — one coherent idea per slide, rather than several disconnected ones competing for attention.
+- **Sequence information step by step** — introduce concepts one at a time rather than dropping everything on the screen simultaneously.
 
 ---
 
-## Challenge 1.1 — How do you learn something new?
+### Summary: what this model teaches us
 
-Before introducing any theory, get learners to reflect on their own experience. This grounds everything that follows in something concrete rather than abstract.
+The working memory / long-term memory model makes us aware of a few concrete things as trainers:
 
-!!! question "Challenge 1.1 — 3 min individual + 3 min discussion"
-    Recall a time you learned something new — baking, driving, a mathematical theorem, a piece of music, anything. How did you go about it?
-
-    Use sticky notes or the [Google Form](https://forms.gle/HYWGWJMutfREeYdk9) to capture your answer, then we'll discuss a few examples together.
-
-**Facilitation notes:** once responses come in, look for the different *types* of learning hiding in them. Learning can be, for example:
-
-- something that stays in memory (facts, information),
-- something that builds understanding (grasping a concept or idea),
-- something that becomes a skill (e.g. writing),
-- something that lets you solve new kinds of problems,
-- something that becomes automatic (e.g. driving),
-- something that changes who you are (e.g. going from student to teacher),
-- something that shapes a decision (e.g. choosing between treatments),
-- or something that changes a behaviour (e.g. quitting a habit).
-
-Use the discussion to make two points, in this order:
-
-1. **The best approach depends on the type of learning.** Practising a skill works well if you want to *do* something; rehearsal works well if you want to memorise a poem. There's no one-size-fits-all method.
-2. **One thing all these examples have in common is permanence.** Whatever the type of learning, it isn't real learning unless it lasts. Flag this now — it's the bridge into the next part of the session, where the group builds a working definition of "learning" together.
-
-Also worth naming explicitly: **learning is something learners do.** It isn't something a trainer does *to* them.
+1. **Extraneous cognitive load** exists, and it's ours to remove.
+2. The **split-attention effect** is a specific, common trap worth watching for in our own materials.
+3. **[Chunking](glossary.md#glossary-chunking)** — alternating short theoretical stretches with practical ones — is a strategy worth deliberately building into how we design sessions.
 
 ---
 
-## Learning Outcomes for Session 1
+### Challenge — How could you avoid overloading learners' working memory?
 
-By the end of this session, participants will be able to:
+<a name="challenge-avoid-overload"></a>
 
-1. **List** at least two different types of learning (e.g. mnemonic and practical).
-2. **Describe** the key features of a few learning models, principles, and strategies.
-3. **Explain** why understanding learning — and the models and principles behind it — matters for classroom practice.
+!!! question "Challenge — How could you avoid overloading learners' working memory? (5 min in groups + 7 min discussion)"
+    In your group, come up with concrete ways you could avoid overloading your learners' working memory in a session you run.
 
 !!! tip "For trainers running this session"
-    Walk through these three outcomes and briefly explain each. For outcome 1, you can point back to Challenge 1.1 itself as the example: the activity where learners reflected on different types of learning *was* the teaching practice chosen to achieve that outcome.
+    A few answers that tend to come up, if you'd like a prompt list ready in case discussion needs a nudge:
 
-### A quick word on Learning Outcomes vs. Teaching Objectives
+    - Working together on exercises, and repeating ideas during peer discussion.
+    - Actively trying to close knowledge gaps rather than letting them accumulate.
+    - Keeping computer use in the room to a minimum, when it isn't strictly needed.
+    - Assigning prior materials to read at home, effectively setting a prerequisite.
+    - Providing assistants, or building in progressively increasing difficulty.
+    - Having additional exercises ready for learners who finish faster, or who need more support.
 
-Learning Outcomes are at the heart of every ELIXIR-GOBLET Train-the-Trainer session — and we'd argue they should be at the heart of any course, university semester or short intensive workshop, whatever the topic or audience.
+---
 
-The distinction that matters here:
+### How this connects to the six strategies
 
-- **Learning Outcomes** describe what the *learner* will be able to do by the end of instruction.
-- **Teaching Objectives** describe what the *trainer* intends to do — the actions, environment, or process the trainer sets up to help learners reach those outcomes.
+A few of the [six evidence-based strategies](05-six-learning-strategies.md) we covered earlier connect directly back to this memory model:
 
-("Instruction," in this context, just means any unit of learning: a single lesson, a full session, an entire course, or even a semester-long module.)
+- **Retrieval practice** is the opposite of passively rereading notes — actively recalling something strengthens the memory in a way that rereading simply doesn't.
+- **Interleaving** — switching between related but distinct topics rather than staying on one for too long — helps build connections between short-term and long-term memory. (For example, in language learning: mixing grammar, vocabulary, and conversation practice within the same session, rather than doing each in isolation.)
+- **Elaboration** — explaining and expanding on new information by connecting it to what you already know — is exactly the kind of connection-building this model says long-term memory depends on. (For example: connecting photosynthesis to your own experience of watching plants grow differently in sun versus shade; or explaining the circulatory system through the analogy of a highway system, with the heart as the central hub.)
+- **Dual coding** — combining verbal and visual representations — gives the brain two channels to process and retrieve the same content through, which is exactly why it helps retention. (For example: pairing new vocabulary in a language with an image, rather than the word alone.)
 
-If the difference feels subtle right now, that's completely normal — it'll come up again several times over the course, and it gets easier to spot with practice.
-
+The next model we'll look at — the Dreyfus model of skill acquisition — builds on this same foundation, looking at how learners progress from novice to expert over time.
 
 
 
