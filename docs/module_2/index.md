@@ -6,10 +6,10 @@
 
 Here you can find the presentation for this session:
 
-<iframe src="https://docs.google.com/presentation/d/13Vn2mA7N5NdgFqe64JQE1eSOu1rAkelY/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1-TBwgYW1WnhorNP1vVW70SJ2prYCgSHv/preview" width="640" height="360" allow="autoplay"></iframe>
 
 
-The full presentation can be downloaded <a href="https://docs.google.com/presentation/d/13Vn2mA7N5NdgFqe64JQE1eSOu1rAkelY/edit?usp=share_link&ouid=117857355916723671329&rtpof=true&sd=true">[here]</a>.
+The full presentation can be downloaded <a href="https://docs.google.com/presentation/d/1-TBwgYW1WnhorNP1vVW70SJ2prYCgSHv/edit?usp=sharing&ouid=117857355916723671329&rtpof=true&sd=true">[here]</a>.
 
 ## Session 2 - Part I - Introduction and Learning Outcomes
 

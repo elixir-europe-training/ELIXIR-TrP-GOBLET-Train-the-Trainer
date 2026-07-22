@@ -159,12 +159,53 @@ Above all, TtT instructors should use this handbook as a shared resource. The EL
 For the online course, you will basically need a computer with a browser and to participate in the Zoom meeting. For the in person courses, you will need a pen/pencil and paper.
 
 ---
-<!-- ## Citing this lesson
+
+
+!!! overview ""
+
+    :fontawesome-regular-bookmark: **Description**
+
+    ELIXIR-GOBLET Train-the-Trainer course.
+
+    :fontawesome-solid-arrow-left: **Prerequisites**
+
+    This course is designed for those with little or no teaching experience. An interest and enthusiasm for teaching is all that is required.
+
+    :fontawesome-solid-arrow-right: **Learning Outcomes**
+
+    By the end of this course, learners will be able to:
+
+    1. <span style="color: red;"> List to be updated soon...</span>
+    2. 
+
+    :fontawesome-solid-users: **Target Audience**
+
+    Anyone involved in training.
+
+    :fontawesome-solid-stairs: **Level**
+
+    Beginner
+
+    :fontawesome-solid-lock: **License**
+
+    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+
+    :fontawesome-solid-money-bill-1: **Funding**
+
+    This project has received funding from ELIXIR-EXCELERATE, ELIXIR-STEERS and the ELIXIR Training Platform.
+
+[comment]: # (Property in Bioschemas: description)
+[comment]: # (Property in Bioschemas: coursePrequsites)
+[comment]: # (Property in Bioschemas: teaches)
+[comment]: # (Property in Bioschemas: audience)
+[comment]: # (Property in Bioschemas: educationalLevel)
+[comment]: # (Property in Biochemas: licence)
+
+## Citing this course
 
 Please cite as:
 
-  1. Enter your citation here.
-  2. Geert van Geest, Elin Kronander, Jose Alejandro Romero Herrera, Nadja Žlender, & Alexia Cardona. (2023). The ELIXIR Training Lesson Template - Developing Training Together (v1.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.7913092. -->
+  1. Allegra Via, Patricia M. Palagi, et all. Zenodo. 
 
 
 ---
@@ -173,30 +214,3 @@ Please cite as:
 
 [cards class_name="contributors" cols="6"(./docs/assets/cards/contributor_cards.yaml)]
 Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](www.flaticon.com) -->
-
----
-
-<!--- ## 1.1 First subtopic
-Here you can enter text and create inline citations[@Garcia2020] by using the bibtex plugin. Add your references in `references.bib`, and cite [@hoebelheinrich_nancy_j_2022_6769695] by adding the @refid inside brackets like this `[@10.1093/bioinformatics/btt113]`
-
-You can also embed videos from a local source (with a relative path) or from an url (like youtube). To use a youtube URL, 
-just attach the ID of the video to a youtube embedded video link: `https://youtube.com/embed/`. For example, the Elixir training video `https://youtu.be/oAD8FdGf8tI` has the ID `oAD8FdGf8tI`, so the final link would be:
-
-```
-![type:video](https://youtube.com/embed/oAD8FdGf8tI)
-```
-
-![type:video](https://youtube.com/embed/oAD8FdGf8tI)
-
-## 1.2 Second subtopic
-
-!!! note "Note"
-
-    Here you can put a note using admonitions.
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## 1.3 Third subtopic
-
---->
-
