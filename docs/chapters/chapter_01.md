@@ -155,7 +155,6 @@ Above all, TtT instructors should use this handbook as a shared resource. The EL
 ---
 ## Setup
 
-### Software setup
 For the online course, you will basically need a computer with a browser and to participate in the Zoom meeting. For the in person courses, you will need a pen/pencil and paper.
 
 ---
