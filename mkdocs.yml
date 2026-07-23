@@ -54,7 +54,7 @@ markdown_extensions:
   - sane_lists
   - smarty
   - toc:
-      toc_depth: 3
+      toc_depth: 5
   - pymdownx.superfences
   - attr_list
   - pymdownx.tabbed
