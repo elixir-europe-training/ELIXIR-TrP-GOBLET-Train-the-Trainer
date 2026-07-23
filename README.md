@@ -19,7 +19,7 @@ https://elixir-europe-training.github.io/ELIXIR-TrP-LessonTemplateInstructions-M
 > https://doi.org/10.5281/zenodo.7913092
 
 
-<!--> ## If working locally
+## If working locally
 
 This website is generated with [MkDocs](https://www.mkdocs.org/), with the theme [Material](https://squidfunk.github.io/mkdocs-material/).
 
@@ -45,4 +45,4 @@ mkdocs serve
 
 To host it locally.
 
-Check it out with your browser at [http://localhost:8000/](http://localhost:8000/). <-->
+Check it out with your browser at [http://localhost:8000/](http://localhost:8000/). 
