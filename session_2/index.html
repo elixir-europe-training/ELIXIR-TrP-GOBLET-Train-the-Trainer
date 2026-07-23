@@ -1,0 +1,1757 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../session_1/">
+      
+      
+        <link rel="next" href="../session_3/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/elixir_favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>home - ELIXIR-GOBLET Train-the-Trainer Programme</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.ec1eaa64.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Lato";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../stylesheets/neoteroi-mkdocs.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#session-2-design-and-plan-session-course-and-materials" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+        <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+            
+This lesson is under active development and considered pre-alpha.
+
+          </div>
+          
+        </aside>
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="ELIXIR-GOBLET Train-the-Trainer Programme" class="md-header__button md-logo" aria-label="ELIXIR-GOBLET Train-the-Trainer Programme" data-md-component="logo">
+      
+  <img src="../assets/images/white-orange-logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            ELIXIR-GOBLET Train-the-Trainer Programme
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              home
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/elixir-europe-training/ELIXIR-TrP-GOBLET-Train-the-Trainer" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    elixir-europe-training/ELIXIR-TrP-GOBLET-Train-the-Trainer
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href=".." class="md-tabs__link">
+          
+  
+  
+  Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../chapters/about/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  What is the TtT
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../session_1/" class="md-tabs__link">
+          
+  
+  
+  Session 1
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
+          
+  
+  
+  Session 2
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../session_3/" class="md-tabs__link">
+          
+  
+  
+  Session 3
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../session_4/" class="md-tabs__link">
+          
+  
+  
+  Session 4
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="ELIXIR-GOBLET Train-the-Trainer Programme" class="md-nav__button md-logo" aria-label="ELIXIR-GOBLET Train-the-Trainer Programme" data-md-component="logo">
+      
+  <img src="../assets/images/white-orange-logo.png" alt="logo">
+
+    </a>
+    ELIXIR-GOBLET Train-the-Trainer Programme
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/elixir-europe-training/ELIXIR-TrP-GOBLET-Train-the-Trainer" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    elixir-europe-training/ELIXIR-TrP-GOBLET-Train-the-Trainer
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Home
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ELIXIR-GOBLET Train-the-Trainer Lessons
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapters/glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Glossary
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapters/about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    What is the TtT
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 1
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Session 1
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 2
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Session 2
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    home
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#presentation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Presentation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#session-2-part-i-introduction-and-learning-outcomes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Session 2 - Part I - Introduction and Learning Outcomes
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#session-2-part-ii-learning-outcomes-three-frameworks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Session 2 - Part II - Learning Outcomes: Three Frameworks
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#session-2-part-iii-syllabus-and-learning-experiences" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Session 2 - Part III - Syllabus and Learning Experiences
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#session-2-part-iv-backward-instructional-design" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Session 2 - Part IV - Backward Instructional Design
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#session-2-part-v-concept-maps-and-content-reduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Session 2 - Part V - Concept Maps and Content Reduction
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#session-2-part-vi-giving-and-receiving-feedback" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Session 2 - Part VI - Giving and Receiving Feedback
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#session-2-part-vii-developing-content-and-the-lesson-plan" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Session 2 - Part VII - Developing Content and the Lesson Plan
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#session-2-part-viii-delivering-and-evaluating-the-mini-training" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Session 2 - Part VIII - Delivering and Evaluating the Mini-Training
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#session-2-summary-and-key-takeaways" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Session 2 - Summary and Key Takeaways
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 3
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Session 3
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Session 4
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Session 4
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../session_4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<div><h1 id="session-2-design-and-plan-session-course-and-materials">Session 2 - Design and Plan: Session, Course, and Materials</h1>
+<h2 id="presentation">Presentation</h2>
+<p>Here you can find the presentation for this session:</p>
+<iframe src="https://docs.google.com/presentation/d/1-TBwgYW1WnhorNP1vVW70SJ2prYCgSHv/preview" width="640" height="360" allow="autoplay"></iframe>
+
+<p>The full presentation can be downloaded <a href="https://docs.google.com/presentation/d/1-TBwgYW1WnhorNP1vVW70SJ2prYCgSHv/edit?usp=sharing&amp;ouid=117857355916723671329&amp;rtpof=true&amp;sd=true">[here]</a>.</p>
+<h2 id="session-2-part-i-introduction-and-learning-outcomes">Session 2 - Part I - Introduction and Learning Outcomes</h2>
+<p><a name="part-i-introduction-and-learning-outcomes"></a></p>
+<h3 id="welcome-and-roadmap">Welcome and roadmap</h3>
+<p>Session 2 moves from theory into practice: designing and delivering an actual mini-training. By the end of this session, participants will have planned, designed, developed, delivered, and evaluated a short training module of their own.</p>
+<p>The session follows five phases, in order:</p>
+<ol>
+<li><strong>Plan</strong> a mini-training - define the target audience, define Learning Outcomes.</li>
+<li><strong>Design</strong> a mini-training - differentiate a Syllabus from a lesson plan, write the basics of a Syllabus, draw a concept map to define content.</li>
+<li><strong>Develop</strong> a mini-training - write a lesson plan.</li>
+<li><strong>Deliver</strong> a mini-training - prepare and present a small lecture.</li>
+<li><strong>Evaluate</strong> the mini-training - continuous improvement.</li>
+</ol>
+<div class="admonition tip">
+<p class="admonition-title">For trainers running this session</p>
+<p>This roadmap is worth stating explicitly at the very start (it’s given almost word-for-word twice in the source slides - once as a warm-up, once alongside the formal Learning Outcomes) - participants benefit from hearing where the session is headed before diving in.</p>
+</div>
+<h3 id="learning-outcomes-for-session-2">Learning Outcomes for Session 2</h3>
+<p>By the end of this session, you will be able to:</p>
+<ul>
+<li><strong>Plan</strong> a mini-training: define the target audience; define <a href="glossary.md#glossary-learning-outcomes">Learning Outcomes</a>.</li>
+<li><strong>Design</strong> a mini-training: differentiate a Syllabus and a lesson plan; write the basics of a Syllabus; draw a concept map to define content.</li>
+<li><strong>Develop</strong> a mini-training: write a lesson plan.</li>
+<li><strong>Deliver</strong> a mini-training: prepare and present a small lecture.</li>
+<li><strong>Evaluate</strong> your mini-training: continuous improvement.</li>
+</ul>
+<hr>
+<h3 id="challenge-how-do-you-currently-plan-and-design-a-training-session">Challenge - How do you currently plan and design a training session?</h3>
+<p><a name="challenge-current-planning-practice"></a></p>
+<div class="admonition question">
+<p class="admonition-title">Challenge - How do you currently plan and design a training session or course? (5 min, individual)</p>
+<p>Review the list of potential actions for planning and designing a training session (below). Reflect on your own practice:</p>
+<ul>
+<li>Which actions do you already use?</li>
+<li>What order do you follow?</li>
+</ul>
+<p>Write your approach in the shared doc.</p>
+</div>
+<p>The list of potential actions to reflect on:</p>
+<ul>
+<li><strong>Plan learning activities</strong> - lecture, work in groups, flipped class.</li>
+<li><strong>Define prerequisites</strong> - reflect on needed prior knowledge and skills; define session prerequisites.</li>
+<li><strong>Develop content and materials</strong> - identify session topics; create slides; prepare tutorials/exercises.</li>
+<li><strong>Identify target audience</strong> - who is my target audience? What are its training needs?</li>
+<li><strong>Define Learning Outcomes</strong> - reflect on what learners will be able to do by the end of the session; write the LOs.</li>
+<li><strong>Create formative assessment</strong> - reflect on how to assess learners’ progress and how to collect and give feedback; create materials accordingly.</li>
+<li><strong>Plan final evaluation</strong> - reflect on how you will evaluate learner achievement; prepare a final test.</li>
+<li><strong>Define Teaching Goals</strong> - reflect on your own goals and intentions as an instructor.</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">For trainers running this session</p>
+<p>There’s no single right order for this list - the point of the reflection is to surface that everyone already does <em>some</em> of this, often implicitly, and that the rest of the session will give it a more deliberate structure.</p>
+</div>
+<h3 id="the-training-life-cycle">The training life cycle</h3>
+<p>This session is built around a simplified version of the training life cycle developed by the ELIXIR training platform.<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup></p>
+<div class="highlight"><pre><span></span><code>flowchart LR
+    P[Plan] --&gt; D[Design] --&gt; DV[Develop] --&gt; DL[Deliver] --&gt; E[Evaluate] -.continuous improvement.-&gt; P
+</code></pre></div>
+<ul>
+<li><strong>Plan</strong> - assess training needs; define Learning Outcomes as a form of retro-planning (starting from the destination and working backward).</li>
+<li><strong>Design</strong> - put together the Syllabus, lesson plan, and Learning Experiences.</li>
+<li><strong>Develop</strong> - create the tangible materials needed to achieve the Learning Outcomes.</li>
+<li><strong>Deliver</strong> - ensure an effective and inclusive course.</li>
+<li><strong>Evaluate</strong> - continuously improve the training experience.</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">For trainers running this session</p>
+<p>This is a deliberately simplified picture. The full training life cycle covers more ground (finding suitable trainers, logistics, budget) than this session addresses - Session 2 focuses specifically on Plan, Design, Develop, Deliver, and Evaluate as they apply to building one mini-training.</p>
+</div>
+<hr>
+<h2 id="session-2-part-ii-learning-outcomes-three-frameworks">Session 2 - Part II - Learning Outcomes: Three Frameworks</h2>
+<p><a name="part-ii-three-frameworks"></a></p>
+<h3 id="challenge-what-are-learning-outcomes">Challenge - What are Learning Outcomes?</h3>
+<p><a name="challenge-define-los-yourself"></a></p>
+<div class="admonition question">
+<p class="admonition-title">Challenge - What are Learning Outcomes? (2 min, individual)</p>
+<p>In your own words, write in the shared doc what you think a Learning Outcome is.</p>
+</div>
+<div class="admonition tip">
+<p class="admonition-title">For trainers running this session</p>
+<p>Follow with a 3-minute group discussion before revealing the formal answer below - let participants compare their own definitions first.</p>
+</div>
+<h3 id="three-frameworks-toward-good-learning-outcomes">Three frameworks toward good Learning Outcomes</h3>
+<p>There’s more than one way to think about what makes a Learning Outcome effective, but three frameworks - used together - make your LOs sharper and more useful, both as a planning tool for you and as a guide for learners’ expectations and progress.</p>
+<div class="highlight"><pre><span></span><code>flowchart LR
+    B["Bloom's Taxonomy&lt;br/&gt;cognitive complexity"] --&gt; LO[Learning Outcomes]
+    K["KSAs&lt;br/&gt;what kind of competence"] --&gt; LO
+    S["SMART&lt;br/&gt;quality of the statement"] --&gt; LO
+</code></pre></div>
+<p><strong><a href="glossary.md#glossary-blooms-taxonomy">Bloom’s Taxonomy</a></strong> - already introduced in Session 1: the six levels of cognitive complexity (Remember, Understand, Apply, Analyze, Evaluate, Create), each paired with observable action verbs.</p>
+<p><strong>The KSA framework</strong> - specifies which kind of competence learners will demonstrate:</p>
+<ul>
+<li><strong>Knowledge</strong> - theoretical and practical understanding.</li>
+<li><strong>Skills</strong> - practical application of that knowledge.</li>
+<li><strong>Abilities</strong> - the capacity to actually perform a task.</li>
+</ul>
+<p>For example: does a learner need to understand programming logic (Knowledge)? Use Python (Skill)? Solve a novel problem with it (Ability)? Each is a different competence, and naming which one you’re targeting changes what a good Learning Outcome looks like.<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup></p>
+<p><strong>The SMART framework</strong> - defines what’s expected of learners in a way that’s genuinely usable:</p>
+<ul>
+<li><strong>Specific</strong> - unambiguous.</li>
+<li><strong>Measurable</strong> - progress can be tracked.</li>
+<li><strong>Achievable</strong> - a real challenge, but within reach (an unreachable goal demotivates rather than stretches).</li>
+<li><strong>Relevant</strong> - aligned with the learner’s educational or professional goals.</li>
+<li><strong>Time-bound</strong> - a clear timeline.</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">For trainers running this session</p>
+<p>Recommended further reading on writing outcomes: the Stanford Center for Teaching and Learning’s guide to crafting learning outcomes.<sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup></p>
+</div>
+<h3 id="putting-it-together-what-is-a-learning-outcome">Putting it together: what is a Learning Outcome?</h3>
+<p>A <strong><a href="glossary.md#glossary-learning-outcomes">Learning Outcome</a></strong> is a statement expressing what learners will be able to demonstrate after a lesson. That statement matters for three different audiences at once: it helps <em>you</em> design the learning experience, it tells <em>learners</em> what they’re working toward, and it lets <em>other trainers</em> reuse your material with a clear sense of what it achieves.</p>
+<ul>
+<li>Should be <strong>SMART</strong>.</li>
+<li>Should express which <strong>KSAs</strong> are being targeted.</li>
+<li>Can benefit from <strong>Bloom’s</strong> action verbs to make it specific and assessable.</li>
+</ul>
+<h3 id="why-the-verb-matters-the-dna-sequencing-example">Why the verb matters: the DNA sequencing example</h3>
+<p>Consider this Learning Outcome: <em>“By the end of the course, learners will know the DNA sequencing process.”</em></p>
+<p>At first glance this seems fine - but the verb <strong>“know”</strong> is vague and hard to assess. What does “knowing” actually look like? Can the learner describe the process? Apply it? Analyze or evaluate it? If you don’t specify what learners should be able to <em>do</em> with the knowledge, you risk designing assessments that are either too broad or not meaningful.</p>
+<p>Bloom’s action verbs solve this: instead of “know,” you might ask whether learners can <strong>describe</strong>, <strong>explain</strong>, <strong>demonstrate</strong>, <strong>illustrate</strong>, or <strong>apply</strong> the process. A revised version: <em>“By the end of the course, learners will be able to describe the steps of the DNA sequencing process.”</em> Now you can genuinely assess understanding - through written explanations, diagrams, or presentations.</p>
+<h3 id="teaching-goal-vs-learning-outcome-revisited">Teaching Goal vs. Learning Outcome, revisited</h3>
+<p>Recall the distinction from Session 1: <strong><a href="glossary.md#glossary-teaching-goals">Teaching Goals</a></strong> describe what <em>you</em> intend to teach; <strong>Learning Outcomes</strong> describe what <em>learners</em> will be able to do. Having a clear Teaching Goal upfront makes it much easier to write clear LOs.</p>
+<p>A worked example:</p>
+<ul>
+<li><strong>Teaching Goal:</strong> How the PCR cycles enable DNA replication.</li>
+<li><strong>Learning Outcomes:</strong><ul>
+<li>Describe each step of the PCR.</li>
+<li>Explain the function of each step in the cycle.</li>
+</ul>
+</li>
+</ul>
+<p>A few more side-by-side examples of “what you plan to teach” (Teaching Goal framing) versus “what learners will be able to do” (LO framing):</p>
+<ul>
+<li>How the PCR cycles enable DNA replication, <em>or</em> how to perform the key steps to run a PCR?</li>
+<li>Fixing an earplug in 3 minutes, <em>or</em> finding the best guiding video in 3 minutes so you can fix your earplugs yourself?</li>
+<li>Methods to improve their training session, <em>or</em> how to create engaging presentations?</li>
+</ul>
+<h3 id="writing-learning-outcomes-using-action-verbs">Writing Learning Outcomes using action verbs</h3>
+<ul>
+<li>Use a verb that describes an <strong>observable action</strong>.</li>
+<li>You can take a general approach (“learners will be able to…”) or a personal approach (“you will be able to…”) - both work, depending on your audience and tone.</li>
+<li>Avoid verbs open to multiple interpretations (know, understand, appreciate) - these are difficult to measure and lead to vague assessments. Prefer verbs like define, analyze, compare, or construct, which are grounded in Bloom’s taxonomy.</li>
+</ul>
+<hr>
+<h3 id="challenge-complete-a-learning-outcome-using-blooms-verbs">Challenge - Complete a Learning Outcome using Bloom’s verbs</h3>
+<p><a name="challenge-complete-lo-bloom-verbs"></a></p>
+<div class="admonition question">
+<p class="admonition-title">Challenge - Complete the Learning Outcome</p>
+<p>Complete this sentence, choosing a Bloom’s-level verb deliberately:</p>
+<p><em>By the end of this course, learners will be able to <strong><em>_</em></strong>___.</em></p>
+<p>(Or, in the personal framing: <em>You will be able to <strong><em>_</em></strong>___.</em>)</p>
+</div>
+<p>Use the Bloom’s verb table below as a reference while you write:</p>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Example verbs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Remember</td>
+<td>Define, describe, list, recognize, connect, affirm, write, measure, identify</td>
+</tr>
+<tr>
+<td>Understand</td>
+<td>Compare, classify, discuss, distinguish, explain, exemplify, interpret, express, predict</td>
+</tr>
+<tr>
+<td>Apply</td>
+<td>Apply, change, choose, demonstrate, calculate, verify, explain how, predict, solve, construct, experiment, write</td>
+</tr>
+<tr>
+<td>Analyze</td>
+<td>Analyze, order, compare, conclude, criticize, diagnose, connect, distinguish, examine, justify, deduce</td>
+</tr>
+<tr>
+<td>Evaluate</td>
+<td>Evaluate, decide, determine, correct, advise, choose, compare, conclude, criticize, defend, judge, justify, quantify, synthesize</td>
+</tr>
+<tr>
+<td>Create</td>
+<td>Discuss, conclude, create, develop, formulate, generalize, generate, integrate, modify, plan, propose, design, invent</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition tip">
+<p class="admonition-title">For trainers running this session</p>
+<p>Reference: <a href="https://tips.uark.edu/using-blooms-taxonomy/">tips.uark.edu/using-blooms-taxonomy</a> for the fuller verb list.</p>
+</div>
+<hr>
+<h2 id="session-2-part-iii-syllabus-and-learning-experiences">Session 2 - Part III - Syllabus and Learning Experiences</h2>
+<p><a name="part-iii-syllabus-and-learning-experiences"></a></p>
+<h3 id="where-does-the-syllabus-actually-belong">Where does the Syllabus actually belong?</h3>
+<p>The Syllabus sits at the boundary between <strong>Plan</strong> and <strong>Design</strong> - it isn’t purely one or the other. Some of what goes into a Syllabus (the target audience, the Learning Outcomes) comes directly out of the Plan phase; the rest of it - actually structuring that into a syllabus document - is Design work. So it’s fair to think of the Syllabus as belonging to both phases at once, or as sitting right in the transition between them.</p>
+<h3 id="a-syllabus-vs-a-lesson-plan">A Syllabus vs. a lesson plan</h3>
+<p>A Syllabus and a lesson plan differ fundamentally in scope, purpose, flexibility, and who they’re for:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Syllabus</th>
+<th>Lesson plan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Scope</strong></td>
+<td>The entire course or subject across a term, outlining all topics and objectives</td>
+<td>One single lesson or class session within the broader syllabus</td>
+</tr>
+<tr>
+<td><strong>Audience</strong></td>
+<td>Student-facing - course expectations, assessment methods, policies</td>
+<td>Instructor-facing - a tactical guide for daily activities and pedagogy</td>
+</tr>
+<tr>
+<td><strong>Flexibility</strong></td>
+<td>Relatively fixed - macro-level structure and stability</td>
+<td>Dynamic and adaptable to real-time classroom needs</td>
+</tr>
+<tr>
+<td><strong>Content detail</strong></td>
+<td>Summarizes LOs, topics, grading, and required materials for the whole course</td>
+<td>Details specific objectives, procedures, materials, timing, and assessment for one lesson</td>
+</tr>
+<tr>
+<td><strong>Ownership</strong></td>
+<td>Typically created by departments or boards, aligned with curriculum standards</td>
+<td>Developed by individual trainers based on classroom context</td>
+</tr>
+</tbody>
+</table>
+<p>Together, a Syllabus scaffolds long-term learning while a lesson plan delivers effective daily instruction - they’re complementary, not competing, documents.</p>
+<hr>
+<h3 id="challenge-draft-a-syllabus">Challenge - Draft a Syllabus</h3>
+<p><a name="challenge-draft-a-syllabus"></a></p>
+<div class="admonition question">
+<p class="admonition-title">Challenge - Draft a Syllabus (12 min, individual)</p>
+<p>Choose a topic for a 3-minute lesson - something you could actually teach someone in three minutes.</p>
+<ul>
+<li>Draft the content idea (a short description - don’t spend time preparing the actual content yet).</li>
+<li>Define the target audience.</li>
+<li>Describe the prerequisites.</li>
+<li>Write 2-3 Learning Outcomes, using Bloom’s taxonomy and action verbs.</li>
+</ul>
+<p>Write your draft in the shared doc. Two or three LOs is more than enough for a 3-minute lesson.</p>
+</div>
+<div class="admonition tip">
+<p class="admonition-title">For trainers running this session</p>
+<p>This mini-training topic and Syllabus draft is the seed participants will keep building on for the rest of the session - the concept map, lesson plan, and delivery all come back to this same 3-minute topic.</p>
+</div>
+<h3 id="learning-experiences">Learning Experiences</h3>
+<p>A <strong><a href="glossary.md#glossary-learning-experience">Learning Experience (LE)</a></strong> is what a student actually does that supports learning and achieving a Learning Outcome. Some examples of genuinely varied LEs:</p>
+<ul>
+<li>Pipette coloured water into a small tube to simulate an experimental procedure.</li>
+<li>Work in groups to write an essay comparing two teaching methodologies.</li>
+<li>Taste three different types of cheese to describe and compare their flavour profiles.</li>
+<li>Read a classroom scenario and propose three practical strategies to increase learner engagement.</li>
+<li>Watch a five-minute video to gain contextual background on the topic.</li>
+<li>Taste four coffee brewing methods to distinguish and compare their flavour profiles.</li>
+</ul>
+<p>The critical question at this stage of design is always: <strong>are the Learning Experiences aligned with the Learning Outcomes?</strong> If your LO requires learners to <em>create</em> something (a high Bloom’s level), a lecture alone won’t get them there - you need an LE that actually lets them create, like a hands-on exercise or a project.</p>
+<p>If a Learning Experience doesn’t align with its Learning Outcome, you have two options: revise the Learning Experience, or revise the Learning Outcome itself. Neither is a failure - it’s exactly how this kind of design is supposed to work.</p>
+<hr>
+<h3 id="challenge-add-learning-experiences-to-your-syllabus">Challenge - Add Learning Experiences to your Syllabus</h3>
+<p><a name="challenge-add-les-to-syllabus"></a></p>
+<div class="admonition question">
+<p class="admonition-title">Challenge - Add Learning Experiences to your Syllabus (6 min, individual)</p>
+<p>For each Learning Outcome in your Syllabus draft, think through possible Learning Experiences that would be aligned with it. Choose one Learning Experience per LO, and add it to your Syllabus in the shared doc.</p>
+</div>
+<hr>
+<h2 id="session-2-part-iv-backward-instructional-design">Session 2 - Part IV - Backward Instructional Design</h2>
+<p><a name="part-iv-backward-instructional-design"></a></p>
+<h3 id="why-design-backward">Why design backward?</h3>
+<p>Traditional course design often starts with “what content should I cover?” - and plans lectures to deliver that content. <strong><a href="glossary.md#glossary-backward-design">Backward Instructional Design</a></strong> flips this entirely: it starts with the destination (what learners will be able to do) and works backward to figure out how to get there. It applies at any scale, from a 3-minute mini-training to an entire curriculum.</p>
+<p>The backward design process, in order:</p>
+<ol>
+<li><strong>Start with the end in mind</strong> - define clear Learning Outcomes, including their cognitive level.</li>
+<li><strong>Plan Learning Experiences</strong> - design activities that will actually get learners to those outcomes.</li>
+<li><strong>Determine necessary content</strong> - identify what content is needed to support those activities.</li>
+<li><strong>Plan formative assessment</strong> - design ways to monitor learning progress <em>during</em> instruction, not just at the end.</li>
+<li><strong>Evaluate achievement</strong> - determine how you’ll assess whether learners actually reached the outcomes.</li>
+</ol>
+<p>Traditional, content-first design tends to fail in predictable ways: it focuses on what the instructor will <em>do</em> rather than what the learner will <em>achieve</em>; it assumes covering content is the same as learning it; it produces passive, lecture-centred experiences; and it often leaves learners asking “why do I need to know this?”</p>
+<p>Backward design succeeds because every activity, piece of content, and assessment directly supports a defined Learning Outcome - a property sometimes called <strong>constructive alignment</strong>. It promotes active learning (since you’re designing from “what must learners do”), makes learning purposeful, enables genuinely meaningful assessment, increases efficiency (no content that doesn’t serve an LO), and better supports transfer to real-world use.</p>
+<h3 id="nicholls-five-phases-of-curriculum-design">Nicholls’ Five Phases of Curriculum Design</h3>
+<p>Backward design has a well-established structure: Nicholls’ five-phase model.<sup id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup></p>
+<div class="highlight"><pre><span></span><code>flowchart LR
+    LO["Phase 1&lt;br/&gt;Learning Outcomes"] --&gt; LE["Phase 2&lt;br/&gt;Learning Experiences"]
+    LE --&gt; C["Phase 3&lt;br/&gt;Content"]
+    C --&gt; FA["Phase 4&lt;br/&gt;Formative Assessment"]
+    FA --&gt; EV["Phase 5&lt;br/&gt;Evaluation"]
+    LE -.not aligned, revise.-&gt; LO
+    C -.doesn't support LEs, revise.-&gt; LE
+    FA -.doesn't monitor progress, revise.-&gt; C
+    EV -.LOs not achieved, revise.-&gt; LO
+</code></pre></div>
+<p><strong>Phase 1 - Learning Outcomes.</strong> Everything starts here - LOs are the destination. If you don’t know where you’re going, you can’t choose the right vehicle, plan the route, or know when you’ve arrived. LOs must be SMART. Ask: <em>are my Learning Outcomes clear and measurable? Can learners actually achieve them in the time available?</em></p>
+<p><strong>Phase 2 - Learning Experiences.</strong> Select or develop the experiences that will get learners to those outcomes. Ask: <em>are the Learning Experiences aligned with the Learning Outcomes?</em> If not aligned, revise the LEs (try again) or revise the LOs (go back to Phase 1).</p>
+<p><strong>Phase 3 - Content.</strong> Only now do we ask “what content do I need?” - content serves the Learning Experiences and Outcomes, not the other way around. Ask: <em>does the content support the Learning Experiences and promote achievement of the Learning Outcomes?</em> Content should be focused and relevant, appropriate for learners’ cognitive level, and just sufficient to support the planned activities - not exhaustive.</p>
+<p><strong>Phase 4 - Formative Assessment.</strong> Ongoing feedback and evaluation <em>during</em> the learning process, not just at the end - ideally every 15-20 minutes in a training session. Ask: <em>do assessments support learners’ progress toward the Learning Outcomes?</em> Examples: quick exercises, reflection activities, diagnostic questions, or the “3-2-1” technique (3 things learned, 2 things to explore further, 1 remaining question).</p>
+<p><strong>Phase 5 - Evaluation.</strong> The overall effectiveness of the course. Ask: <em>can learners achieve the Learning Outcomes? Is the course successful?</em> A useful comprehensive framework here is <strong><a href="glossary.md#glossary-kirkpatrick-katzell">Kirkpatrick-Katzell’s four levels</a></strong>: Reaction (how did learners feel?), Learning (what did they actually learn?), Behavior (are they applying it?), Results (what impact does this have?).</p>
+<div class="admonition tip">
+<p class="admonition-title">For trainers running this session</p>
+<p>The arrows matter as much as the boxes. This model is deliberately iterative, not a straight line: discovering that your content doesn’t support your Learning Experiences means going back and adjusting, not starting over from scratch. That’s refinement, not failure - and each iteration makes the course more effective.</p>
+</div>
+<p><strong>A practical summary to leave participants with:</strong> start by writing SMART Learning Outcomes; don’t think about content yet - think about what activities will get learners there; only then select the minimum content needed; design frequent formative assessment; plan how you’ll evaluate overall success; and be ready to iterate based on what you discover at each phase. Learning Outcomes are the north star - every decision should be justified by asking “does this help learners achieve the intended outcomes?”</p>
+<hr>
+<h2 id="session-2-part-v-concept-maps-and-content-reduction">Session 2 - Part V - Concept Maps and Content Reduction</h2>
+<p><a name="part-v-concept-maps-and-content-reduction"></a></p>
+<h3 id="what-is-a-concept-map">What is a concept map?</h3>
+<p>A <strong><a href="glossary.md#glossary-concept-map">concept map</a></strong> is a graphical strategy for organizing and representing knowledge. It combines <em>concepts</em> (usually shown as boxes or circles) with <em>relationships</em> (shown as connecting lines and linking phrases) between them. Invented by Joseph D. Novak in 1972, the method is grounded in meaningful-learning theory - it encourages learners (and trainers) to connect new information to what they already know.<sup id="fnref:5"><a class="footnote-ref" href="#fn:5">5</a></sup></p>
+<p>Concept maps are useful for structuring content logically, identifying gaps in your own understanding of a topic, and facilitating discussion and collaboration.</p>
+<h3 id="creating-a-concept-map">Creating a concept map</h3>
+<p>Concept maps are built from <strong>nodes</strong> (key terms or concepts) and <strong>edges</strong> (the relationships between them, often carrying a linking phrase like “leads to,” “requires,” or “is part of”). Start with a focus question or context to give the map direction - for example, “what are the key steps and concepts involved in DNA sequencing?” A first draft doesn’t need to be perfect; concept maps are generated through iteration and feedback.</p>
+<div class="admonition tip">
+<p class="admonition-title">For trainers running this session</p>
+<p>The source slides illustrate this with a detailed worked example mapping out different coffee-brewing methods and their flavour profiles - a genuinely rich example of nodes and edges in action, but the original author’s own notes flag it as a placeholder (“replace the example with one more closely related to training and training plans”). Treat it as provisional: useful for showing the mechanics of nodes and edges today, but a strong candidate to swap for a training-design-specific example (e.g. mapping out backward design itself) when this handbook is next revised.</p>
+</div>
+<h3 id="using-concept-maps-for-content-reduction">Using concept maps for content reduction</h3>
+<p>One of the hardest challenges in course design is <strong>content reduction</strong> - the natural, well-intentioned urge to share everything you know. With limited contact time, the temptation is to pack in as much as possible. Effective design requires the opposite, counterintuitive principle: <strong>less is more</strong>.</p>
+<p>Why content overload actually backfires:</p>
+<ul>
+<li><strong>Working memory becomes overwhelmed.</strong> Learners can only hold about 4-7 chunks of information at once (recall <a href="glossary.md#glossary-cognitive-load">cognitive load</a> from Session 1) - excessive content simply exceeds this capacity.</li>
+<li><strong>Mental models fragment.</strong> Instead of an integrated understanding, learners end up with incomplete or incorrect <a href="glossary.md#glossary-mental-model">mental models</a>, remembering isolated facts without seeing how they connect.</li>
+<li><strong>Transfer to long-term memory fails.</strong> Moving information into <a href="glossary.md#glossary-long-term-memory">long-term memory</a> needs time to process, practice, and connect - content overload doesn’t leave room for that consolidation.</li>
+<li><strong>The <a href="glossary.md#glossary-expert-blind-spot">expert blind spot</a> makes it worse.</strong> As experts, we’ve automated foundational skills, see connections instantly that novices can’t, and underestimate how long “obvious” things take to learn. Failing to reduce content means teaching at expert pace to novices.</li>
+<li><strong>It demotivates learners.</strong> Overload creates a sense of inadequacy (“everyone else gets this, but I don’t”), which can lead to disengagement or drop-out.</li>
+</ul>
+<p>Concept maps are a genuinely practical tool for reducing content, not just organizing it:</p>
+<ul>
+<li>They force you to explicitly identify <strong>core concepts</strong> (the well-connected nodes) versus <strong>peripheral concepts</strong> (the ones with few connections) - the latter are candidates for removal.</li>
+<li>They reveal the <strong>learning path</strong>: which concepts are prerequisite to others, and what’s the minimum viable path through the material.</li>
+<li>A simplified concept map can even be shared with learners, to help them see the big picture and where to focus attention.</li>
+</ul>
+<p><strong>A practical technique: the “parking lot.”</strong> Map out everything you initially think should be included. Identify the key points that directly support your Learning Outcomes. Everything else goes into a “parking lot” - interesting, related, but not essential material, kept as optional extension content for learners who move faster or want to go deeper. This satisfies the expert’s urge to share comprehensive knowledge without overloading everyone else.</p>
+<p>Content reduction isn’t about covering less ground for its own sake - it’s about learning more deeply. Every minute spent on unnecessary content is a minute not spent processing, practicing, and consolidating what actually matters. As always, the content you keep should be calibrated to where your actual learners are starting from, not where you are as an expert.</p>
+<div class="admonition tip">
+<p class="admonition-title">For trainers running this session</p>
+<p>A useful mindset shift to leave participants with: from “what can I teach?” to “what must learners be able to do?”; from “how much can I cover?” to “how deeply can learners learn?” Practical guideline: start with your Learning Outcomes, map your topic, identify the critical path, cut anything that doesn’t directly support an LO, test your timing, and prepare extension material separately.</p>
+</div>
+<hr>
+<h3 id="challenge-draw-a-concept-map-for-your-mini-lesson">Challenge - Draw a concept map for your mini-lesson</h3>
+<p><a name="challenge-draw-concept-map"></a></p>
+<div class="admonition question">
+<p class="admonition-title">Challenge - Draw a Concept Map for your mini-lesson (15 min, individual)</p>
+<p>Create a concept map for your 3-minute training topic:</p>
+<ul>
+<li>Begin with a focus question - one that your concept map will answer.</li>
+<li>Identify 5-9 key concepts learners need to understand to answer that question.</li>
+<li>Map the relationships between them, using labeled connecting lines (e.g. “leads to,” “requires,” “includes”).</li>
+<li>Add cross-links between concepts in different areas of your map where they genuinely relate.</li>
+<li>Arrange it hierarchically - the most general concepts at the top, more specific ones below.</li>
+</ul>
+<p>Share a screenshot of your map in the shared doc, with your name.</p>
+</div>
+<hr>
+<h2 id="session-2-part-vi-giving-and-receiving-feedback">Session 2 - Part VI - Giving and Receiving Feedback</h2>
+<p><a name="part-vi-giving-and-receiving-feedback"></a></p>
+<p>A short but important detour before the next Challenge, since it involves pairing up to give each other feedback on your concept maps.</p>
+<h3 id="feedback-is-information-meant-for-improvement">Feedback is information meant for improvement</h3>
+<p>Effective feedback focuses on specific behaviors or outcomes, is timely and relevant, encourages reflection and self-correction, and supports continuous improvement. As trainers, the goal is to create a safe space where feedback is welcomed as a tool for growth, not experienced as criticism.</p>
+<p>Feedback should be <strong>constructive</strong> - specific, respectful, and focused on improvement, not just on pointing out what went wrong. It should guide the learner toward what they can do better next time, sparking genuine reflection rather than defensiveness. Before giving feedback, it’s worth asking yourself: is it clear and actionable? Does it encourage growth? Is it delivered in a way that motivates rather than discourages?</p>
+<p>When <em>receiving</em> feedback, the goal is to stay open and curious - ask questions, reflect on what you’ve heard, and treat it as a stepping stone rather than a verdict. Feedback works best as a dialogue, not a judgment.</p>
+<h3 id="how-to-give-feedback-well">How to give feedback well</h3>
+<ul>
+<li>Listen actively and attentively before responding.</li>
+<li>Do not interrupt one another.</li>
+<li>Challenge one another, but do so respectfully.</li>
+<li>Critique ideas, not people.</li>
+<li>Speak from your own experience, without generalizing (use “I noticed…” or “I felt…” rather than assumptions about others).</li>
+<li>Take responsibility for the quality of the discussion.</li>
+</ul>
+<h3 id="how-to-receive-feedback-well">How to receive feedback well</h3>
+<ul>
+<li>Ask for clarification if you’re confused.</li>
+<li>Build on one another’s comments; work toward shared understanding.</li>
+<li>Do not monopolize the discussion.</li>
+<li>Do not offer opinions without supporting evidence.</li>
+<li>If you’re offended by anything said, acknowledge it immediately rather than letting it sit.</li>
+</ul>
+<hr>
+<h3 id="challenge-share-your-concept-map">Challenge - Share your concept map</h3>
+<p><a name="challenge-share-concept-map"></a></p>
+<div class="admonition question">
+<p class="admonition-title">Challenge - Share the Concept Map (6 min, pairs)</p>
+<p>Pair up (breakout rooms). Exchange concept maps - show which one is yours, without explaining it.</p>
+<p>Each of you writes in the shared doc:</p>
+<ul>
+<li>One thing you’re confused about, or not sure about, in your partner’s map.</li>
+<li>One thing you like, or that is clear, about your partner’s map.</li>
+</ul>
+</div>
+<div class="admonition tip">
+<p class="admonition-title">For trainers running this session</p>
+<p>Follow with about 5 minutes of open sharing time before moving on.</p>
+</div>
+<hr>
+<h2 id="session-2-part-vii-developing-content-and-the-lesson-plan">Session 2 - Part VII - Developing Content and the Lesson Plan</h2>
+<p><a name="part-vii-developing-content-and-lesson-plan"></a></p>
+<h3 id="how-do-you-start-developing-content">How do you start developing content?</h3>
+<p>There’s no single right starting point - these approaches combine well:</p>
+<ul>
+<li><strong>Start from your own knowledge.</strong> Your expertise is a valuable foundation - outline what you already know first.</li>
+<li><strong>Look for reference material.</strong> Books, articles, trusted websites, and existing training resources (e.g. <a href="https://tess.elixir-europe.org/">TeSS, the ELIXIR Training e-Support System</a>) enrich and validate your content.</li>
+<li><strong>Make a slide presentation.</strong> Visualizing ideas early helps structure the flow and surface gaps.</li>
+<li><strong>Discuss with other specialists.</strong> Collaboration brings new perspectives and improves accuracy.</li>
+<li><strong>Write the content for reference</strong> (e.g. a Markdown file or Word document) - a durable resource you can refine and reuse.</li>
+</ul>
+<p>Recall from Nicholls’ Phase 3: content should be focused and relevant (not trying to cover everything), appropriate for the learners’ cognitive level, and just sufficient to support the planned Learning Experiences - not exhaustive.</p>
+<p>Once you have a concept map, developing content becomes more concrete:</p>
+<ul>
+<li>Look back at your concept map and brainstorm an <strong>ordered list of topics</strong> - this becomes the backbone of your training.</li>
+<li>Each node needs content development: slides, text, activities, or a combination.</li>
+<li>Keep your target audience in mind throughout - their expected needs, prior knowledge, and capabilities.</li>
+<li>Connect everything back to your lesson plan, so content, activities, and outcomes stay coherent.</li>
+</ul>
+<h3 id="basics-of-a-lesson-plan">Basics of a lesson plan</h3>
+<p>A <strong><a href="glossary.md#glossary-lesson-plan">lesson plan</a></strong> is your roadmap for delivering a structured, effective learning experience - it keeps you organized, focused, and aligned with your Learning Outcomes. Shared with learners, it also gives them transparency: a guide for self-study, tracking progress, and self-assessment.</p>
+<p>A lesson plan is a time distribution of a lesson, supporting the content dimension and organized for reproducibility. A worked example schedule for a longer session:</p>
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Segment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10 min</td>
+<td>Introduction</td>
+</tr>
+<tr>
+<td>30 min</td>
+<td>Lecture</td>
+</tr>
+<tr>
+<td>15 min</td>
+<td>Activity</td>
+</tr>
+<tr>
+<td>15 min</td>
+<td>Coffee break</td>
+</tr>
+<tr>
+<td>45 min</td>
+<td>Lecture</td>
+</tr>
+<tr>
+<td>10 min</td>
+<td>Activity</td>
+</tr>
+<tr>
+<td>10 min</td>
+<td>Discussion</td>
+</tr>
+<tr>
+<td>1 hour</td>
+<td>Lunch</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition tip">
+<p class="admonition-title">For trainers running this session</p>
+<p>The “less is more” principle from content reduction applies directly here. Overloading a schedule with back-to-back content risks the same fragmented mental models and demotivation discussed above - and it’s easy to fall into the expert-gap trap of moving too fast. Reduce content to the key points, and keep some spare material ready in case a particular group has more background and can move faster.</p>
+</div>
+<p>For each segment of your lesson plan, define:</p>
+<ul>
+<li><strong>Time</strong> - how long the activity takes.</li>
+<li><strong>Teaching Goal / purpose</strong> - the instructional objective for that segment.</li>
+<li><strong>Learning Outcome</strong> - what learners will be able to do by the end of the activity.</li>
+<li><strong>Activity (Learning Experience)</strong> - what learners will actually do.</li>
+<li><strong>Description</strong> - a detailed description of the activity.</li>
+<li><strong>Materials</strong> - links to slides, PDFs, shared docs, videos, etc.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Activity (LEs)</th>
+<th>Description</th>
+<th>Materials</th>
+<th>LOs</th>
+<th>Teaching goal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>…</td>
+<td>Introduction</td>
+<td>Tour of the table, everyone introduces themselves</td>
+<td>Game (e.g. Kahoot)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>…</td>
+<td>Ice breaker</td>
+<td>Each person shares what tea they’d be, and why</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>…</td>
+<td>Lecture</td>
+<td>Explaining the core concept</td>
+<td>Slides</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>…</td>
+<td>Group work</td>
+<td>Groups of 3 work through a task together</td>
+<td>Shared docs</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>…</td>
+<td>Group discussion</td>
+<td>Each group shares their thoughts</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="challenge-produce-the-content-for-your-mini-training">Challenge - Produce the content for your mini-training</h3>
+<p><a name="challenge-produce-mini-training-content"></a></p>
+<div class="admonition question">
+<p class="admonition-title">Challenge - Produce the content and training material for your mini-lesson (15 min, individual)</p>
+<p>It’s time to prepare the actual content of your mini-training. Suggested structure:</p>
+<ul>
+<li>20 seconds - introduction</li>
+<li>2 minutes 20 seconds - on topic</li>
+<li>20 seconds - conclusion</li>
+</ul>
+<p>Use your concept map as support. Ask yourself: do you need any material support? Recall from Session 1:</p>
+<ul>
+<li><a href="glossary.md#glossary-chunking">Dual coding</a></li>
+<li>Concrete examples</li>
+<li><a href="glossary.md#glossary-chunking">Chunking</a></li>
+<li>Avoiding <a href="glossary.md#glossary-cognitive-load">cognitive load</a></li>
+</ul>
+</div>
+<hr>
+<h2 id="session-2-part-viii-delivering-and-evaluating-the-mini-training">Session 2 - Part VIII - Delivering and Evaluating the Mini-Training</h2>
+<p><a name="part-viii-delivering-and-evaluating"></a></p>
+<h3 id="challenge-deliver-your-mini-training">Challenge - Deliver your mini-training</h3>
+<p><a name="challenge-deliver-mini-training"></a></p>
+<div class="admonition question">
+<p class="admonition-title">Challenge - Deliver mini-training (~20 min, groups)</p>
+<p>Each participant has 3 minutes to deliver their session.</p>
+<p><strong>During delivery:</strong></p>
+<ul>
+<li>The trainer delivers the session.</li>
+<li>Learners take notes for real-time feedback.</li>
+</ul>
+<p><strong>During feedback time:</strong></p>
+<ul>
+<li>The trainer shares a self-assessment (their own feedback on their delivery first).</li>
+<li>Learners then provide feedback: one good thing, and one thing to improve.</li>
+</ul>
+<p>Useful criteria to keep in mind while observing: Learning Outcomes, Learning Experiences, Teaching Goal, and whether the timing actually fit.</p>
+</div>
+<div class="admonition tip">
+<p class="admonition-title">For trainers running this session</p>
+<p>Follow with about 5 minutes of open sharing time before moving to the Evaluate phase.</p>
+</div>
+<h3 id="reflecting-to-improve-the-first-step-of-evaluation">Reflecting to improve: the first step of evaluation</h3>
+<p>Learning Outcomes should map cleanly to Learning Experiences, and both should map back to the course or session’s aim and title: <strong>title -&gt; aim -&gt; Learning Outcomes -&gt; Learning Experiences</strong>, each one flowing logically from the one before it.</p>
+<p>Two recap diagrams from earlier in the session are worth revisiting at this point, now that you’ve actually been through the full cycle once:</p>
+<ul>
+<li><strong><a href="glossary.md#glossary-backward-design">Backward instructional design</a>, in five steps:</strong> select Learning Outcomes; select Learning Experiences to achieve them; select content based on the LOs; identify or develop assessments to track progress toward the LOs; self-evaluate the effectiveness of your Learning Experiences in actually leading learners to the LOs.</li>
+<li><strong><a href="#part-iv-backward-instructional-design">Nicholls’ cycle</a></strong>, revisited: the same five phases, with the same core question at each step - does this element support the previous one, and promote the Learning Outcomes? If a proposition to move forward is denied at any phase, that’s the model doing its job: it’s telling you where to go back and revise.</li>
+</ul>
+<hr>
+<h3 id="challenge-self-reflect-on-your-initial-learning-outcomes">Challenge - Self-reflect on your initial Learning Outcomes</h3>
+<p><a name="challenge-reflect-on-initial-los"></a></p>
+<div class="admonition question">
+<p class="admonition-title">Challenge - Self-reflect on your initial LOs (2 min, individual)</p>
+<p>Based on the delivery of your mini-training session, look back at the Learning Outcomes you set at the very start:</p>
+<ul>
+<li>Were learners actually able to achieve the LOs you set?</li>
+<li>Did your training session lead learners to achieve them?</li>
+</ul>
+</div>
+<hr>
+<h2 id="session-2-summary-and-key-takeaways">Session 2 - Summary and Key Takeaways</h2>
+<p><a name="summary-and-key-takeaways"></a></p>
+<p>Session 2 turned the theory from Session 1 into a repeatable design process, walked end-to-end through one full mini-training: planning it, designing it, developing its content, delivering it, and evaluating it.</p>
+<p><strong>The thread running through all five phases is backward design:</strong> start from Learning Outcomes, not content. Select Learning Experiences aligned with those outcomes. Only then figure out what content is actually needed - and keep it lean, since content reduction protects learners from the same cognitive overload covered in Session 1. Build in formative assessment throughout, not just a final test. And treat evaluation as the start of the next iteration, not an ending.</p>
+<p>Three frameworks - <strong>Bloom’s Taxonomy</strong>, <strong>KSAs</strong>, and <strong>SMART</strong> - work together to make a Learning Outcome genuinely usable, both for you as a design tool and for learners as a guide to what’s expected of them. And two practical tools carry the design process forward: the <strong>concept map</strong>, for organizing and reducing content, and the <strong>lesson plan</strong>, for turning a designed course into something deliverable, minute by minute.</p>
+<p>Feedback - both giving and receiving it well - turned out to be a practical skill in its own right, not just a nice-to-have, since so much of this session’s own learning happened through peers reviewing each other’s concept maps and mini-training deliveries.</p>
+<p>Before moving to Session 3, take a moment to think about:</p>
+<ul>
+<li>One thing you understood and feel you can already put into practice.</li>
+<li>One thing you’re not sure of, and would want more clarification on.</li>
+</ul>
+<div class="footnote">
+<hr>
+<ol>
+<li id="fn:1">
+<p>ELIXIR Training Platform, <a href="https://elixir-europe-training.github.io/ELIXIR-Training-SPLASH/">ELIXIR-Training-SPLASH</a>. <a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">↩</a></p>
+</li>
+<li id="fn:2">
+<p>TeachFloor, <a href="https://www.teachfloor.com/elearning-glossary/knowledge-skills-abilities-ksa">Knowledge, Skills, Abilities (KSA)</a>. <a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">↩</a></p>
+</li>
+<li id="fn:3">
+<p>Stanford Center for Teaching and Learning, <a href="https://irds.stanford.edu/sites/g/files/sbiybj10071/f/clo.pdf">Crafting Learning Outcomes</a>. <a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">↩</a></p>
+</li>
+<li id="fn:4">
+<p>Nicholls, G. (2002). <em>Developing Teaching and Learning in Higher Education.</em> Routledge, pp. 51-75. As presented in: Via, A., Palagi, P.M., Lindvall, J.M., et al. (2020). Course design: Considerations for trainers - a Professional Guide. <em>F1000Research</em>, 9:1377. doi: 10.7490/f1000research.1118395.1. <a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text">↩</a></p>
+</li>
+<li id="fn:5">
+<p>Novak, J.D. &amp; Canas, A.J. <em>The Theory Underlying Concept Maps and How to Construct and Use Them.</em> Florida Institute for Human and Machine Cognition. <a class="footnote-backref" href="#fnref:5" title="Jump back to footnote 5 in the text">↩</a></p>
+</li>
+</ol>
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../session_1/" class="md-footer__link md-footer__link--prev" aria-label="Previous: home">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                home
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../session_3/" class="md-footer__link md-footer__link--next" aria-label="Next: home">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                home
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      By the ELIXIR Training Platform
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.top", "navigation.footer", "toc.integrate", "navigation.tabs"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>
