@@ -1,15 +1,17 @@
 site_name: ELIXIR-GOBLET Train-the-Trainer Programme
 nav:
-  - Home: index.md
-  - What is the TtT: chapters/chapter_01.md
+  - Home: 
+    - index.md
+    - Glossary: chapters/glossary.md
+  - What is the TtT: chapters/about.md
   - Session 1:
-    - home: module_1/index.md
+    - home: session_1/index.md
   - Session 2:
-    - home: module_2/index.md
-  - Session 3: 
-    - home: module_3/index.md
-  - Session 4: 
-    - home: module_4/index.md
+    - home: session_2/index.md
+  - Session 3:
+    - home: session_3/index.md
+  - Session 4:
+    - home: session_4/index.md
 
 theme:
   name: material
