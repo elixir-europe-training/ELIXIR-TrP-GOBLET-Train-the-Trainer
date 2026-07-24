@@ -25,7 +25,15 @@ document.addEventListener('DOMContentLoaded', function () {
 
   var contentRoot = document.getElementById('content') || document.getElementById('main') || document.body;
 
-  fetch('/glossary')
+  // Derive the site's baseurl from this very script's own resolved <script src>,
+  // rather than hardcoding a root-absolute path - this file is a plain static
+  // asset (not Liquid-processed), but the theme's own head.html always loads it
+  // via the `relative_url` filter, so its src reliably carries any baseurl.
+  var scriptTag = document.querySelector('script[src*="assets/js/custom.js"]');
+  var baseurl = scriptTag ? scriptTag.getAttribute('src').replace(/\/assets\/js\/custom\.js.*$/, '') : '';
+  var glossaryUrl = baseurl + '/glossary';
+
+  fetch(glossaryUrl)
     .then(function (response) { return response.text(); })
     .then(function (html) {
       var glossaryDoc = new DOMParser().parseFromString(html, 'text/html');
@@ -100,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Any glossary link already present in the markdown source still gets a popover.
   function enhanceExistingGlossaryLinks(terms) {
     Array.prototype.forEach.call(
-      document.querySelectorAll('a[href*="/glossary#glossary-"]'),
+      document.querySelectorAll('a[href*="glossary#glossary-"]'),
       function (link) {
         var hash = link.getAttribute('href').split('#')[1];
         var term = terms.filter(function (t) { return t.hash === hash; })[0];
@@ -158,7 +166,7 @@ document.addEventListener('DOMContentLoaded', function () {
       frag.appendChild(document.createTextNode(text.slice(cursor, earliest.index)));
 
       var link = document.createElement('a');
-      link.href = '/glossary#' + earliest.term.hash;
+      link.href = glossaryUrl + '#' + earliest.term.hash;
       link.textContent = earliest.text;
       attachPopover(link, earliest.term);
       frag.appendChild(link);
