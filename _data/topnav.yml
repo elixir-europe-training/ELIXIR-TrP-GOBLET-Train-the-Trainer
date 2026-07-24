@@ -1,0 +1,17 @@
+subitems:
+  - title: Home
+    url: /index
+  - title: What is the TtT
+    url: /about
+  - title: Sessions
+    subitems:
+      - title: Session 1
+        url: /session_1
+      - title: Session 2
+        url: /session_2
+      - title: Session 3
+        url: /session_3
+      - title: Session 4
+        url: /session_4
+  - title: Glossary
+    url: /glossary

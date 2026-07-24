@@ -1,0 +1,35 @@
+- title: Session 1
+  description: Principles of learning - how they apply to training and teaching
+  icon: fa-solid fa-brain
+  type: Session
+  id: session_1
+  url: /session_1
+  status: Available
+  order: 1
+
+- title: Session 2
+  description: "Design and plan: session, course, and materials"
+  icon: fa-solid fa-diagram-project
+  type: Session
+  id: session_2
+  url: /session_2
+  status: Available
+  order: 2
+
+- title: Session 3
+  description: Enhancing learner participation and engagement
+  icon: fa-solid fa-users
+  type: Session
+  id: session_3
+  url: /session_3
+  status: Available
+  order: 3
+
+- title: Session 4
+  description: Assessment and feedback in training and teaching
+  icon: fa-solid fa-clipboard-check
+  type: Session
+  id: session_4
+  url: /session_4
+  status: In development
+  order: 4

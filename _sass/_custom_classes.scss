@@ -1,0 +1,104 @@
+/*------Glossary term popovers------*/
+.glossary-popover-enabled {
+  text-decoration: underline dotted;
+  text-decoration-color: currentColor;
+  text-underline-offset: 2px;
+}
+
+.popover {
+  max-width: 320px;
+}
+
+/*------Top navigation hover------*/
+.navbar-nav .nav-item > a:hover,
+.dropdown-item:hover,
+.dropdown-item:focus {
+  color: $accent-color;
+}
+
+.admonition {
+  border: 1px solid;
+  border-radius: 0.25rem;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+
+  .admonition-title {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+
+  > *:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.admonition-tip {
+  border-color: $success;
+  background-color: rgba($success, 0.08);
+
+  .admonition-title {
+    color: $success;
+  }
+}
+
+.admonition-question {
+  border-color: $primary;
+  background-color: rgba($primary, 0.08);
+
+  .admonition-title {
+    color: $primary;
+  }
+}
+
+.admonition-overview {
+  border-color: $info;
+  background-color: rgba($info, 0.08);
+
+  .admonition-title {
+    color: $info;
+  }
+}
+
+/*------Session navigation tiles------*/
+.navigation-tiles {
+  .card:hover {
+    box-shadow: $box-shadow;
+  }
+}
+
+.module-icon-wrap {
+  width: 52px;
+  height: 52px;
+  border-radius: 999px;
+  background: $light;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.module-type-icon-fa {
+  font-size: 1.5rem;
+  color: $primary;
+}
+
+.module-chip {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.3rem 0.75rem;
+  border-radius: 999px;
+  background-color: $white;
+  border: 1px solid $gray-300;
+  color: $primary;
+  white-space: nowrap;
+
+  &--time i {
+    color: $accent-color;
+  }
+
+  &--status {
+    color: $secondary;
+  }
+}

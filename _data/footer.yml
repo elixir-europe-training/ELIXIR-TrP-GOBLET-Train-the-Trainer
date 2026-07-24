@@ -1,0 +1,11 @@
+copyright: Copyright notice
+extra_line: 
+columns:
+  - type: links
+    title: More information
+    width: 3
+    children: 
+      - url_text: Contributors
+        url: /contributors
+      - url_text: What is TtT?
+        url: /about
