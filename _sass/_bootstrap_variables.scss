@@ -1,0 +1,13 @@
+/*-----Theme colors-----*/
+$primary:       #0B3D4C;
+$secondary:     #5C6B73;
+$light:         #f8f9fa;
+$dark:          #212529;
+
+/*-----Accent (used sparingly: hover states, small highlights)-----*/
+$accent-color:  #E8871E;
+
+/*-----Custom values for Bootstrap variables-----*/
+$body-color:          #22292B;
+$link-hover-color:    $accent-color;
+$btn-primary-bg-hover: $accent-color;

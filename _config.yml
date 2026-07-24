@@ -5,6 +5,12 @@ description: "Handbook and supporting materials for the ELIXIR-GOBLET Train-the-
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@6.0.0
 
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+
 exclude:
   - README.md
   - LICENSE.md
@@ -26,7 +32,7 @@ defaults:
 theme_variables:
   topnav_banner: "This lesson is under active development and considered pre-alpha."
   topnav:
-    brand_logo: assets/img/main_logo.png
+    brand_logo: assets/img/ELIXIR_logo_standard.svg
 
 plugins:
   - elixir-toolkit-theme-plugins

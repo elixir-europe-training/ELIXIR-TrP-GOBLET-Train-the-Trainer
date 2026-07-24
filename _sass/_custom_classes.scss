@@ -1,3 +1,10 @@
+/*------Top navigation hover------*/
+.navbar-nav .nav-item > a:hover,
+.dropdown-item:hover,
+.dropdown-item:focus {
+  color: $accent-color;
+}
+
 .admonition {
   border: 1px solid;
   border-radius: 0.25rem;
@@ -77,7 +84,7 @@
   white-space: nowrap;
 
   &--time i {
-    color: $secondary;
+    color: $accent-color;
   }
 
   &--status {
