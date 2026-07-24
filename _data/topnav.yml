@@ -13,3 +13,5 @@ subitems:
         url: /session_3
       - title: Session 4
         url: /session_4
+  - title: Glossary
+    url: /glossary
