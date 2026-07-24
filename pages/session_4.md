@@ -3,19 +3,18 @@ title: Session 4 - Assessment and feedback in training and teaching
 contributors: [Patricia Palagi]
 ---
 
-<span style="color: red;"> <font size="20">     This session is under construction. The reference material can be found <a href="https://docs.google.com/presentation/d/1d6Dpd8zkL0NuTY0MEAZNsF5qI908K16N/edit?usp=share_link&ouid=117857355916723671329&rtpof=true&sd=true">[here....]</a>   </font>   </span>
-
-
 ## Session 4 - Part I - Introduction and Learning Outcomes
 
 <a name="part-i-introduction-and-learning-outcomes"></a>
 
-### Recap: Session 3 tips
+## Presentation
 
-Before diving into Session 4, revisit the list of tips from Session 3 for improving learners' experience: introductions, setting up the environment, blended multimedia materials, collecting instant feedback, letting learners do recaps, repeating questions, physical exercises, short relaxing breaks, challenges or games, teaching together, assessing prior knowledge, and avoiding homework in all-day formats.
+Here you can find the presentation for this session:
 
-!!! tip "For trainers running this session"
-    Ask participants to think and write in the shared notes: which of these tips do they already apply (or have applied) in their own teaching? Which would they like to apply in the future, and why?
+<iframe src="https://docs.google.com/presentation/d/1IxrzlVxy0gQS8D3AxdDCHrtejRuMMPXt/preview" width="640" height="360" allow="autoplay"></iframe>
+
+
+The full presentation can be downloaded <a href="https://docs.google.com/presentation/d/1IxrzlVxy0gQS8D3AxdDCHrtejRuMMPXt/edit?usp=sharing&ouid=117857355916723671329&rtpof=true&sd=true">[here]</a>.
 
 ### Welcome and roadmap
 
@@ -442,6 +441,10 @@ Likewise, a full recap of the [six evidence-based learning strategies](session-1
 ### Concluding the ELIXIR-GOBLET Train-the-Trainer course
 
 The first step to becoming a better trainer is attending this type of course in the first place - most of all, because it means you're already asking yourself *how*.
+
+
+
+
 
 
 

@@ -30,16 +30,14 @@ The session follows five phases, in order:
 4. **Deliver** a mini-training - prepare and present a small lecture.
 5. **Evaluate** the mini-training - continuous improvement.
 
-{% capture admonition_1 %}
-This roadmap is worth stating explicitly at the very start (it's given almost word-for-word twice in the source slides - once as a warm-up, once alongside the formal Learning Outcomes) - participants benefit from hearing where the session is headed before diving in.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_1 %}
+!!! tip "For trainers running this session"
+    This roadmap is worth stating explicitly at the very start (it's given almost word-for-word twice in the source slides - once as a warm-up, once alongside the formal Learning Outcomes) - participants benefit from hearing where the session is headed before diving in.
 
 ### Learning Outcomes for Session 2
 
 By the end of this session, you will be able to:
 
-- **Plan** a mini-training: define the target audience; define Learning Outcomes.
+- **Plan** a mini-training: define the target audience; define [Learning Outcomes](glossary.md#glossary-learning-outcomes).
 - **Design** a mini-training: differentiate a Syllabus and a lesson plan; write the basics of a Syllabus; draw a concept map to define content.
 - **Develop** a mini-training: write a lesson plan.
 - **Deliver** a mini-training: prepare and present a small lecture.
@@ -51,15 +49,13 @@ By the end of this session, you will be able to:
 
 <a name="challenge-current-planning-practice"></a>
 
-{% capture admonition_2 %}
-Review the list of potential actions for planning and designing a training session (below). Reflect on your own practice:
+!!! question "Challenge - How do you currently plan and design a training session or course? (5 min, individual)"
+    Review the list of potential actions for planning and designing a training session (below). Reflect on your own practice:
 
-- Which actions do you already use?
-- What order do you follow?
+    - Which actions do you already use?
+    - What order do you follow?
 
-Write your approach in the shared doc.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - How do you currently plan and design a training session or course? (5 min, individual)" content=admonition_2 %}
+    Write your approach in the shared doc.
 
 The list of potential actions to reflect on:
 
@@ -72,10 +68,8 @@ The list of potential actions to reflect on:
 - **Plan final evaluation** - reflect on how you will evaluate learner achievement; prepare a final test.
 - **Define Teaching Goals** - reflect on your own goals and intentions as an instructor.
 
-{% capture admonition_3 %}
-There's no single right order for this list - the point of the reflection is to surface that everyone already does *some* of this, often implicitly, and that the rest of the session will give it a more deliberate structure.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_3 %}
+!!! tip "For trainers running this session"
+    There's no single right order for this list - the point of the reflection is to surface that everyone already does *some* of this, often implicitly, and that the rest of the session will give it a more deliberate structure.
 
 ### The training life cycle
 
@@ -92,10 +86,8 @@ flowchart LR
 - **Deliver** - ensure an effective and inclusive course.
 - **Evaluate** - continuously improve the training experience.
 
-{% capture admonition_4 %}
-This is a deliberately simplified picture. The full training life cycle covers more ground (finding suitable trainers, logistics, budget) than this session addresses - Session 2 focuses specifically on Plan, Design, Develop, Deliver, and Evaluate as they apply to building one mini-training.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_4 %}
+!!! tip "For trainers running this session"
+    This is a deliberately simplified picture. The full training life cycle covers more ground (finding suitable trainers, logistics, budget) than this session addresses - Session 2 focuses specifically on Plan, Design, Develop, Deliver, and Evaluate as they apply to building one mini-training.
 
 ---
 
@@ -107,15 +99,11 @@ This is a deliberately simplified picture. The full training life cycle covers m
 
 <a name="challenge-define-los-yourself"></a>
 
-{% capture admonition_5 %}
-In your own words, write in the shared doc what you think a Learning Outcome is.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - What are Learning Outcomes? (2 min, individual)" content=admonition_5 %}
+!!! question "Challenge - What are Learning Outcomes? (2 min, individual)"
+    In your own words, write in the shared doc what you think a Learning Outcome is.
 
-{% capture admonition_6 %}
-Follow with a 3-minute group discussion before revealing the formal answer below - let participants compare their own definitions first.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_6 %}
+!!! tip "For trainers running this session"
+    Follow with a 3-minute group discussion before revealing the formal answer below - let participants compare their own definitions first.
 
 ### Three frameworks toward good Learning Outcomes
 
@@ -128,7 +116,7 @@ flowchart LR
     S["SMART<br/>quality of the statement"] --> LO
 ```
 
-**Bloom's Taxonomy** - already introduced in Session 1: the six levels of cognitive complexity (Remember, Understand, Apply, Analyze, Evaluate, Create), each paired with observable action verbs.
+**[Bloom's Taxonomy](glossary.md#glossary-blooms-taxonomy)** - already introduced in Session 1: the six levels of cognitive complexity (Remember, Understand, Apply, Analyze, Evaluate, Create), each paired with observable action verbs.
 
 **The KSA framework** - specifies which kind of competence learners will demonstrate:
 
@@ -146,14 +134,12 @@ For example: does a learner need to understand programming logic (Knowledge)? Us
 - **Relevant** - aligned with the learner's educational or professional goals.
 - **Time-bound** - a clear timeline.
 
-{% capture admonition_7 %}
-Recommended further reading on writing outcomes: the Stanford Center for Teaching and Learning's guide to crafting learning outcomes.[^3]
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_7 %}
+!!! tip "For trainers running this session"
+    Recommended further reading on writing outcomes: the Stanford Center for Teaching and Learning's guide to crafting learning outcomes.[^3]
 
 ### Putting it together: what is a Learning Outcome?
 
-A **Learning Outcome** is a statement expressing what learners will be able to demonstrate after a lesson. That statement matters for three different audiences at once: it helps *you* design the learning experience, it tells *learners* what they're working toward, and it lets *other trainers* reuse your material with a clear sense of what it achieves.
+A **[Learning Outcome](glossary.md#glossary-learning-outcomes)** is a statement expressing what learners will be able to demonstrate after a lesson. That statement matters for three different audiences at once: it helps *you* design the learning experience, it tells *learners* what they're working toward, and it lets *other trainers* reuse your material with a clear sense of what it achieves.
 
 - Should be **SMART**.
 - Should express which **KSAs** are being targeted.
@@ -169,7 +155,7 @@ Bloom's action verbs solve this: instead of "know," you might ask whether learne
 
 ### Teaching Goal vs. Learning Outcome, revisited
 
-Recall the distinction from Session 1: **Teaching Goals** describe what *you* intend to teach; **Learning Outcomes** describe what *learners* will be able to do. Having a clear Teaching Goal upfront makes it much easier to write clear LOs.
+Recall the distinction from Session 1: **[Teaching Goals](glossary.md#glossary-teaching-goals)** describe what *you* intend to teach; **Learning Outcomes** describe what *learners* will be able to do. Having a clear Teaching Goal upfront makes it much easier to write clear LOs.
 
 A worked example:
 
@@ -181,7 +167,7 @@ A worked example:
 A few more side-by-side examples of "what you plan to teach" (Teaching Goal framing) versus "what learners will be able to do" (LO framing):
 
 - How the PCR cycles enable DNA replication, *or* how to perform the key steps to run a PCR?
-- Fixing an earplug in 3 minutes, *or* finding the best guiding video in 3 minutes so you can fix your earplugs yourself?
+- Tying a bow tie in 3 minutes, *or* finding the best guiding video in 3 minutes so you can tie one yourself?
 - Methods to improve their training session, *or* how to create engaging presentations?
 
 ### Writing Learning Outcomes using action verbs
@@ -192,20 +178,15 @@ A few more side-by-side examples of "what you plan to teach" (Teaching Goal fram
 
 ---
 
-### Challenge - Complete a Learning Outcome using Bloom's verbs
+### Reflecting on this: completing a Learning Outcome
 
-<a name="challenge-complete-lo-bloom-verbs"></a>
-
-{% capture admonition_8 %}
-Complete this sentence, choosing a Bloom's-level verb deliberately:
+This is a good moment for trainers to ask learners to reflect informally - not yet a formal Challenge (that comes next, in the Syllabus Challenge) - on completing this sentence, choosing a Bloom's-level verb deliberately:
 
 *By the end of this course, learners will be able to __________.*
 
 (Or, in the personal framing: *You will be able to __________.*)
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - Complete the Learning Outcome" content=admonition_8 %}
 
-Use the Bloom's verb table below as a reference while you write:
+Use the Bloom's verb table below as a reference:
 
 | Level | Example verbs |
 |---|---|
@@ -216,10 +197,8 @@ Use the Bloom's verb table below as a reference while you write:
 | Evaluate | Evaluate, decide, determine, correct, advise, choose, compare, conclude, criticize, defend, judge, justify, quantify, synthesize |
 | Create | Discuss, conclude, create, develop, formulate, generalize, generate, integrate, modify, plan, propose, design, invent |
 
-{% capture admonition_9 %}
-Reference: [tips.uark.edu/using-blooms-taxonomy](https://tips.uark.edu/using-blooms-taxonomy/) for the fuller verb list.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_9 %}
+!!! tip "For trainers running this session"
+    Reference: [tips.uark.edu/using-blooms-taxonomy](https://tips.uark.edu/using-blooms-taxonomy/) for the fuller verb list. Keep this table visible - learners will use it again shortly, for real, when they draft their Syllabus.
 
 ---
 
@@ -251,26 +230,22 @@ Together, a Syllabus scaffolds long-term learning while a lesson plan delivers e
 
 <a name="challenge-draft-a-syllabus"></a>
 
-{% capture admonition_10 %}
-Choose a topic for a 3-minute lesson - something you could actually teach someone in three minutes.
+!!! question "Challenge - Draft a Syllabus (12 min, individual)"
+    Choose a topic for a 3-minute lesson - something you could actually teach someone in three minutes.
 
-- Draft the content idea (a short description - don't spend time preparing the actual content yet).
-- Define the target audience.
-- Describe the prerequisites.
-- Write 2-3 Learning Outcomes, using Bloom's taxonomy and action verbs.
+    - Draft the content idea (a short description - don't spend time preparing the actual content yet).
+    - Define the target audience.
+    - Describe the prerequisites.
+    - Write 2-3 Learning Outcomes, using Bloom's taxonomy and action verbs.
 
-Write your draft in the shared doc. Two or three LOs is more than enough for a 3-minute lesson.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - Draft a Syllabus (12 min, individual)" content=admonition_10 %}
+    Write your draft in the shared doc. Two or three LOs is more than enough for a 3-minute lesson.
 
-{% capture admonition_11 %}
-This mini-training topic and Syllabus draft is the seed participants will keep building on for the rest of the session - the concept map, lesson plan, and delivery all come back to this same 3-minute topic.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_11 %}
+!!! tip "For trainers running this session"
+    This mini-training topic and Syllabus draft is the seed participants will keep building on for the rest of the session - the concept map, lesson plan, and delivery all come back to this same 3-minute topic.
 
 ### Learning Experiences
 
-A **Learning Experience (LE)** is what a student actually does that supports learning and achieving a Learning Outcome. Some examples of genuinely varied LEs:
+A **[Learning Experience (LE)](glossary.md#glossary-learning-experience)** is what a student actually does that supports learning and achieving a Learning Outcome. Some examples of genuinely varied LEs:
 
 - Pipette coloured water into a small tube to simulate an experimental procedure.
 - Work in groups to write an essay comparing two teaching methodologies.
@@ -289,10 +264,8 @@ If a Learning Experience doesn't align with its Learning Outcome, you have two o
 
 <a name="challenge-add-les-to-syllabus"></a>
 
-{% capture admonition_12 %}
-For each Learning Outcome in your Syllabus draft, think through possible Learning Experiences that would be aligned with it. Choose one Learning Experience per LO, and add it to your Syllabus in the shared doc.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - Add Learning Experiences to your Syllabus (6 min, individual)" content=admonition_12 %}
+!!! question "Challenge - Add Learning Experiences to your Syllabus (6 min, individual)"
+    For each Learning Outcome in your Syllabus draft, think through possible Learning Experiences that would be aligned with it. Choose one Learning Experience per LO, and add it to your Syllabus in the shared doc.
 
 ---
 
@@ -302,7 +275,7 @@ For each Learning Outcome in your Syllabus draft, think through possible Learnin
 
 ### Why design backward?
 
-Traditional course design often starts with "what content should I cover?" - and plans lectures to deliver that content. **Backward Instructional Design** flips this entirely: it starts with the destination (what learners will be able to do) and works backward to figure out how to get there. It applies at any scale, from a 3-minute mini-training to an entire curriculum.
+Traditional course design often starts with "what content should I cover?" - and plans lectures to deliver that content. **[Backward Instructional Design](glossary.md#glossary-backward-design)** flips this entirely: it starts with the destination (what learners will be able to do) and works backward to figure out how to get there. It applies at any scale, from a 3-minute mini-training to an entire curriculum.
 
 The backward design process, in order:
 
@@ -340,12 +313,10 @@ flowchart LR
 
 **Phase 4 - Formative Assessment.** Ongoing feedback and evaluation *during* the learning process, not just at the end - ideally every 15-20 minutes in a training session. Ask: *do assessments support learners' progress toward the Learning Outcomes?* Examples: quick exercises, reflection activities, diagnostic questions, or the "3-2-1" technique (3 things learned, 2 things to explore further, 1 remaining question).
 
-**Phase 5 - Evaluation.** The overall effectiveness of the course. Ask: *can learners achieve the Learning Outcomes? Is the course successful?* A useful comprehensive framework here is **Kirkpatrick-Katzell's four levels**: Reaction (how did learners feel?), Learning (what did they actually learn?), Behavior (are they applying it?), Results (what impact does this have?).
+**Phase 5 - Evaluation.** The overall effectiveness of the course. Ask: *can learners achieve the Learning Outcomes? Is the course successful?* A useful comprehensive framework here is **[Kirkpatrick-Katzell's four levels](glossary.md#glossary-kirkpatrick-katzell)**: Reaction (how did learners feel?), Learning (what did they actually learn?), Behavior (are they applying it?), Results (what impact does this have?).
 
-{% capture admonition_13 %}
-The arrows matter as much as the boxes. This model is deliberately iterative, not a straight line: discovering that your content doesn't support your Learning Experiences means going back and adjusting, not starting over from scratch. That's refinement, not failure - and each iteration makes the course more effective.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_13 %}
+!!! tip "For trainers running this session"
+    The arrows matter as much as the boxes. This model is deliberately iterative, not a straight line: discovering that your content doesn't support your Learning Experiences means going back and adjusting, not starting over from scratch. That's refinement, not failure - and each iteration makes the course more effective.
 
 **A practical summary to leave participants with:** start by writing SMART Learning Outcomes; don't think about content yet - think about what activities will get learners there; only then select the minimum content needed; design frequent formative assessment; plan how you'll evaluate overall success; and be ready to iterate based on what you discover at each phase. Learning Outcomes are the north star - every decision should be justified by asking "does this help learners achieve the intended outcomes?"
 
@@ -362,7 +333,7 @@ The arrows matter as much as the boxes. This model is deliberately iterative, no
 
 ### What is a concept map?
 
-A **concept map** is a graphical strategy for organizing and representing knowledge. It combines *concepts* (usually shown as boxes or circles) with *relationships* (shown as connecting lines and linking phrases) between them. Invented by Joseph D. Novak in 1972, the method is grounded in meaningful-learning theory - it encourages learners (and trainers) to connect new information to what they already know.[^5]
+A **[concept map](glossary.md#glossary-concept-map)** is a graphical strategy for organizing and representing knowledge. It combines *concepts* (usually shown as boxes or circles) with *relationships* (shown as connecting lines and linking phrases) between them. Invented by Joseph D. Novak in 1972, the method is grounded in meaningful-learning theory - it encourages learners (and trainers) to connect new information to what they already know.[^5]
 
 Concept maps are useful for structuring content logically, identifying gaps in your own understanding of a topic, and facilitating discussion and collaboration.
 
@@ -370,10 +341,8 @@ Concept maps are useful for structuring content logically, identifying gaps in y
 
 Concept maps are built from **nodes** (key terms or concepts) and **edges** (the relationships between them, often carrying a linking phrase like "leads to," "requires," or "is part of"). Start with a focus question or context to give the map direction - for example, "what are the key steps and concepts involved in DNA sequencing?" A first draft doesn't need to be perfect; concept maps are generated through iteration and feedback.
 
-{% capture admonition_14 %}
-The source slides illustrate this with a detailed worked example mapping out different coffee-brewing methods and their flavour profiles - a genuinely rich example of nodes and edges in action, but the original author's own notes flag it as a placeholder ("replace the example with one more closely related to training and training plans"). Treat it as provisional: useful for showing the mechanics of nodes and edges today, but a strong candidate to swap for a training-design-specific example (e.g. mapping out backward design itself) when this handbook is next revised.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_14 %}
+!!! tip "For trainers running this session"
+    The source slides illustrate this with a detailed worked example mapping out different coffee-brewing methods and their flavour profiles - a genuinely rich example of nodes and edges in action, but the original author's own notes flag it as a placeholder ("replace the example with one more closely related to training and training plans"). Treat it as provisional: useful for showing the mechanics of nodes and edges today, but a strong candidate to swap for a training-design-specific example (e.g. mapping out backward design itself) when this handbook is next revised.
 
 ### Using concept maps for content reduction
 
@@ -381,10 +350,10 @@ One of the hardest challenges in course design is **content reduction** - the na
 
 Why content overload actually backfires:
 
-- **Working memory becomes overwhelmed.** Learners can only hold about 4-7 chunks of information at once (recall cognitive load from Session 1) - excessive content simply exceeds this capacity.
-- **Mental models fragment.** Instead of an integrated understanding, learners end up with incomplete or incorrect mental models, remembering isolated facts without seeing how they connect.
-- **Transfer to long-term memory fails.** Moving information into long-term memory needs time to process, practice, and connect - content overload doesn't leave room for that consolidation.
-- **The expert blind spot makes it worse.** As experts, we've automated foundational skills, see connections instantly that novices can't, and underestimate how long "obvious" things take to learn. Failing to reduce content means teaching at expert pace to novices.
+- **Working memory becomes overwhelmed.** Learners can only hold about 4-7 chunks of information at once (recall [cognitive load](glossary.md#glossary-cognitive-load) from Session 1) - excessive content simply exceeds this capacity.
+- **Mental models fragment.** Instead of an integrated understanding, learners end up with incomplete or incorrect [mental models](glossary.md#glossary-mental-model), remembering isolated facts without seeing how they connect.
+- **Transfer to long-term memory fails.** Moving information into [long-term memory](glossary.md#glossary-long-term-memory) needs time to process, practice, and connect - content overload doesn't leave room for that consolidation.
+- **The [expert blind spot](glossary.md#glossary-expert-blind-spot) makes it worse.** As experts, we've automated foundational skills, see connections instantly that novices can't, and underestimate how long "obvious" things take to learn. Failing to reduce content means teaching at expert pace to novices.
 - **It demotivates learners.** Overload creates a sense of inadequacy ("everyone else gets this, but I don't"), which can lead to disengagement or drop-out.
 
 Concept maps are a genuinely practical tool for reducing content, not just organizing it:
@@ -397,10 +366,8 @@ Concept maps are a genuinely practical tool for reducing content, not just organ
 
 Content reduction isn't about covering less ground for its own sake - it's about learning more deeply. Every minute spent on unnecessary content is a minute not spent processing, practicing, and consolidating what actually matters. As always, the content you keep should be calibrated to where your actual learners are starting from, not where you are as an expert.
 
-{% capture admonition_15 %}
-A useful mindset shift to leave participants with: from "what can I teach?" to "what must learners be able to do?"; from "how much can I cover?" to "how deeply can learners learn?" Practical guideline: start with your Learning Outcomes, map your topic, identify the critical path, cut anything that doesn't directly support an LO, test your timing, and prepare extension material separately.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_15 %}
+!!! tip "For trainers running this session"
+    A useful mindset shift to leave participants with: from "what can I teach?" to "what must learners be able to do?"; from "how much can I cover?" to "how deeply can learners learn?" Practical guideline: start with your Learning Outcomes, map your topic, identify the critical path, cut anything that doesn't directly support an LO, test your timing, and prepare extension material separately.
 
 ---
 
@@ -408,18 +375,16 @@ A useful mindset shift to leave participants with: from "what can I teach?" to "
 
 <a name="challenge-draw-concept-map"></a>
 
-{% capture admonition_16 %}
-Create a concept map for your 3-minute training topic:
+!!! question "Challenge - Draw a Concept Map for your mini-lesson (15 min, individual)"
+    Create a concept map for your 3-minute training topic:
 
-- Begin with a focus question - one that your concept map will answer.
-- Identify 5-9 key concepts learners need to understand to answer that question.
-- Map the relationships between them, using labeled connecting lines (e.g. "leads to," "requires," "includes").
-- Add cross-links between concepts in different areas of your map where they genuinely relate.
-- Arrange it hierarchically - the most general concepts at the top, more specific ones below.
+    - Begin with a focus question - one that your concept map will answer.
+    - Identify 5-9 key concepts learners need to understand to answer that question.
+    - Map the relationships between them, using labeled connecting lines (e.g. "leads to," "requires," "includes").
+    - Add cross-links between concepts in different areas of your map where they genuinely relate.
+    - Arrange it hierarchically - the most general concepts at the top, more specific ones below.
 
-Share a screenshot of your map in the shared doc, with your name.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - Draw a Concept Map for your mini-lesson (15 min, individual)" content=admonition_16 %}
+    Share a screenshot of your map in the shared doc, with your name.
 
 ---
 
@@ -460,20 +425,16 @@ When *receiving* feedback, the goal is to stay open and curious - ask questions,
 
 <a name="challenge-share-concept-map"></a>
 
-{% capture admonition_17 %}
-Pair up (breakout rooms). Exchange concept maps - show which one is yours, without explaining it.
+!!! question "Challenge - Share the Concept Map (6 min, pairs)"
+    Pair up (breakout rooms). Exchange concept maps - show which one is yours, without explaining it.
 
-Each of you writes in the shared doc:
+    Each of you writes in the shared doc:
 
-- One thing you're confused about, or not sure about, in your partner's map.
-- One thing you like, or that is clear, about your partner's map.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - Share the Concept Map (6 min, pairs)" content=admonition_17 %}
+    - One thing you're confused about, or not sure about, in your partner's map.
+    - One thing you like, or that is clear, about your partner's map.
 
-{% capture admonition_18 %}
-Follow with about 5 minutes of open sharing time before moving on.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_18 %}
+!!! tip "For trainers running this session"
+    Follow with about 5 minutes of open sharing time before moving on.
 
 ---
 
@@ -502,7 +463,7 @@ Once you have a concept map, developing content becomes more concrete:
 
 ### Basics of a lesson plan
 
-A **lesson plan** is your roadmap for delivering a structured, effective learning experience - it keeps you organized, focused, and aligned with your Learning Outcomes. Shared with learners, it also gives them transparency: a guide for self-study, tracking progress, and self-assessment.
+A **[lesson plan](glossary.md#glossary-lesson-plan)** is your roadmap for delivering a structured, effective learning experience - it keeps you organized, focused, and aligned with your Learning Outcomes. Shared with learners, it also gives them transparency: a guide for self-study, tracking progress, and self-assessment.
 
 A lesson plan is a time distribution of a lesson, supporting the content dimension and organized for reproducibility. A worked example schedule for a longer session:
 
@@ -517,10 +478,8 @@ A lesson plan is a time distribution of a lesson, supporting the content dimensi
 | 10 min | Discussion |
 | 1 hour | Lunch |
 
-{% capture admonition_19 %}
-The "less is more" principle from content reduction applies directly here. Overloading a schedule with back-to-back content risks the same fragmented mental models and demotivation discussed above - and it's easy to fall into the expert-gap trap of moving too fast. Reduce content to the key points, and keep some spare material ready in case a particular group has more background and can move faster.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_19 %}
+!!! tip "For trainers running this session"
+    The "less is more" principle from content reduction applies directly here. Overloading a schedule with back-to-back content risks the same fragmented mental models and demotivation discussed above - and it's easy to fall into the expert-gap trap of moving too fast. Reduce content to the key points, and keep some spare material ready in case a particular group has more background and can move faster.
 
 For each segment of your lesson plan, define:
 
@@ -545,21 +504,19 @@ For each segment of your lesson plan, define:
 
 <a name="challenge-produce-mini-training-content"></a>
 
-{% capture admonition_20 %}
-It's time to prepare the actual content of your mini-training. Suggested structure:
+!!! question "Challenge - Produce the content and training material for your mini-lesson (15 min, individual)"
+    It's time to prepare the actual content of your mini-training. Suggested structure:
 
-- 20 seconds - introduction
-- 2 minutes 20 seconds - on topic
-- 20 seconds - conclusion
+    - 20 seconds - introduction
+    - 2 minutes 20 seconds - on topic
+    - 20 seconds - conclusion
 
-Use your concept map as support. Ask yourself: do you need any material support? Recall from Session 1:
+    Use your concept map as support. Ask yourself: do you need any material support? Recall from Session 1:
 
-- Dual coding
-- Concrete examples
-- Chunking
-- Avoiding cognitive load
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - Produce the content and training material for your mini-lesson (15 min, individual)" content=admonition_20 %}
+    - [Dual coding](glossary.md#glossary-chunking)
+    - Concrete examples
+    - [Chunking](glossary.md#glossary-chunking)
+    - Avoiding [cognitive load](glossary.md#glossary-cognitive-load)
 
 ---
 
@@ -571,27 +528,23 @@ Use your concept map as support. Ask yourself: do you need any material support?
 
 <a name="challenge-deliver-mini-training"></a>
 
-{% capture admonition_21 %}
-Each participant has 3 minutes to deliver their session.
+!!! question "Challenge - Deliver mini-training (~20 min, groups)"
+    Each participant has 3 minutes to deliver their session.
 
-**During delivery:**
+    **During delivery:**
 
-- The trainer delivers the session.
-- Learners take notes for real-time feedback.
+    - The trainer delivers the session.
+    - Learners take notes for real-time feedback.
 
-**During feedback time:**
+    **During feedback time:**
 
-- The trainer shares a self-assessment (their own feedback on their delivery first).
-- Learners then provide feedback: one good thing, and one thing to improve.
+    - The trainer shares a self-assessment (their own feedback on their delivery first).
+    - Learners then provide feedback: one good thing, and one thing to improve.
 
-Useful criteria to keep in mind while observing: Learning Outcomes, Learning Experiences, Teaching Goal, and whether the timing actually fit.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - Deliver mini-training (~20 min, groups)" content=admonition_21 %}
+    Useful criteria to keep in mind while observing: Learning Outcomes, Learning Experiences, Teaching Goal, and whether the timing actually fit.
 
-{% capture admonition_22 %}
-Follow with about 5 minutes of open sharing time before moving to the Evaluate phase.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_22 %}
+!!! tip "For trainers running this session"
+    Follow with about 5 minutes of open sharing time before moving to the Evaluate phase.
 
 ### Reflecting to improve: the first step of evaluation
 
@@ -599,7 +552,7 @@ Learning Outcomes should map cleanly to Learning Experiences, and both should ma
 
 Two recap diagrams from earlier in the session are worth revisiting at this point, now that you've actually been through the full cycle once:
 
-- **Backward instructional design, in five steps:** select Learning Outcomes; select Learning Experiences to achieve them; select content based on the LOs; identify or develop assessments to track progress toward the LOs; self-evaluate the effectiveness of your Learning Experiences in actually leading learners to the LOs.
+- **[Backward instructional design](glossary.md#glossary-backward-design), in five steps:** select Learning Outcomes; select Learning Experiences to achieve them; select content based on the LOs; identify or develop assessments to track progress toward the LOs; self-evaluate the effectiveness of your Learning Experiences in actually leading learners to the LOs.
 - **[Nicholls' cycle](#part-iv-backward-instructional-design)**, revisited: the same five phases, with the same core question at each step - does this element support the previous one, and promote the Learning Outcomes? If a proposition to move forward is denied at any phase, that's the model doing its job: it's telling you where to go back and revise.
 
 ---
@@ -608,13 +561,11 @@ Two recap diagrams from earlier in the session are worth revisiting at this poin
 
 <a name="challenge-reflect-on-initial-los"></a>
 
-{% capture admonition_23 %}
-Based on the delivery of your mini-training session, look back at the Learning Outcomes you set at the very start:
+!!! question "Challenge - Self-reflect on your initial LOs (2 min, individual)"
+    Based on the delivery of your mini-training session, look back at the Learning Outcomes you set at the very start:
 
-- Were learners actually able to achieve the LOs you set?
-- Did your training session lead learners to achieve them?
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - Self-reflect on your initial LOs (2 min, individual)" content=admonition_23 %}
+    - Were learners actually able to achieve the LOs you set?
+    - Did your training session lead learners to achieve them?
 
 [^5]: Novak, J.D. & Canas, A.J. *The Theory Underlying Concept Maps and How to Construct and Use Them.* Florida Institute for Human and Machine Cognition.
 
@@ -632,8 +583,4 @@ Three frameworks - **Bloom's Taxonomy**, **KSAs**, and **SMART** - work together
 
 Feedback - both giving and receiving it well - turned out to be a practical skill in its own right, not just a nice-to-have, since so much of this session's own learning happened through peers reviewing each other's concept maps and mini-training deliveries.
 
-Before moving to Session 3, take a moment to think about:
-
-- One thing you understood and feel you can already put into practice.
-- One thing you're not sure of, and would want more clarification on.
 

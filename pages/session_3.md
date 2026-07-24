@@ -24,10 +24,8 @@ A central theme of this session is the shift from the trainer as the **"sage on 
 
 The session also addresses **motivation**: for learners to engage meaningfully, they need to perceive value in the learning goal, believe they can succeed, and feel the learning environment is supportive. These elements are closely tied to learner confidence, participation, and persistence.
 
-{% capture admonition_1 %}
-This session is especially important for TtT instructors specifically, because the course itself should *model* active learning. Participants should experience the kinds of activities they're being encouraged to use, and have the chance to reflect on how and why those activities work, and in which contexts.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_1 %}
+!!! tip "For trainers running this session"
+    This session is especially important for TtT instructors specifically, because the course itself should *model* active learning. Participants should experience the kinds of activities they're being encouraged to use, and have the chance to reflect on how and why those activities work, and in which contexts.
 
 ### Learning Outcomes for Session 3
 
@@ -39,10 +37,8 @@ By the end of Session 3, you will be able to:
 - List factors of motivation and demotivation.
 - Identify what instructors can do to motivate, and avoid demotivating, learners.
 
-{% capture admonition_2 %}
-Two tips worth sharing with participants up front: you don't have to talk for learners to learn - probably the opposite, and this session explains why in detail. And if you can, don't teach alone - teaching in pairs is a genuinely rewarding and rich experience, both for you and for learners.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_2 %}
+!!! tip "For trainers running this session"
+    Two tips worth sharing with participants up front: you don't have to talk for learners to learn - probably the opposite, and this session explains why in detail. And if you can, don't teach alone - teaching in pairs is a genuinely rewarding and rich experience, both for you and for learners.
 
 ---
 
@@ -50,23 +46,21 @@ Two tips worth sharing with participants up front: you don't have to talk for le
 
 <a name="challenge-effective-training-and-trainer"></a>
 
-{% capture admonition_3 %}
-Recall concrete examples from your own past training experience - as a learner, or as a trainer - and share them with your colleague.
+!!! question "Challenge - What makes training effective? What makes a good trainer? (breakout rooms, 2 people per room, 10 min)"
+    Recall concrete examples from your own past training experience - as a learner, or as a trainer - and share them with your colleague.
 
-Write in the shared notes:
+    Write in the shared notes:
 
-- 3 keywords for effective training.
-- 3 keywords for a good trainer.
+    - 3 keywords for effective training.
+    - 3 keywords for a good trainer.
 
-This can be done with sticky notes or in the shared doc.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - What makes training effective? What makes a good trainer? (breakout rooms, 2 people per room, 10 min)" content=admonition_3 %}
+    This can be done with sticky notes or in the shared doc.
 
 ### A good trainer and effective training
 
 A good trainer is defined by how well they help people learn. Like any skill, training becomes easier with experience - but even without extensive experience, focusing on learners and supporting their learning process makes a session more effective.
 
-Good training requires careful planning: defining clear **Learning Outcomes** and choosing **Learning Experiences** that help learners achieve them. This gives the course structure, and helps learners build and improve their understanding. Being aware of the needs, challenges, and group dynamics of each class also supports learning and encourages participation.
+Good training requires careful planning: defining clear **[Learning Outcomes](glossary.md#glossary-learning-outcomes)** and choosing **Learning Experiences** that help learners achieve them. This gives the course structure, and helps learners build and improve their understanding. Being aware of the needs, challenges, and group dynamics of each class also supports learning and encourages participation.
 
 A good trainer, in short, will make their best effort to be **empathetic, accessible, engaging, and inspiring** - alongside setting clear Learning Outcomes and Learning Experiences.
 
@@ -78,10 +72,8 @@ Being empathetic and accessible also creates more opportunities for engagement -
 2. The content is too easy for this group.
 3. The content is too difficult for them.
 
-{% capture admonition_4 %}
-Figuring out which of the three applies can be done by individually approaching learners during activities - casually talking with them about their process - while also creating space for them to ask questions privately.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_4 %}
+!!! tip "For trainers running this session"
+    Figuring out which of the three applies can be done by individually approaching learners during activities - casually talking with them about their process - while also creating space for them to ask questions privately.
 
 ### The GOBLET skills matrix for a trainer
 
@@ -94,15 +86,13 @@ The TtT taskforce of the Global Organisation for Bioinformatics Learning, Educat
 
 Trainers often focus heavily on Communication and are less aware of their own level in the other three areas.
 
-{% capture admonition_5 %}
-A few concrete notes per area, worth sharing:
+!!! tip "For trainers running this session"
+    A few concrete notes per area, worth sharing:
 
-- **Communication:** be yourself, be authentic. Don't rush your speech, and mind your body language. Create space to pause and let learners catch up - it's easy to get excited and talk without pauses. Treat your presentation material as *support*, not the main source of information; combine key words or short phrases with images, and if you must use longer text, print it and give learners time to actually read it.
-- **Planning & Management:** covers more than Learning Outcomes and Learning Experiences - it includes assessing available time, physical space and resources, preparation info for learners, and prerequisites (see the [ELIXIR-Training-SPLASH](https://elixir-europe-training.github.io/ELIXIR-Training-SPLASH/) resource and the [training life cycle](/session_2#part-i-introduction-and-learning-outcomes) from Session 2 for more).
-- **Engagement:** flexibility, empathy, and openness to learners' needs and struggles make all the difference here - covered in depth for the rest of this session.
-- **Expertise & Knowledge:** as in any field, you need to keep updating yourself - both in your subject matter (use cases, challenges, new applications) and in training methods and approaches themselves.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_5 %}
+    - **Communication:** be yourself, be authentic. Don't rush your speech, and mind your body language. Create space to pause and let learners catch up - it's easy to get excited and talk without pauses. Treat your presentation material as *support*, not the main source of information; combine key words or short phrases with images, and if you must use longer text, print it and give learners time to actually read it.
+    - **Planning & Management:** covers more than Learning Outcomes and Learning Experiences - it includes assessing available time, physical space and resources, preparation info for learners, and prerequisites (see the [ELIXIR-Training-SPLASH](https://elixir-europe-training.github.io/ELIXIR-Training-SPLASH/) resource and the [training life cycle](session-2.md#part-i-introduction-and-learning-outcomes) from Session 2 for more).
+    - **Engagement:** flexibility, empathy, and openness to learners' needs and struggles make all the difference here - covered in depth for the rest of this session.
+    - **Expertise & Knowledge:** as in any field, you need to keep updating yourself - both in your subject matter (use cases, challenges, new applications) and in training methods and approaches themselves.
 
 ---
 
@@ -110,12 +100,10 @@ A few concrete notes per area, worth sharing:
 
 <a name="challenge-reflect-goblet-skills"></a>
 
-{% capture admonition_6 %}
-Examine the GOBLET skills matrix (in the shared notes) and reflect: in which area(s) do you feel you need to improve? What exactly should you work on?
+!!! question "Challenge - Reflect on your skills as a trainer (silent self-evaluation, 5 min, alone)"
+    Examine the GOBLET skills matrix (in the shared notes) and reflect: in which area(s) do you feel you need to improve? What exactly should you work on?
 
-Write in the shared doc which skills you need to improve, in each area of the GOBLET matrix.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - Reflect on your skills as a trainer (silent self-evaluation, 5 min, alone)" content=admonition_6 %}
+    Write in the shared doc which skills you need to improve, in each area of the GOBLET matrix.
 
 ---
 
@@ -135,15 +123,11 @@ A short (13-minute) video featuring Eric Mazur, professor of Physics at Harvard 
 
 <a name="challenge-reflect-mazur-interview"></a>
 
-{% capture admonition_7 %}
-Write in the shared notes what impressed you in Mazur's interview.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - Reflect on Mazur's interview (silent reflection, 2 min + 3 min discussion)" content=admonition_7 %}
+!!! question "Challenge - Reflect on Mazur's interview (silent reflection, 2 min + 3 min discussion)"
+    Write in the shared notes what impressed you in Mazur's interview.
 
-{% capture admonition_8 %}
-Ask learners to identify which learning practices Mazur mentioned, and whether they can recognise the main features of this paradigm change. Discuss and comment on participants' answers afterward.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_8 %}
+!!! tip "For trainers running this session"
+    Ask learners to identify which learning practices Mazur mentioned, and whether they can recognise the main features of this paradigm change. Discuss and comment on participants' answers afterward.
 
 The lesson learned from Mazur's interview: learners who actively interact with the material, the teacher, and other learners will learn better and more, will better remember what they learn, and will be more able to apply their knowledge across different fields. In other words, for learning to actually occur, you should select teaching practices - Learning Experiences - that promote active, interactive, and collaborative learning: what Mazur calls **"learning by doing."**
 
@@ -163,10 +147,8 @@ There are situations where a lecture format is genuinely appropriate - short pre
 
 Active learning, by contrast, is highly interactive and engaging, with the teacher as a facilitator rather than the main event. You teach by questioning - having learners think, answer, and ask further questions - and can propose collaborative work, incentivize discussion, and create many opportunities for interaction among and with learners.
 
-{% capture admonition_9 %}
-If participants start wondering "how do I choose the right active learning technique? Is there an ideal one I should learn?" - the honest answer is coming up in the next section, and it may not be what they expect.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_9 %}
+!!! tip "For trainers running this session"
+    If participants start wondering "how do I choose the right active learning technique? Is there an ideal one I should learn?" - the honest answer is coming up in the next section, and it may not be what they expect.
 
 ### What is active, interactive, and collaborative learning?
 
@@ -199,10 +181,8 @@ flowchart LR
 2. **Use Bloom's level to support your plan.** Each level comes with specific requirements for what learners need to actually do.
 3. **Choose the Learning Experience.** The experience needs to genuinely support achievement of the LOs - a lecture isn't suitable for teaching learners to *implement* an algorithm. It may show them how, so they can *describe* how to do it, but if you want them to actually be able to do it, you need a Learning Experience where they get to practise the implementation itself.
 
-{% capture admonition_10 %}
-Recall Bloom's Taxonomy from Session 1 - created in 1956, and revised in 2001 into the Revised Bloom's Taxonomy (RBT) to better fit modernized training approaches. The six levels (Remember, Understand, Apply, Analyze, Evaluate, Create) are unchanged in principle; the revision mainly made the framework easier to understand and implement, and moved to explicitly active verbs for each level.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_10 %}
+!!! tip "For trainers running this session"
+    Recall [Bloom's Taxonomy](glossary.md#glossary-blooms-taxonomy) from Session 1 - created in 1956, and revised in 2001 into the Revised Bloom's Taxonomy (RBT) to better fit modernized training approaches. The six levels (Remember, Understand, Apply, Analyze, Evaluate, Create) are unchanged in principle; the revision mainly made the framework easier to understand and implement, and moved to explicitly active verbs for each level.
 
 ### Seven types of Learning Experiences, mapped to Bloom's levels
 
@@ -218,10 +198,8 @@ Inspired by Eric Mazur and active learning, here are seven Learning Experiences 
 | Group work | Evaluate, Create | Collaboration, argumentation, two-way feedback, digest course content | Compare the advantages of each LE type in the shared doc |
 | Problem solving | Remember, Evaluate, Create | Critical thinking, creativity, decision-making, troubleshooting | Diagnose the reason a plant's leaves are yellow and folded |
 
-{% capture admonition_11 %}
-A lecture can, at best, inspire a learner or provide concepts - that's Remembering/Understanding territory. Continue explaining each Learning Experience in light of Bloom's taxonomy, using the examples above (or your own).
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_11 %}
+!!! tip "For trainers running this session"
+    A lecture can, at best, inspire a learner or provide concepts - that's Remembering/Understanding territory. Continue explaining each Learning Experience in light of Bloom's taxonomy, using the examples above (or your own).
 
 ### A closer look: the flipped classroom
 
@@ -231,10 +209,8 @@ The flipped classroom moves direct instruction outside of class time, so in-clas
 - **During class** - learners participate in activities, applying and discussing the knowledge they prepared beforehand.
 - **After class** - checking understanding and extending learning; this can continue across several sequential classes rather than being a one-off.
 
-{% capture admonition_12 %}
-This is the standard approach, but you can adapt it to your own style. A few practical tips: flipping a class requires a lot of preparation. Explain the method to learners and make an explicit "agreement" with them - they commit to working through the materials you give them beforehand, and you commit to keeping those materials genuinely manageable. Don't start by flipping an entire course - start small, test it, and build up from there.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_12 %}
+!!! tip "For trainers running this session"
+    This is the standard approach, but you can adapt it to your own style. A few practical tips: flipping a class requires a lot of preparation. Explain the method to learners and make an explicit "agreement" with them - they commit to working through the materials you give them beforehand, and you commit to keeping those materials genuinely manageable. Don't start by flipping an entire course - start small, test it, and build up from there.
 
 ### A closer look: peer instruction, group discussion, and group work
 
@@ -244,10 +220,8 @@ This is the standard approach, but you can adapt it to your own style. A few pra
 | **Dynamic (example)** | Introduce a new topic, then a multiple-choice activity | Discuss and decide on one answer for all | An activity or action producing one solution or product |
 | **Assessment** | Students instruct and teach each other | Corrections with the trainer | Assessment by the trainer |
 
-{% capture admonition_13 %}
-Peer instruction is described here in its "traditional" form, but you can implement it creatively. A short video worth watching together with learners, after explaining how "classical" peer instruction works: Concept Tests at avanti's Learning Centre in Kanpur.[^4] A quick explainer on peer instruction more broadly, in French with English subtitles, is also worth a look before deciding whether to show it to learners.[^5]
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_13 %}
+!!! tip "For trainers running this session"
+    Peer instruction is described here in its "traditional" form, but you can implement it creatively. A short video worth watching together with learners, after explaining how "classical" peer instruction works: Concept Tests at avanti's Learning Centre in Kanpur.[^4] A quick explainer on peer instruction more broadly, in French with English subtitles, is also worth a look before deciding whether to show it to learners.[^5]
 
 ### Other teaching practices for active learning
 
@@ -259,17 +233,13 @@ A further list of practices worth knowing (and, ideally, practising): brief ques
 
 <a name="challenge-classify-active-learning-strategies"></a>
 
-{% capture admonition_14 %}
-Classify the list of active learning strategies (in the shared doc) into: Practiced (P), Known (K), Unknown (U).
+!!! question "Challenge 3.4 - Evaluate strategies for active learning (4 min + 7 min discussion, alone)"
+    Classify the list of active learning strategies (in the shared doc) into: Practiced (P), Known (K), Unknown (U).
 
-Share your experience - which have you actually practiced? Which do you know but never practiced? Which don't you know at all?
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge 3.4 - Evaluate strategies for active learning (4 min + 7 min discussion, alone)" content=admonition_14 %}
+    Share your experience - which have you actually practiced? Which do you know but never practiced? Which don't you know at all?
 
-{% capture admonition_15 %}
-Follow with a Q&A session and discussion.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_15 %}
+!!! tip "For trainers running this session"
+    Follow with a Q&A session and discussion.
 
 ### What have we learned about teaching practices?
 
@@ -289,10 +259,8 @@ There are also many other practices you can naturally incorporate to support int
 - Introduce physical exercises, or plan short relaxing breaks - even a one-minute stretch or short meditation in a day-long course. It may feel a little unusual to lead, but learners tend to genuinely appreciate it, and it helps create a relaxed classroom climate.
 - Use blended, multimedia materials to create engaging activities.
 
-{% capture admonition_16 %}
-Note: several of these strategies (working together on exercises, closing knowledge gaps, minimizing computer use, assigning prior reading as a prerequisite, providing assistants or progressive difficulty, having extra exercises ready) are the same ones that came up when we discussed avoiding working-memory overload back in [Session 1](/session_1#challenge-avoid-overload) - a good sign that these practices genuinely reinforce each other across different parts of the course design.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_16 %}
+!!! tip "For trainers running this session"
+    Note: several of these strategies (working together on exercises, closing knowledge gaps, minimizing computer use, assigning prior reading as a prerequisite, providing assistants or progressive difficulty, having extra exercises ready) are the same ones that came up when we discussed avoiding working-memory overload back in [Session 1](session-1.md#challenge-avoid-overload) - a good sign that these practices genuinely reinforce each other across different parts of the course design.
 
 ---
 
@@ -300,15 +268,11 @@ Note: several of these strategies (working together on exercises, closing knowle
 
 <a name="challenge-link-practices-los-blooms"></a>
 
-{% capture admonition_17 %}
-Using the list of techniques in the shared doc, identify the highest Bloom's level supported by each technique.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - Link teaching practices, Learning Outcomes, and Bloom's levels (in groups, 7 min + 7 min discussion)" content=admonition_17 %}
+!!! question "Challenge - Link teaching practices, Learning Outcomes, and Bloom's levels (in groups, 7 min + 7 min discussion)"
+    Using the list of techniques in the shared doc, identify the highest Bloom's level supported by each technique.
 
-{% capture admonition_18 %}
-Follow with a Q&A session and discussion.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_18 %}
+!!! tip "For trainers running this session"
+    Follow with a Q&A session and discussion.
 
 [^1]: GOBLET - Global Organisation for Bioinformatics Learning, Education and Training, [mygoblet.org](http://mygoblet.org).
 [^2]: Felder, R.M., & Brent, R. (2009). Active Learning: An Introduction. *ASQ Higher Education Brief*, 2, 4-9.
@@ -332,21 +296,17 @@ Motivation is personal, and it's genuinely difficult to work with deeply demotiv
 
 <a name="challenge-recall-motivating-experience"></a>
 
-{% capture admonition_19 %}
-Write in the shared doc about a motivating experience in your life as a learner, how it impacted you, and - if you can - what made it motivating.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - Recall a motivating learning experience (silent reflection, 3 min + 3 min discussion)" content=admonition_19 %}
+!!! question "Challenge - Recall a motivating learning experience (silent reflection, 3 min + 3 min discussion)"
+    Write in the shared doc about a motivating experience in your life as a learner, how it impacted you, and - if you can - what made it motivating.
 
-{% capture admonition_20 %}
-While learners write, read through their notes and comment, asking questions about what made the experience motivating, what motivation means to them, and what behaviors or feedback they think are motivating. The goal is to help the group notice that what they personally find motivating is likely to be motivating for their own learners too - this discussion bridges naturally into the rest of this section.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_20 %}
+!!! tip "For trainers running this session"
+    While learners write, read through their notes and comment, asking questions about what made the experience motivating, what motivation means to them, and what behaviors or feedback they think are motivating. The goal is to help the group notice that what they personally find motivating is likely to be motivating for their own learners too - this discussion bridges naturally into the rest of this section.
 
 ### What is motivation?
 
 > Motivation is personal investment to reach a desired outcome.[^6]
 
-Herbert Simon - Nobel laureate and one of the founders of the cognitive sciences - reminds us that **learning results only from what learners do and think**; a trainer can only try to *influence* that, never control it directly. Ambrose et al. put this more specifically: students' motivation generates, directs, and sustains what they do to learn.[^7] This is the same idea as [P4 from Session 1](/session_1#part-iv-evidence-based-principles) - motivation determines, directs, and sustains what learners do to learn - seen here in more depth.
+Herbert Simon - Nobel laureate and one of the founders of the cognitive sciences - reminds us that **learning results only from what learners do and think**; a trainer can only try to *influence* that, never control it directly. Ambrose et al. put this more specifically: students' motivation generates, directs, and sustains what they do to learn.[^7] This is the same idea as [P4 from Session 1](session-1.md#part-iv-evidence-based-principles) - motivation determines, directs, and sustains what learners do to learn - seen here in more depth.
 
 ### Goals: the basic feature of motivation
 
@@ -409,7 +369,7 @@ Value and expectancy are two key pillars of motivation - but, as the next sectio
 
 ### A third pillar: the learning environment
 
-Recall [P7 from Session 1](/session_1#part-iv-evidence-based-principles): the classroom environment can profoundly affect learning, positively or negatively. A learner's current developmental level interacts with the social, emotional, and intellectual climate of a course to shape learning - and this climate isn't just background context, it's an active force. When learners perceive an environment as hostile, unwelcoming, or unsupportive, their willingness to take intellectual risks, engage deeply, and persist through challenge diminishes significantly - regardless of how strong the other two pillars are.
+Recall [P7 from Session 1](session-1.md#part-iv-evidence-based-principles): the classroom environment can profoundly affect learning, positively or negatively. A learner's current developmental level interacts with the social, emotional, and intellectual climate of a course to shape learning - and this climate isn't just background context, it's an active force. When learners perceive an environment as hostile, unwelcoming, or unsupportive, their willingness to take intellectual risks, engage deeply, and persist through challenge diminishes significantly - regardless of how strong the other two pillars are.
 
 A few concrete aspects that shape this climate:
 
@@ -419,10 +379,8 @@ A few concrete aspects that shape this climate:
 - **Inclusivity and accessibility.** Consider dyslexia, colour blindness, hearing difficulties, wheelchair access, and similar needs - in your materials (dyslexia-friendly fonts, colourblind-friendly palettes), your venue, and your own approach as a trainer. A pre-course survey asking about specific needs (a sign-language interpreter, a microphone) goes a long way, and creating a genuinely inclusive space makes it easier for learners to approach you with questions - sometimes literally by walking over and asking quietly, rather than in front of the whole room.
 - **Growth vs. fixed mindset.**[^10] Someone with a growth mindset sees intelligence and ability as learnable and capable of improving through effort; someone with a fixed mindset sees the same traits as stable and unchangeable. Communicating a growth mindset - that ability develops through effort - helps learners attribute setbacks to controllable factors (effort, strategy) rather than to stable traits ("I'm just not smart enough"), which shapes their expectancies for future success and their motivation to keep trying.
 
-{% capture admonition_21 %}
-Recommended background reading before teaching this section: Lovett et al., *How Learning Works*, chapter 4 (on classroom climate), and the Carpentries Instructor Training episode on Equity, Inclusion, and Accessibility.[^11]
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_21 %}
+!!! tip "For trainers running this session"
+    Recommended background reading before teaching this section: Lovett et al., *How Learning Works*, chapter 4 (on classroom climate), and the Carpentries Instructor Training episode on Equity, Inclusion, and Accessibility.[^11]
 
 ### The three pillars of motivation
 
@@ -441,10 +399,8 @@ The interaction between these three pillars produces a range of recognisable lea
 | High | High | Not supportive | **Defiant** - values the goal and is confident, but perceives no support - may take an "I'll show you" or "I'll prove you wrong" stance. |
 | High | High | Supportive | **Motivated** - the optimal state. Learners genuinely seek to learn, integrate, and apply new knowledge, and see learning situations as opportunities to extend their understanding. |
 
-{% capture admonition_22 %}
-This table is the actual goal of instructional design: help learners see value, build positive expectancies, and create a genuinely supportive environment - all three, together, are what produce the "Motivated" outcome in the bottom row.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_22 %}
+!!! tip "For trainers running this session"
+    This table is the actual goal of instructional design: help learners see value, build positive expectancies, and create a genuinely supportive environment - all three, together, are what produce the "Motivated" outcome in the bottom row.
 
 ---
 
@@ -460,15 +416,11 @@ Motivation and demotivation are closely connected. Adult learners usually arrive
 
 <a name="challenge-recall-demotivating-experience"></a>
 
-{% capture admonition_23 %}
-Write in the shared doc about a demotivating experience in your life as a learner, and how it impacted you.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge - Recall a demotivating learning experience (silent reflection, 3 min) - optional, time permitting" content=admonition_23 %}
+!!! question "Challenge - Recall a demotivating learning experience (silent reflection, 3 min) - optional, time permitting"
+    Write in the shared doc about a demotivating experience in your life as a learner, and how it impacted you.
 
-{% capture admonition_24 %}
-Only run this challenge if there's enough time left for the next one - it's explicitly marked as time-permitting in the source material, since the strategies Challenge that follows matters more. If you do run it, comment on learners' demotivating experiences, and try to identify and highlight typical "patterns of demotivation" together.
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_24 %}
+!!! tip "For trainers running this session"
+    Only run this challenge if there's enough time left for the next one - it's explicitly marked as time-permitting in the source material, since the strategies Challenge that follows matters more. If you do run it, comment on learners' demotivating experiences, and try to identify and highlight typical "patterns of demotivation" together.
 
 ### Strategies to improve motivation and avoid demotivation
 
@@ -480,19 +432,15 @@ Motivation is personal, and it's genuinely difficult to work with deeply demotiv
 
 <a name="challenge-motivation-strategies"></a>
 
-{% capture admonition_25 %}
-Read, in the shared doc, the strategies to increase learner motivation and avoid demotivating them.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge 3.8, part 1 - Strategies to improve motivation (5 min, in 3 groups)" content=admonition_25 %}
+!!! question "Challenge 3.8, part 1 - Strategies to improve motivation (5 min, in 3 groups)"
+    Read, in the shared doc, the strategies to increase learner motivation and avoid demotivating them.
 
-{% capture admonition_26 %}
-Each group picks one or more strategies from one of the three pillars (value, expectancy, environment).
+!!! question "Challenge 3.8, part 2 - Strategies to improve motivation (5 min in groups + 10 min discussion)"
+    Each group picks one or more strategies from one of the three pillars (value, expectancy, environment).
 
-Think of a concrete example of what you could actually do or say to implement that strategy in the classroom, for discussion with the whole group.
-{% endcapture %}
-{% include admonition.html type="question" title="Challenge 3.8, part 2 - Strategies to improve motivation (5 min in groups + 10 min discussion)" content=admonition_26 %}
+    Think of a concrete example of what you could actually do or say to implement that strategy in the classroom, for discussion with the whole group.
 
-A concrete list of strategies to draw on for this challenge - several of which should look familiar from [Session 1](/session_1#challenge-avoid-overload) and from the "other supporting practices" discussed earlier in this session:
+A concrete list of strategies to draw on for this challenge - several of which should look familiar from [Session 1](session-1.md#challenge-avoid-overload) and from the "other supporting practices" discussed earlier in this session:
 
 - Work together on exercises, and repeat ideas during peer discussion.
 - Actively try to close knowledge gaps rather than let them accumulate.
@@ -520,14 +468,8 @@ A concrete list of strategies to draw on for this challenge - several of which s
 
 ---
 
-### Before Session 4
-
-As a warm-up for the next session: read the "Random Thoughts" reader-view excerpt on the seven principles of *How Learning Works* (Ambrose et al., 2010), and write one question you have in the shared notes.
-
-{% capture admonition_27 %}
-Further resources for this session: *How Learning Works* (Ambrose et al., 2010); *Understanding How We Learn* (Weinstein & Sumeracki, 2018 - see [Session 1](/session_1#part-v-six-learning-strategies)); The Carpentries Instructor Training; and *Teaching Tech Together* (Wilson, 2019), both a book and a website at [teachtogether.tech](https://teachtogether.tech/).
-{% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_27 %}
+!!! tip "For trainers running this session"
+    Further resources for this session: *How Learning Works* (Ambrose et al., 2010); *Understanding How We Learn* (Weinstein & Sumeracki, 2018 - see [Session 1](session-1.md#part-v-six-learning-strategies)); The Carpentries Instructor Training; and *Teaching Tech Together* (Wilson, 2019), both a book and a website at [teachtogether.tech](https://teachtogether.tech/).
 
 [^6]: Maehr, M.L., & Meyer, H. (1997). Understanding motivation and schooling: Where we've been, where we are, and where we need to go. *Educational Psychology Review*, 9(4), 371-409.
 [^7]: Ambrose, S.A., Bridges, M.W., DiPietro, M., Lovett, M.C., & Norman, M.K. (2010). *How Learning Works: Seven Research-Based Principles for Smart Teaching* (p. 76). Wiley.
@@ -550,9 +492,5 @@ Session 3 turned to the human side of training: how learners actually participat
 **Motivation turned out to have real structure**, not just "learners either want to learn or they don't." Three pillars - value, expectancy of self-efficacy, and a supportive environment - combine to produce recognisably different learner behaviors, from fully "motivated" down to "rejecting," "hopeless," "fragile," "evading," and "defiant." Since a trainer can genuinely influence all three pillars, this gives concrete levers to pull, rather than leaving motivation as something mysterious or entirely out of your hands.
 
 **And demotivation deserves as much attention as motivation itself.** Adult learners usually arrive already motivated - so very often, the most effective thing a trainer can do is simply avoid demotivating them: watch for stereotypes, dismissive language, and unsupportive dynamics, and lean instead into explicit prerequisites, a growth mindset, and genuine humility about your own expertise.
-
-Before Session 4, take a moment to read the excerpt from *How Learning Works* and note down a question it raises for you.
-
-
 
 
