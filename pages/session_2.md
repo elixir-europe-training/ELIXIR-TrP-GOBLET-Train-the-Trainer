@@ -39,7 +39,7 @@ This roadmap is worth stating explicitly at the very start (it's given almost wo
 
 By the end of this session, you will be able to:
 
-- **Plan** a mini-training: define the target audience; define [Learning Outcomes](/glossary#glossary-learning-outcomes).
+- **Plan** a mini-training: define the target audience; define Learning Outcomes.
 - **Design** a mini-training: differentiate a Syllabus and a lesson plan; write the basics of a Syllabus; draw a concept map to define content.
 - **Develop** a mini-training: write a lesson plan.
 - **Deliver** a mini-training: prepare and present a small lecture.
@@ -128,7 +128,7 @@ flowchart LR
     S["SMART<br/>quality of the statement"] --> LO
 ```
 
-**[Bloom's Taxonomy](/glossary#glossary-blooms-taxonomy)** - already introduced in Session 1: the six levels of cognitive complexity (Remember, Understand, Apply, Analyze, Evaluate, Create), each paired with observable action verbs.
+**Bloom's Taxonomy** - already introduced in Session 1: the six levels of cognitive complexity (Remember, Understand, Apply, Analyze, Evaluate, Create), each paired with observable action verbs.
 
 **The KSA framework** - specifies which kind of competence learners will demonstrate:
 
@@ -153,7 +153,7 @@ Recommended further reading on writing outcomes: the Stanford Center for Teachin
 
 ### Putting it together: what is a Learning Outcome?
 
-A **[Learning Outcome](/glossary#glossary-learning-outcomes)** is a statement expressing what learners will be able to demonstrate after a lesson. That statement matters for three different audiences at once: it helps *you* design the learning experience, it tells *learners* what they're working toward, and it lets *other trainers* reuse your material with a clear sense of what it achieves.
+A **Learning Outcome** is a statement expressing what learners will be able to demonstrate after a lesson. That statement matters for three different audiences at once: it helps *you* design the learning experience, it tells *learners* what they're working toward, and it lets *other trainers* reuse your material with a clear sense of what it achieves.
 
 - Should be **SMART**.
 - Should express which **KSAs** are being targeted.
@@ -169,7 +169,7 @@ Bloom's action verbs solve this: instead of "know," you might ask whether learne
 
 ### Teaching Goal vs. Learning Outcome, revisited
 
-Recall the distinction from Session 1: **[Teaching Goals](/glossary#glossary-teaching-goals)** describe what *you* intend to teach; **Learning Outcomes** describe what *learners* will be able to do. Having a clear Teaching Goal upfront makes it much easier to write clear LOs.
+Recall the distinction from Session 1: **Teaching Goals** describe what *you* intend to teach; **Learning Outcomes** describe what *learners* will be able to do. Having a clear Teaching Goal upfront makes it much easier to write clear LOs.
 
 A worked example:
 
@@ -270,7 +270,7 @@ This mini-training topic and Syllabus draft is the seed participants will keep b
 
 ### Learning Experiences
 
-A **[Learning Experience (LE)](/glossary#glossary-learning-experience)** is what a student actually does that supports learning and achieving a Learning Outcome. Some examples of genuinely varied LEs:
+A **Learning Experience (LE)** is what a student actually does that supports learning and achieving a Learning Outcome. Some examples of genuinely varied LEs:
 
 - Pipette coloured water into a small tube to simulate an experimental procedure.
 - Work in groups to write an essay comparing two teaching methodologies.
@@ -302,7 +302,7 @@ For each Learning Outcome in your Syllabus draft, think through possible Learnin
 
 ### Why design backward?
 
-Traditional course design often starts with "what content should I cover?" - and plans lectures to deliver that content. **[Backward Instructional Design](/glossary#glossary-backward-design)** flips this entirely: it starts with the destination (what learners will be able to do) and works backward to figure out how to get there. It applies at any scale, from a 3-minute mini-training to an entire curriculum.
+Traditional course design often starts with "what content should I cover?" - and plans lectures to deliver that content. **Backward Instructional Design** flips this entirely: it starts with the destination (what learners will be able to do) and works backward to figure out how to get there. It applies at any scale, from a 3-minute mini-training to an entire curriculum.
 
 The backward design process, in order:
 
@@ -340,7 +340,7 @@ flowchart LR
 
 **Phase 4 - Formative Assessment.** Ongoing feedback and evaluation *during* the learning process, not just at the end - ideally every 15-20 minutes in a training session. Ask: *do assessments support learners' progress toward the Learning Outcomes?* Examples: quick exercises, reflection activities, diagnostic questions, or the "3-2-1" technique (3 things learned, 2 things to explore further, 1 remaining question).
 
-**Phase 5 - Evaluation.** The overall effectiveness of the course. Ask: *can learners achieve the Learning Outcomes? Is the course successful?* A useful comprehensive framework here is **[Kirkpatrick-Katzell's four levels](/glossary#glossary-kirkpatrick-katzell)**: Reaction (how did learners feel?), Learning (what did they actually learn?), Behavior (are they applying it?), Results (what impact does this have?).
+**Phase 5 - Evaluation.** The overall effectiveness of the course. Ask: *can learners achieve the Learning Outcomes? Is the course successful?* A useful comprehensive framework here is **Kirkpatrick-Katzell's four levels**: Reaction (how did learners feel?), Learning (what did they actually learn?), Behavior (are they applying it?), Results (what impact does this have?).
 
 {% capture admonition_13 %}
 The arrows matter as much as the boxes. This model is deliberately iterative, not a straight line: discovering that your content doesn't support your Learning Experiences means going back and adjusting, not starting over from scratch. That's refinement, not failure - and each iteration makes the course more effective.
@@ -362,7 +362,7 @@ The arrows matter as much as the boxes. This model is deliberately iterative, no
 
 ### What is a concept map?
 
-A **[concept map](/glossary#glossary-concept-map)** is a graphical strategy for organizing and representing knowledge. It combines *concepts* (usually shown as boxes or circles) with *relationships* (shown as connecting lines and linking phrases) between them. Invented by Joseph D. Novak in 1972, the method is grounded in meaningful-learning theory - it encourages learners (and trainers) to connect new information to what they already know.[^5]
+A **concept map** is a graphical strategy for organizing and representing knowledge. It combines *concepts* (usually shown as boxes or circles) with *relationships* (shown as connecting lines and linking phrases) between them. Invented by Joseph D. Novak in 1972, the method is grounded in meaningful-learning theory - it encourages learners (and trainers) to connect new information to what they already know.[^5]
 
 Concept maps are useful for structuring content logically, identifying gaps in your own understanding of a topic, and facilitating discussion and collaboration.
 
@@ -381,10 +381,10 @@ One of the hardest challenges in course design is **content reduction** - the na
 
 Why content overload actually backfires:
 
-- **Working memory becomes overwhelmed.** Learners can only hold about 4-7 chunks of information at once (recall [cognitive load](/glossary#glossary-cognitive-load) from Session 1) - excessive content simply exceeds this capacity.
-- **Mental models fragment.** Instead of an integrated understanding, learners end up with incomplete or incorrect [mental models](/glossary#glossary-mental-model), remembering isolated facts without seeing how they connect.
-- **Transfer to long-term memory fails.** Moving information into [long-term memory](/glossary#glossary-long-term-memory) needs time to process, practice, and connect - content overload doesn't leave room for that consolidation.
-- **The [expert blind spot](/glossary#glossary-expert-blind-spot) makes it worse.** As experts, we've automated foundational skills, see connections instantly that novices can't, and underestimate how long "obvious" things take to learn. Failing to reduce content means teaching at expert pace to novices.
+- **Working memory becomes overwhelmed.** Learners can only hold about 4-7 chunks of information at once (recall cognitive load from Session 1) - excessive content simply exceeds this capacity.
+- **Mental models fragment.** Instead of an integrated understanding, learners end up with incomplete or incorrect mental models, remembering isolated facts without seeing how they connect.
+- **Transfer to long-term memory fails.** Moving information into long-term memory needs time to process, practice, and connect - content overload doesn't leave room for that consolidation.
+- **The expert blind spot makes it worse.** As experts, we've automated foundational skills, see connections instantly that novices can't, and underestimate how long "obvious" things take to learn. Failing to reduce content means teaching at expert pace to novices.
 - **It demotivates learners.** Overload creates a sense of inadequacy ("everyone else gets this, but I don't"), which can lead to disengagement or drop-out.
 
 Concept maps are a genuinely practical tool for reducing content, not just organizing it:
@@ -502,7 +502,7 @@ Once you have a concept map, developing content becomes more concrete:
 
 ### Basics of a lesson plan
 
-A **[lesson plan](/glossary#glossary-lesson-plan)** is your roadmap for delivering a structured, effective learning experience - it keeps you organized, focused, and aligned with your Learning Outcomes. Shared with learners, it also gives them transparency: a guide for self-study, tracking progress, and self-assessment.
+A **lesson plan** is your roadmap for delivering a structured, effective learning experience - it keeps you organized, focused, and aligned with your Learning Outcomes. Shared with learners, it also gives them transparency: a guide for self-study, tracking progress, and self-assessment.
 
 A lesson plan is a time distribution of a lesson, supporting the content dimension and organized for reproducibility. A worked example schedule for a longer session:
 
@@ -554,10 +554,10 @@ It's time to prepare the actual content of your mini-training. Suggested structu
 
 Use your concept map as support. Ask yourself: do you need any material support? Recall from Session 1:
 
-- [Dual coding](/glossary#glossary-chunking)
+- Dual coding
 - Concrete examples
-- [Chunking](/glossary#glossary-chunking)
-- Avoiding [cognitive load](/glossary#glossary-cognitive-load)
+- Chunking
+- Avoiding cognitive load
 {% endcapture %}
 {% include admonition.html type="question" title="Challenge - Produce the content and training material for your mini-lesson (15 min, individual)" content=admonition_20 %}
 
@@ -599,7 +599,7 @@ Learning Outcomes should map cleanly to Learning Experiences, and both should ma
 
 Two recap diagrams from earlier in the session are worth revisiting at this point, now that you've actually been through the full cycle once:
 
-- **[Backward instructional design](/glossary#glossary-backward-design), in five steps:** select Learning Outcomes; select Learning Experiences to achieve them; select content based on the LOs; identify or develop assessments to track progress toward the LOs; self-evaluate the effectiveness of your Learning Experiences in actually leading learners to the LOs.
+- **Backward instructional design, in five steps:** select Learning Outcomes; select Learning Experiences to achieve them; select content based on the LOs; identify or develop assessments to track progress toward the LOs; self-evaluate the effectiveness of your Learning Experiences in actually leading learners to the LOs.
 - **[Nicholls' cycle](#part-iv-backward-instructional-design)**, revisited: the same five phases, with the same core question at each step - does this element support the previous one, and promote the Learning Outcomes? If a proposition to move forward is denied at any phase, that's the model doing its job: it's telling you where to go back and revise.
 
 ---

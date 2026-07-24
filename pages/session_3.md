@@ -66,7 +66,7 @@ This can be done with sticky notes or in the shared doc.
 
 A good trainer is defined by how well they help people learn. Like any skill, training becomes easier with experience - but even without extensive experience, focusing on learners and supporting their learning process makes a session more effective.
 
-Good training requires careful planning: defining clear **[Learning Outcomes](/glossary#glossary-learning-outcomes)** and choosing **Learning Experiences** that help learners achieve them. This gives the course structure, and helps learners build and improve their understanding. Being aware of the needs, challenges, and group dynamics of each class also supports learning and encourages participation.
+Good training requires careful planning: defining clear **Learning Outcomes** and choosing **Learning Experiences** that help learners achieve them. This gives the course structure, and helps learners build and improve their understanding. Being aware of the needs, challenges, and group dynamics of each class also supports learning and encourages participation.
 
 A good trainer, in short, will make their best effort to be **empathetic, accessible, engaging, and inspiring** - alongside setting clear Learning Outcomes and Learning Experiences.
 
@@ -200,7 +200,7 @@ flowchart LR
 3. **Choose the Learning Experience.** The experience needs to genuinely support achievement of the LOs - a lecture isn't suitable for teaching learners to *implement* an algorithm. It may show them how, so they can *describe* how to do it, but if you want them to actually be able to do it, you need a Learning Experience where they get to practise the implementation itself.
 
 {% capture admonition_10 %}
-Recall [Bloom's Taxonomy](/glossary#glossary-blooms-taxonomy) from Session 1 - created in 1956, and revised in 2001 into the Revised Bloom's Taxonomy (RBT) to better fit modernized training approaches. The six levels (Remember, Understand, Apply, Analyze, Evaluate, Create) are unchanged in principle; the revision mainly made the framework easier to understand and implement, and moved to explicitly active verbs for each level.
+Recall Bloom's Taxonomy from Session 1 - created in 1956, and revised in 2001 into the Revised Bloom's Taxonomy (RBT) to better fit modernized training approaches. The six levels (Remember, Understand, Apply, Analyze, Evaluate, Create) are unchanged in principle; the revision mainly made the framework easier to understand and implement, and moved to explicitly active verbs for each level.
 {% endcapture %}
 {% include admonition.html type="tip" title="For trainers running this session" content=admonition_10 %}
 

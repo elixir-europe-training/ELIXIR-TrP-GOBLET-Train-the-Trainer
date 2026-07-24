@@ -1,3 +1,14 @@
+/*------Glossary term popovers------*/
+.glossary-popover-enabled {
+  text-decoration: underline dotted;
+  text-decoration-color: currentColor;
+  text-underline-offset: 2px;
+}
+
+.popover {
+  max-width: 320px;
+}
+
 /*------Top navigation hover------*/
 .navbar-nav .nav-item > a:hover,
 .dropdown-item:hover,
