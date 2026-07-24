@@ -1,0 +1,42 @@
+.admonition {
+  border: 1px solid;
+  border-radius: 0.25rem;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+
+  .admonition-title {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+
+  > *:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.admonition-tip {
+  border-color: $success;
+  background-color: rgba($success, 0.08);
+
+  .admonition-title {
+    color: $success;
+  }
+}
+
+.admonition-question {
+  border-color: $primary;
+  background-color: rgba($primary, 0.08);
+
+  .admonition-title {
+    color: $primary;
+  }
+}
+
+.admonition-overview {
+  border-color: $info;
+  background-color: rgba($info, 0.08);
+
+  .admonition-title {
+    color: $info;
+  }
+}

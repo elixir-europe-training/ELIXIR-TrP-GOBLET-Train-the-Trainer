@@ -21,28 +21,13 @@ https://elixir-europe-training.github.io/ELIXIR-TrP-LessonTemplateInstructions-M
 
 ## If working locally
 
-This website is generated with [MkDocs](https://www.mkdocs.org/), with the theme [Material](https://squidfunk.github.io/mkdocs-material/).
+This website is generated with [Jekyll](https://jekyllrb.com/), using the [ELIXIR toolkit theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme).
 
-To host it locally, install MkDocs:
-```bash
-pip install mkdocs
-```
-
-and Material with some plugins:
-```bash
-pip install mkdocs-material
-pip install mkdocs-video
-pip install mkdocs-bibtex 
-pip install neoteroi-mkdocs
-pip install addbioschemas
-```
-
-Clone this repository to your local computer. Then, make the repository your current directory and type:
+Install a recent Ruby (>= 2.7) and bundler, then from the repository root:
 
 ```bash
-mkdocs serve
+bundle install
+bundle exec jekyll serve
 ```
 
-To host it locally.
-
-Check it out with your browser at [http://localhost:8000/](http://localhost:8000/). 
+Check it out with your browser at [http://localhost:4000/](http://localhost:4000/).

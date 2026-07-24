@@ -1,0 +1,6 @@
+<div class="admonition admonition-{{ include.type }}">
+{%- if include.title != "" %}
+  <p class="admonition-title">{{ include.title }}</p>
+{%- endif %}
+{{ include.content | markdownify }}
+</div>

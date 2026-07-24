@@ -1,0 +1,38 @@
+title: ELIXIR-GOBLET Train-the-Trainer Programme
+topnav_title: ELIXIR-GOBLET Train-the-Trainer
+
+description: "Handbook and supporting materials for the ELIXIR-GOBLET Train-the-Trainer (TtT) course"
+
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@6.0.0
+
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff
+  - references.bib
+  - vendor
+  - Gemfile
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      permalink: /:basename
+      layout: "page"
+      sidebar: main
+
+theme_variables:
+  topnav_banner: "This lesson is under active development and considered pre-alpha."
+  topnav:
+    brand_logo: assets/img/main_logo.png
+
+plugins:
+  - elixir-toolkit-theme-plugins
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  - jemoji
+  - webrick
