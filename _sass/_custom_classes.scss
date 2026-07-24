@@ -40,3 +40,47 @@
     color: $info;
   }
 }
+
+/*------Session navigation tiles------*/
+.navigation-tiles {
+  .card:hover {
+    box-shadow: $box-shadow;
+  }
+}
+
+.module-icon-wrap {
+  width: 52px;
+  height: 52px;
+  border-radius: 999px;
+  background: $light;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.module-type-icon-fa {
+  font-size: 1.5rem;
+  color: $primary;
+}
+
+.module-chip {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.3rem 0.75rem;
+  border-radius: 999px;
+  background-color: $white;
+  border: 1px solid $gray-300;
+  color: $primary;
+  white-space: nowrap;
+
+  &--time i {
+    color: $secondary;
+  }
+
+  &--status {
+    color: $secondary;
+  }
+}

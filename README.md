@@ -31,3 +31,9 @@ bundle exec jekyll serve
 ```
 
 Check it out with your browser at [http://localhost:4000/](http://localhost:4000/).
+
+## Acknowledgements
+
+This website is built on the [ELIXIR toolkit theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme), a Jekyll theme maintained by ELIXIR Belgium for ELIXIR documentation and training websites.
+
+The session card layout and navigation on the home page were adapted from the "module types" pattern used in [ELIXIR-ELITMa](https://github.com/elixir-europe-training/ELIXIR-ELITMa), the ELIXIR Training Programme in Management.
