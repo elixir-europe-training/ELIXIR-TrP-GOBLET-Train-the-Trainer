@@ -2,6 +2,7 @@
 title: Glossary
 redirect_from:
   - /chapters/glossary/
+contributors: [Patricia Palagi]
 ---
 
 ## Glossary
