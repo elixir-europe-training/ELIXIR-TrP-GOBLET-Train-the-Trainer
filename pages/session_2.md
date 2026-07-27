@@ -96,7 +96,7 @@ flowchart LR
 {% capture admonition_4 %}
 This is a deliberately simplified picture. The full training life cycle covers more ground (finding suitable trainers, logistics, budget) than this session addresses - Session 2 focuses specifically on Plan, Design, Develop, Deliver, and Evaluate as they apply to building one mini-training.
 {% endcapture %}
-{% include admonition.html type="tip" title="For trainers running this session" content=admonition_4 %}
+{% include admonition.html type="tip" title="For trainers running this session" content=admonition_4 collapsible=true %}
 
 ---
 

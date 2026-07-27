@@ -1,6 +1,14 @@
+{%- assign icon = include.icon | default: site.data.admonition_icons[include.type] -%}
+{%- if include.collapsible -%}
+<details class="admonition admonition-{{ include.type }}"{% if include.open %} open{% endif %}>
+  <summary class="admonition-title">{% if icon %}<i class="{{ icon }} admonition-icon"></i> {% endif %}{{ include.title }}</summary>
+{{ include.content | markdownify }}
+</details>
+{%- else -%}
 <div class="admonition admonition-{{ include.type }}">
 {%- if include.title != "" %}
-  <p class="admonition-title">{{ include.title }}</p>
+  <p class="admonition-title">{% if icon %}<i class="{{ icon }} admonition-icon"></i> {% endif %}{{ include.title }}</p>
 {%- endif %}
 {{ include.content | markdownify }}
 </div>
+{%- endif -%}
