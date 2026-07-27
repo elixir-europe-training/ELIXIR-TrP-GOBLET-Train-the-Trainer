@@ -3,10 +3,6 @@ title: Session 4 - Assessment and feedback in training and teaching
 contributors: [Patricia Palagi]
 ---
 
-## Session 4 - Part I - Introduction and Learning Outcomes
-
-<a name="part-i-introduction-and-learning-outcomes"></a>
-
 ## Presentation
 
 Here you can find the presentation for this session:
@@ -15,6 +11,10 @@ Here you can find the presentation for this session:
 
 
 The full presentation can be downloaded <a href="https://docs.google.com/presentation/d/1IxrzlVxy0gQS8D3AxdDCHrtejRuMMPXt/edit?usp=sharing&ouid=117857355916723671329&rtpof=true&sd=true">[here]</a>.
+
+## Session 4 - Part I - Introduction and Learning Outcomes
+
+<a name="part-i-introduction-and-learning-outcomes"></a>
 
 ### Welcome and roadmap
 
@@ -227,7 +227,7 @@ Formative assessment means collecting information about learners' learning progr
 
 <a name="part-v-tools-and-techniques"></a>
 
-Formative assessment and feedback can be done in many ways - asking learners questions and getting responses orally; asking them to describe the strategy they'd adopt for a problem; asking them to solve a problem in groups, or individually in front of the class; brainstorming and discussions; diagnostic questionnaires (multiple-choice questions, as we just saw, are one type). Several of these Learning Experiences were already introduced in [Session 3](session-3.md#part-iii-choosing-the-right-teaching-practice) - here we look at some concrete, practical tools for actually running them.
+Formative assessment and feedback can be done in many ways - asking learners questions and getting responses orally; asking them to describe the strategy they'd adopt for a problem; asking them to solve a problem in groups, or individually in front of the class; brainstorming and discussions; diagnostic questionnaires (multiple-choice questions, as we just saw, are one type). Several of these Learning Experiences were already introduced in [Session 3](session_3.md#part-iii-choosing-the-right-teaching-practice) - here we look at some concrete, practical tools for actually running them.
 
 ### Online tools
 
@@ -402,15 +402,15 @@ Session 4 closed the loop on something implicit in every previous session: asses
 
 ### Recap: Curriculum design (Nicholls' cycle)
 
-A last look at [Nicholls' Five Phases](session-2.md#part-iv-backward-instructional-design), first introduced in Session 2. By this point in the course, you've practised steps 1 (Learning Outcomes), 2 (Learning Experiences), and 3 (Content) directly; this closing session touches step 4 (Assessment); step 5 (Evaluation) isn't covered in depth here. As a reminder: this process is never unidirectional - it's iterative, with constant back-and-forth between all phases in practice.
+A last look at [Nicholls' Five Phases](session_2.md#part-iv-backward-instructional-design), first introduced in Session 2. By this point in the course, you've practised steps 1 (Learning Outcomes), 2 (Learning Experiences), and 3 (Content) directly; this closing session touches step 4 (Assessment); step 5 (Evaluation) isn't covered in depth here. As a reminder: this process is never unidirectional - it's iterative, with constant back-and-forth between all phases in practice.
 
 ### Recap: The eight evidence-based principles of learning
 
-A full recap of [P1-P8](session-1.md#part-iv-evidence-based-principles) from Session 1 - these principles help instructors understand why certain teaching approaches do or don't support learning, generate or refine approaches for specific contexts, and transfer what works to new courses, learners, and contexts.
+A full recap of [P1-P8](session_1.md#part-iv-evidence-based-principles) from Session 1 - these principles help instructors understand why certain teaching approaches do or don't support learning, generate or refine approaches for specific contexts, and transfer what works to new courses, learners, and contexts.
 
 ### Recap: The six learning strategies
 
-Likewise, a full recap of the [six evidence-based learning strategies](session-1.md#part-v-six-learning-strategies) from Session 1 - spaced practice, interleaving, elaboration, concrete examples, dual coding, and retrieval practice - each grounded in evidence from the cognitive sciences, and each a practical strategy built on top of the principles above (not a principle in itself).
+Likewise, a full recap of the [six evidence-based learning strategies](session_1.md#part-v-six-learning-strategies) from Session 1 - spaced practice, interleaving, elaboration, concrete examples, dual coding, and retrieval practice - each grounded in evidence from the cognitive sciences, and each a practical strategy built on top of the principles above (not a principle in itself).
 
 !!! tip "For trainers running this session"
     Worth stressing explicitly to learners: strategies are not principles. A strategy is something you *do*, based on the evidence and reasoning a principle provides.
@@ -441,12 +441,4 @@ Likewise, a full recap of the [six evidence-based learning strategies](session-1
 ### Concluding the ELIXIR-GOBLET Train-the-Trainer course
 
 The first step to becoming a better trainer is attending this type of course in the first place - most of all, because it means you're already asking yourself *how*.
-
-
-
-
-
-
-
-
 

@@ -5,6 +5,7 @@
   id: session_1
   url: /session_1
   status: Available
+  time: 3.5 hours
   order: 1
 
 - title: Session 2
@@ -14,6 +15,7 @@
   id: session_2
   url: /session_2
   status: Available
+  time: 3.5 hours
   order: 2
 
 - title: Session 3
@@ -23,6 +25,7 @@
   id: session_3
   url: /session_3
   status: Available
+  time: 3.5 hours
   order: 3
 
 - title: Session 4
@@ -31,5 +34,6 @@
   type: Session
   id: session_4
   url: /session_4
-  status: In development
+  status: Available
+  time: 3.5 hours
   order: 4

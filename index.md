@@ -3,7 +3,7 @@ title: ELIXIR-GOBLET Train-the-Trainer Lessons
 layout: home
 tagline: Train-the-Trainer
 description: |
-    The handbook for Train-the-Trainer (TtT) instructors
+    The handbook for ELIXIR-GOBLET Train-the-Trainer (TtT) instructors
 
 ---
 
@@ -17,6 +17,6 @@ This GitHub repository contains the handbook and supporting materials for the **
 
 ## Optional modules
 
-- [ELIXIR Lesson Foundations for ELIXIR Lesson Template](https://elixir-europe-training.github.io/ELIXIR-TrP-Foundations-LessonTemplate/) - ELIXIR Lesson Foundations for ELIXIR Lesson Template
-- [Training Strategies for different teaching formats](https://docs.google.com/presentation/d/1zAIOIsQsrhPEBz1Mg-6FeVewiqzMSdTftWkjOPv2sl8/edit?slide=id.g3ccdd9ee86f_0_135#slide=id.g3ccdd9ee86f_0_135) - Training Strategies for different teaching formats
-- [Practical application of training skills in a digital environment](https://elixir-europe-training.github.io/ELIXIR-TrP-TtT-Using-LMSs-eLPs-for-Training/) - Practical application of training skills in a digital environment
+- [ELIXIR Lesson Foundations for ELIXIR Lesson Template](https://elixir-europe-training.github.io/ELIXIR-TrP-Foundations-LessonTemplate/)
+- [Training Strategies for different teaching formats](https://docs.google.com/presentation/d/1zAIOIsQsrhPEBz1Mg-6FeVewiqzMSdTftWkjOPv2sl8/edit?slide=id.g3ccdd9ee86f_0_135#slide=id.g3ccdd9ee86f_0_135) 
+- [Practical application of training skills in a digital environment](https://elixir-europe-training.github.io/ELIXIR-TrP-TtT-Using-LMSs-eLPs-for-Training/) 
