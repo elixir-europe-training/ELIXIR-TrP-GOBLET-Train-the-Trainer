@@ -5,7 +5,7 @@ subitems:
     subitems:
       - title: What is the TtT
         url: /about
-      - title: Lesson plans
+      - title: Lesson plan
         url: /lesson_plan
       - title: How to contribute
         url: /how_to_contribute

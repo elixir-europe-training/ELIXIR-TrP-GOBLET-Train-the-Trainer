@@ -35,10 +35,6 @@ This roadmap is worth stating explicitly at the very start (it's given almost wo
 {% endcapture %}
 {% include admonition.html type="tip" title="For trainers running this session" content=admonition_1 %}
 
-{% include callout.html type="tip" content="This roadmap is worth stating explicitly at the very start (it's given almost word-for-word twice in the source slides - once as a warm-up, once alongside the formal Learning Outcomes) - participants benefit from hearing where the session is headed before diving in." %}
-
-{% include callout.html type="warning" content="This roadmap is worth stating explicitly at the very start (it's given almost word-for-word twice in the source slides - once as a warm-up, once alongside the formal Learning Outcomes) - participants benefit from hearing where the session is headed before diving in." %}
-
 
 ### Learning Outcomes for Session 2
 
