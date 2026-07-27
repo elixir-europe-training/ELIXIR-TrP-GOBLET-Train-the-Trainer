@@ -3,7 +3,7 @@ title: Session 1 - Principles of learning - how they apply to training and teach
 contributors: [Patricia Palagi]
 ---
 
-## Presentation 
+## Presentation
 
 Here you can find the presentation for this session:
 
@@ -30,8 +30,10 @@ This session aims to close that gap. Understanding the principles behind learnin
 
 That's the real difference between a good trainer and a truly effective one: not just delivering content, but engineering conditions where genuine, lasting learning happens.
 
-!!! tip "For trainers running this session"
-    Warn learners up front that this session is dense. It covers a lot of theory in a short time, which can be demanding to sit through. A short heads-up ("bear with us, this one's more intense") goes a long way toward keeping the group with you.
+{% capture tip_1 %}
+Warn learners up front that this session is dense. It covers a lot of theory in a short time, which can be demanding to sit through. A short heads-up ("bear with us, this one's more intense") goes a long way toward keeping the group with you.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_1 %}
 
 ---
 
@@ -41,10 +43,12 @@ That's the real difference between a good trainer and a truly effective one: not
 
 Before introducing any theory, get learners to reflect on their own experience. This grounds everything that follows in something concrete rather than abstract.
 
-!!! question "Challenge - How do you learn something new? (3 min individual + 3 min discussion)"
-    Recall a time you learned something new - baking, driving, a mathematical theorem, a piece of music, anything. How did you go about it?
+{% capture challenge_how_you_learn %}
+Recall a time you learned something new - baking, driving, a mathematical theorem, a piece of music, anything. How did you go about it?
 
-    Use sticky notes or the [Google Form](https://forms.gle/HYWGWJMutfREeYdk9) to capture your answer, then we'll discuss a few examples together.
+Use sticky notes or the [Google Form](https://forms.gle/HYWGWJMutfREeYdk9) to capture your answer, then we'll discuss a few examples together.
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge - How do you learn something new? (3 min individual + 3 min discussion)" content=challenge_how_you_learn %}
 
 **Facilitation notes:** once responses come in, look for the different *types* of learning hiding in them. Learning can be, for example:
 
@@ -74,8 +78,10 @@ By the end of this session, participants will be able to:
 2. **Describe** the key features of a few learning models, principles, and strategies.
 3. **Explain** why understanding learning - and the models and principles behind it - matters for classroom practice.
 
-!!! tip "For trainers running this session"
-    Walk through these three outcomes and briefly explain each. For outcome 1, you can point back to the [Challenge - How do you learn something new?](#challenge-how-you-learn) itself as the example: the activity where learners reflected on different types of learning *was* the teaching practice chosen to achieve that outcome.
+{% capture tip_2 %}
+Walk through these three outcomes and briefly explain each. For outcome 1, you can point back to the [Challenge - How do you learn something new?](#challenge-how-you-learn) itself as the example: the activity where learners reflected on different types of learning *was* the teaching practice chosen to achieve that outcome.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_2 %}
 
 #### A quick word on Learning Outcomes vs. Teaching Objectives
 
@@ -102,13 +108,17 @@ If the difference feels subtle right now, that's completely normal - it'll come 
 
 Before handing learners a definition, get them to build one themselves. It makes whatever definition comes next land as a refinement of their own thinking, rather than as a fact dropped from above.
 
-!!! question "Challenge - How would you define \"learning\"? (5 min in pairs + 3 min discussion)"
-    How would *you* define "learning"?
+{% capture challenge_define_learning %}
+How would *you* define "learning"?
 
-    Work in pairs. Use sticky notes or the shared doc to write down your definition.
+Work in pairs. Use sticky notes or the shared doc to write down your definition.
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge - How would you define \"learning\"? (5 min in pairs + 3 min discussion)" content=challenge_define_learning %}
 
-!!! tip "For trainers running this session"
-    Read out a few of the definitions learners came up with, and comment on them. Use what they say as your way in to the next three ideas: permanence as a defining feature of learning, a proposed working definition, and the more detailed definition from Ambrose et al. - all covered below.
+{% capture tip_3 %}
+Read out a few of the definitions learners came up with, and comment on them. Use what they say as your way in to the next three ideas: permanence as a defining feature of learning, a proposed working definition, and the more detailed definition from Ambrose et al. - all covered below.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_3 %}
 
 ---
 
@@ -160,8 +170,10 @@ Learning is the outcome of how learners interpret and respond to their own exper
 
 *Example: a student-led experiment.* Instead of lecturing about plant growth, a teacher lets students design their own experiment - choosing variables like light or soil type, forming a hypothesis, and tracking results over several weeks. The learning happens because the students are the ones making decisions, taking ownership, and reflecting on what they find. The teacher's role is to guide and supply resources, not to supply the learning itself.
 
-!!! tip "For trainers running this session"
-    Try to have at least one example ready for each of the three features above before you run this part of the session - it's much easier for a group to grasp "learning is a process, not a product" through a birdhouse or bicycle than through the abstract phrase alone.
+{% capture tip_4 %}
+Try to have at least one example ready for each of the three features above before you run this part of the session - it's much easier for a group to grasp "learning is a process, not a product" through a birdhouse or bicycle than through the abstract phrase alone.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_4 %}
 
 ---
 
@@ -169,16 +181,20 @@ Learning is the outcome of how learners interpret and respond to their own exper
 
 <a name="challenge-why-learning-matters"></a>
 
-!!! question "Challenge - Why is learning about learning relevant for an instructor? (5 min in pairs + 3 min discussion)"
-    Why is *learning about learning* relevant to you as a trainer?
+{% capture challenge_why_learning_matters %}
+Why is *learning about learning* relevant to you as a trainer?
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge - Why is learning about learning relevant for an instructor? (5 min in pairs + 3 min discussion)" content=challenge_why_learning_matters %}
 
-!!! tip "For trainers running this session"
-    A few points worth bringing into the discussion, if they don't come up naturally:
+{% capture tip_5 %}
+A few points worth bringing into the discussion, if they don't come up naturally:
 
-    - Every trainer has run into the same recurring frustrations: learners who can't apply what they were taught, who cling to misconceptions, who look disengaged despite genuinely interesting content, who overestimate how well they understood something, or who keep using study strategies that don't actually work. These aren't separate, unrelated problems - they're all symptoms of how learning actually works, and understanding that mechanism is what lets you address the *cause* rather than firefighting the symptoms one at a time.
-    - It's easy to confuse *our effort* (the teaching) with *what learners take away* (the learning) - but those are genuinely different things, and mixing them up quietly shapes how we teach without us noticing.
-    - Try this thought experiment with the group: if a cognitive scientist convinced you that people retain almost nothing after 20 minutes of passively listening, would you keep lecturing for 45? And how would your teaching change if you assumed, instead, that a learner's mind is something to be gradually filled rather than actively engaged?
-    - Most trainers know, in the abstract, that "what I taught" and "what they learned" aren't the same thing - but in practice, it's very easy to slip into assuming they are.
+- Every trainer has run into the same recurring frustrations: learners who can't apply what they were taught, who cling to misconceptions, who look disengaged despite genuinely interesting content, who overestimate how well they understood something, or who keep using study strategies that don't actually work. These aren't separate, unrelated problems - they're all symptoms of how learning actually works, and understanding that mechanism is what lets you address the *cause* rather than firefighting the symptoms one at a time.
+- It's easy to confuse *our effort* (the teaching) with *what learners take away* (the learning) - but those are genuinely different things, and mixing them up quietly shapes how we teach without us noticing.
+- Try this thought experiment with the group: if a cognitive scientist convinced you that people retain almost nothing after 20 minutes of passively listening, would you keep lecturing for 45? And how would your teaching change if you assumed, instead, that a learner's mind is something to be gradually filled rather than actively engaged?
+- Most trainers know, in the abstract, that "what I taught" and "what they learned" aren't the same thing - but in practice, it's very easy to slip into assuming they are.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_5 %}
 
 ---
 
@@ -199,8 +215,10 @@ That raises an obvious question: which one should we rely on? Which should we le
 
 **The honest answer is: none of them, exclusively.** There is no single "universal theory of learning" that describes, with the rigor of a law of physics, exactly how learning works. Different theories each capture something real and useful - but no one theory captures everything.
 
-!!! tip "For trainers running this session"
-    Be upfront that this session can't be exhaustive, and that a deep dive into individual learning theories is beyond its scope. If learners are curious to go further, *Learning Theories Simplified* by Bob Bates is a good next step: it covers 130 classic and contemporary theorists in an accessible, bite-sized format, each with a practical "how to use it" section.
+{% capture tip_6 %}
+Be upfront that this session can't be exhaustive, and that a deep dive into individual learning theories is beyond its scope. If learners are curious to go further, *Learning Theories Simplified* by Bob Bates is a good next step: it covers 130 classic and contemporary theorists in an accessible, bite-sized format, each with a practical "how to use it" section.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_6 %}
 
 Given that landscape, this course takes a deliberately narrower, more practical path: rather than surveying theories, we focus on a small number of **learning models** and **evidence-based principles and strategies** - the parts of the research that translate most directly into things you can actually do differently in a classroom.
 
@@ -252,13 +270,15 @@ Knowing these principles helps a trainer do three things:
 
 We'll come back to a fuller set of these principles and strategies later in the session - this is just a first taste of what "evidence-based" actually looks like in practice.
 
-!!! tip "For trainers running this session"
-    A few further-reading pointers, if learners want to go deeper after the course:
+{% capture tip_7 %}
+A few further-reading pointers, if learners want to go deeper after the course:
 
-    - Ambrose et al., *How Learning Works: Seven Research-Based Principles for Smart Teaching* - the origin of the principles referenced throughout this session.
-    - Lovett, Bridges, DiPietro, Ambrose & Norman, *How Learning Works: Eight Research-Based Principles for Smart Teaching* (2nd edition) - the expanded, updated version.
-    - Weinstein & Sumeracki, *Understanding How We Learn* - six strategies for effective learning, also available as a website and blog.
-    - The Carpentries Instructor Training materials.
+- Ambrose et al., *How Learning Works: Seven Research-Based Principles for Smart Teaching* - the origin of the principles referenced throughout this session.
+- Lovett, Bridges, DiPietro, Ambrose & Norman, *How Learning Works: Eight Research-Based Principles for Smart Teaching* (2nd edition) - the expanded, updated version.
+- Weinstein & Sumeracki, *Understanding How We Learn* - six strategies for effective learning, also available as a website and blog.
+- The Carpentries Instructor Training materials.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_7 %}
 
 ---
 
@@ -295,8 +315,10 @@ Two things follow from this:
 - **It affects belonging.** A learner who's been stereotyped may spend energy managing that, rather than learning. Learners from different cultural backgrounds may communicate differently in ways that affect whether their contributions get recognised.
 - **It affects readiness for challenge.** A learner's developmental level - their autonomy, confidence, and sense that they can handle a challenge - shapes how much they can take on. Too little challenge and they disengage; too much and they're overwhelmed. Good instruction calibrates challenge to where the learner actually is - and that "where" shifts over time, so it isn't a one-off assessment.
 
-!!! tip "For trainers running this session"
-    The starting question for good teaching is simply: *who are my students?* You don't need to know everyone's personal background - but you should actively avoid assuming everyone shares yours. Approaching this with curiosity and flexibility signals to learners that they belong in the room.
+{% capture tip_8 %}
+The starting question for good teaching is simply: *who are my students?* You don't need to know everyone's personal background - but you should actively avoid assuming everyone shares yours. Approaching this with curiosity and flexibility signals to learners that they belong in the room.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_8 %}
 
 ---
 
@@ -310,13 +332,15 @@ When that prior knowledge is accurate and gets activated at the right moment, it
 - **Broken models** - a flawed mental structure, best surfaced by having learners reason through examples until they hit a contradiction.
 - **Fundamental beliefs** - tied to a learner's identity or worldview, and by far the hardest to shift.
 
-!!! tip "For trainers running this session"
-    A few concrete ways to work with this:
+{% capture tip_9 %}
+A few concrete ways to work with this:
 
-    - Give learners a way to self-assess their prior knowledge before the course even starts (a short self-test works well).
-    - Come prepared with material for the misconceptions you already know tend to show up in your subject area.
-    - To surface broken models specifically, you need both feedback on learner progress and insight into their actual mental model - formative assessment is what gets you both. Misconceptions are best managed through a practice -> feedback -> more practice cycle, rather than a single correction.
-    - Formative assessment and feedback are covered in depth in their own dedicated session of the ELIXIR-GOBLET Train-the-Trainer (TtT) course, "Assessment and feedback in training and teaching" - this is just a first taste of why they matter.
+- Give learners a way to self-assess their prior knowledge before the course even starts (a short self-test works well).
+- Come prepared with material for the misconceptions you already know tend to show up in your subject area.
+- To surface broken models specifically, you need both feedback on learner progress and insight into their actual mental model - formative assessment is what gets you both. Misconceptions are best managed through a practice -> feedback -> more practice cycle, rather than a single correction.
+- Formative assessment and feedback are covered in depth in their own dedicated session of the ELIXIR-GOBLET Train-the-Trainer (TtT) course, "Assessment and feedback in training and teaching" - this is just a first taste of why they matter.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_9 %}
 
 ---
 
@@ -326,8 +350,10 @@ Learners naturally form connections between pieces of knowledge. When those conn
 
 This is one of the clearest differences between novices and experts: novices tend to organise what they know around individual experiences or stories, while experts organise knowledge hierarchically, fitting new pieces into a larger structure and noticing when something doesn't fit. This isn't a fixed trait - knowledge organisation develops over time, and instructors can actively help it along.
 
-!!! tip "For trainers running this session"
-    Since learners won't necessarily organise information the way you do, look for ways to make structure visible and explicit - rather than assuming it'll form on its own.
+{% capture tip_10 %}
+Since learners won't necessarily organise information the way you do, look for ways to make structure visible and explicit - rather than assuming it'll form on its own.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_10 %}
 
 ---
 
@@ -335,14 +361,16 @@ This is one of the clearest differences between novices and experts: novices ten
 
 Especially once learners have real autonomy over their own effort, motivation becomes central: it shapes the direction, intensity, and persistence of what they actually do. Learners tend to be strongly motivated when they see real value in a goal or activity, believe they can actually achieve it, and feel supported by their environment.
 
-!!! tip "For trainers running this session"
-    A few concrete levers for motivation:
+{% capture tip_11 %}
+A few concrete levers for motivation:
 
-    - Show your own enthusiasm for the material - it's more contagious than it might seem.
-    - Use examples and cases that connect to learners' actual lives, jobs, or research.
-    - Write clear, well-described Learning Outcomes up front, so learners know what they're working toward and don't end up frustrated after the fact.
-    - Assess learners' expectations before you start.
-    - Build in genuine opportunities for success, and follow up with learners after the training ends.
+- Show your own enthusiasm for the material - it's more contagious than it might seem.
+- Use examples and cases that connect to learners' actual lives, jobs, or research.
+- Write clear, well-described Learning Outcomes up front, so learners know what they're working toward and don't end up frustrated after the fact.
+- Assess learners' expectations before you start.
+- Build in genuine opportunities for success, and follow up with learners after the training ends.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_11 %}
 
 ---
 
@@ -350,12 +378,14 @@ Especially once learners have real autonomy over their own effort, motivation be
 
 Mastery isn't just knowing the pieces - it's being able to combine them and recognise *when* a given skill or piece of knowledge actually applies. This is also where trainers can trip themselves up: once you're an expert, it's easy to fall into the [expert blind spot](glossary.md#glossary-expert-blind-spot) - losing sight of the gaps and needs a novice actually has, because the component skills feel too obvious to mention.
 
-!!! tip "For trainers running this session"
-    A few concrete levers for mastery:
+{% capture tip_12 %}
+A few concrete levers for mastery:
 
-    - Again, clear, well-described Learning Outcomes matter here too - they anchor what "integrating the skills" actually looks like.
-    - Build in active learning: give learners many varied opportunities to practise the concepts, not just one.
-    - Where possible, assign a complex project that requires combining skills, rather than only practising them in isolation.
+- Again, clear, well-described Learning Outcomes matter here too - they anchor what "integrating the skills" actually looks like.
+- Build in active learning: give learners many varied opportunities to practise the concepts, not just one.
+- Where possible, assign a complex project that requires combining skills, rather than only practising them in isolation.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_12 %}
 
 ---
 
@@ -363,13 +393,15 @@ Mastery isn't just knowing the pieces - it's being able to combine them and reco
 
 Practice works best when it's aimed at a specific goal or criterion, pitched at an appropriately challenging level, and repeated enough times to matter. On its own, though, practice isn't enough - it needs to be paired with feedback that clearly communicates how the learner is doing relative to that specific target, and that arrives at a time and frequency where it's actually useful.
 
-!!! tip "For trainers running this session"
-    A few concrete levers here:
+{% capture tip_13 %}
+A few concrete levers here:
 
-    - Check on learners' progress along the way, not just at the end.
-    - Give constructive feedback both to individuals and to groups - and be thoughtful and inclusive in how you phrase it.
-    - Set small, achievable goals with gradually increasing challenge - this builds confidence as well as knowledge, provided the feedback loop stays intact.
-    - Give tasks at the end of topics, and don't skip explaining *why* an answer was right or wrong.
+- Check on learners' progress along the way, not just at the end.
+- Give constructive feedback both to individuals and to groups - and be thoughtful and inclusive in how you phrase it.
+- Set small, achievable goals with gradually increasing challenge - this builds confidence as well as knowledge, provided the feedback loop stays intact.
+- Give tasks at the end of topics, and don't skip explaining *why* an answer was right or wrong.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_13 %}
 
 ---
 
@@ -377,12 +409,14 @@ Practice works best when it's aimed at a specific goal or criterion, pitched at 
 
 The social, emotional, and intellectual climate a trainer creates matters - sometimes as much as the content itself. A subtly alienating environment can derail learning even when the material itself is sound; a welcoming, intellectually challenging one can enhance it. This climate interacts with where each learner currently is developmentally, which ties this principle back to P1.
 
-!!! tip "For trainers running this session"
-    A few concrete levers:
+{% capture tip_14 %}
+A few concrete levers:
 
-    - Actively build a friendly, inclusive environment - this isn't just a nice-to-have, it measurably affects learning.
-    - Adapt Learning Outcomes to the actual level of the audience in front of you.
-    - Stay open-minded, and ask questions that genuinely invite learners to think, rather than questions with one expected answer.
+- Actively build a friendly, inclusive environment - this isn't just a nice-to-have, it measurably affects learning.
+- Adapt Learning Outcomes to the actual level of the audience in front of you.
+- Stay open-minded, and ask questions that genuinely invite learners to think, rather than questions with one expected answer.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_14 %}
 
 ---
 
@@ -390,8 +424,10 @@ The social, emotional, and intellectual climate a trainer creates matters - some
 
 This is where [metacognition](glossary.md#glossary-metacognition) comes in - thinking about one's own thinking. A metacognitive learner plans their approach, monitors how it's going, and evaluates and adjusts it when it isn't working. Developing this skill doesn't just improve a specific piece of learning - it makes someone a more effective learner in general, in any context.
 
-!!! tip "For trainers running this session"
-    The most direct lever here: build in explicit moments of self-reflection during training, rather than assuming learners will reflect on their own.
+{% capture tip_15 %}
+The most direct lever here: build in explicit moments of self-reflection during training, rather than assuming learners will reflect on their own.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_15 %}
 
 ---
 
@@ -415,43 +451,55 @@ The six strategies below come from Weinstein & Sumeracki's *Understanding How We
 
 Spacing is the direct opposite of cramming. Cramming means concentrating a large amount of study time into one intense, last-minute session. Spacing takes that exact same amount of study time and spreads it across a much longer period - and produces more durable learning for the same time invested.
 
-!!! tip "For trainers running this session"
-    Build real break moments into the course, so content has time to "settle." This matters even - maybe especially - in short, intense courses: skipping breaks tends to produce fatigue and *less* effective learning, not more.
+{% capture tip_16 %}
+Build real break moments into the course, so content has time to "settle." This matters even - maybe especially - in short, intense courses: skipping breaks tends to produce fatigue and *less* effective learning, not more.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_16 %}
 
 ### 2. Interleaving
 
 Rather than studying one topic, idea, or type of problem for an extended stretch, interleaving means deliberately switching between them - jumping from one topic to another and back again, so the learner builds connections between them rather than treating each in isolation. This is especially valuable for problem-solving-heavy subjects.
 
-!!! tip "For trainers running this session"
-    Actively support learners in making cross-topic connections. This matters even more in fast-paced short courses (a couple of days to a week): whenever you move to a new topic, ask a question or give an example that ties it back to something covered earlier, or forward to something still coming.
+{% capture tip_17 %}
+Actively support learners in making cross-topic connections. This matters even more in fast-paced short courses (a couple of days to a week): whenever you move to a new topic, ask a question or give an example that ties it back to something covered earlier, or forward to something still coming.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_17 %}
 
 ### 3. Elaboration
 
 Elaboration means explaining and describing an idea in real detail - and, crucially, connecting it to things you already know: your own experiences, memories, or everyday life. It can take many forms: drawing a concept map, comparing two topics, or explaining something in your own words rather than repeating how it was presented to you.
 
-!!! tip "For trainers running this session"
-    Summaries, concept maps, and comparison or explanation activities all support elaboration - anything that asks learners to actively retrieve what they've learned and build something new out of it. Having learners teach a concept to each other is a particularly effective way to trigger this.
+{% capture tip_18 %}
+Summaries, concept maps, and comparison or explanation activities all support elaboration - anything that asks learners to actively retrieve what they've learned and build something new out of it. Having learners teach a concept to each other is a particularly effective way to trigger this.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_18 %}
 
 ### 4. Concrete examples
 
 Abstract concepts stick better when illustrated with specific, concrete examples - and more than one example of the same idea helps a learner see past the specific instance to the underlying concept it's illustrating.
 
-!!! tip "For trainers running this session"
-    Reach for examples liberally, especially for abstract material - they help learners build a mental model, or hook the new idea onto something they already recognise. Multiple examples of the same underlying idea also help learners see where else it applies.
+{% capture tip_19 %}
+Reach for examples liberally, especially for abstract material - they help learners build a mental model, or hook the new idea onto something they already recognise. Multiple examples of the same underlying idea also help learners see where else it applies.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_19 %}
 
 ### 5. Dual coding
 
 Dual coding means pairing verbal information with a visual representation - pictures, diagrams, graphic organisers, and the like - so the same idea reaches the learner through two channels at once, verbal and visual, rather than one.
 
-!!! tip "For trainers running this session"
-    Encourage learners to build their own schemas, and try to always accompany a verbal explanation with a visual one. The visual has to actually be meaningful, though - a decorative image that doesn't map onto the content adds noise rather than reinforcement. Combining a visual aid with a verbal explanation can also extend attention span, and is particularly helpful for learners with dyslexia.
+{% capture tip_20 %}
+Encourage learners to build their own schemas, and try to always accompany a verbal explanation with a visual one. The visual has to actually be meaningful, though - a decorative image that doesn't map onto the content adds noise rather than reinforcement. Combining a visual aid with a verbal explanation can also extend attention span, and is particularly helpful for learners with dyslexia.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_20 %}
 
 ### 6. Retrieval practice
 
 Retrieval practice means actively pulling information out of long-term memory - for instance, writing out what you remember on a blank sheet of paper - rather than passively reviewing it. The distinction matters: rereading your notes, or copying a friend's, doesn't require retrieval at all, and doesn't produce the same benefit.
 
-!!! tip "For trainers running this session"
-    Concept maps built from memory (rather than copied from a reference) are a good example of retrieval practice in action. Creating opportunities to actively reactivate old material - rather than simply re-presenting it - is what makes this strategy work.
+{% capture tip_21 %}
+Concept maps built from memory (rather than copied from a reference) are a good example of retrieval practice in action. Creating opportunities to actively reactivate old material - rather than simply re-presenting it - is what makes this strategy work.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_21 %}
 
 ---
 
@@ -481,8 +529,10 @@ flowchart LR
 
 **A concrete example:** a friend gives you a note with her phone number - that's the *environment*, calling your attention. The first few times you call her, you have to look at the number and hold it in *working memory* just long enough to dial it. After calling her enough times, you no longer need the note at all - the number is now in *long-term memory*.
 
-!!! tip "For trainers running this session"
-    Ask learners to come up with their own example of the three components - environment, working memory, long-term memory - using something from their own life. Making them generate the example, rather than just hearing yours, is itself a small piece of retrieval practice.
+{% capture tip_22 %}
+Ask learners to come up with their own example of the three components - environment, working memory, long-term memory - using something from their own life. Making them generate the example, rather than just hearing yours, is itself a small piece of retrieval practice.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_22 %}
 
 ### The path to permanent learning
 
@@ -496,13 +546,17 @@ For anything to end up in long-term memory, it first has to be attended to and p
 
 This is a two-round exercise, and it works best if you run it exactly as described below, in order - the second round only works as intended if learners don't see it coming.
 
-!!! question "Challenge - How short is your short-term memory? Round 1 (solo)"
-    You'll see a sequence of letters displayed for 10 seconds. Try to remember as many as you can, in order.
+{% capture challenge_short_term_memory_span_round1 %}
+You'll see a sequence of letters displayed for 10 seconds. Try to remember as many as you can, in order.
 
-    Once the slide moves on, write down every letter you remember, in the order they appeared. Then count how many *consecutive* letters (starting from the beginning) you got right, and note that number down.
+Once the slide moves on, write down every letter you remember, in the order they appeared. Then count how many *consecutive* letters (starting from the beginning) you got right, and note that number down.
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge - How short is your short-term memory? Round 1 (solo)" content=challenge_short_term_memory_span_round1 %}
 
-!!! question "Challenge - How short is your short-term memory? Round 2 (solo)"
-    Now we'll repeat the exercise with a new set of letters. Same rules: 10 seconds on screen, then write down what you remember in order, then count your consecutive correct letters.
+{% capture challenge_short_term_memory_span_round2 %}
+Now we'll repeat the exercise with a new set of letters. Same rules: 10 seconds on screen, then write down what you remember in order, then count your consecutive correct letters.
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge - How short is your short-term memory? Round 2 (solo)" content=challenge_short_term_memory_span_round2 %}
 
 Once both rounds are done and both counts are written down, it's time to compare.
 
@@ -521,8 +575,10 @@ Once both rounds are done and both counts are written down, it's time to compare
 
 Real learning means achieving **permanence** - moving something out of the temporary workspace of working memory and into long-term storage. That transfer is delicate: it needs the right conditions, and when working memory gets overloaded, the transfer simply breaks down. Learning doesn't happen, no matter how hard the learner is trying.
 
-!!! tip "For trainers running this session"
-    Ask the group *before* giving your own answer: "given what we just did, what does this mean for how we should run a classroom?"
+{% capture tip_23 %}
+Ask the group *before* giving your own answer: "given what we just did, what does this mean for how we should run a classroom?"
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_23 %}
 
 So - practically - how do we avoid overloading it?
 
@@ -541,8 +597,10 @@ A few concrete levers:
 
 One especially direct classroom practice that follows from this: avoid long, unbroken theoretical stretches. Alternate short blocks of theory with practical exercises, so working memory gets a chance to process and consolidate before the next load arrives.
 
-!!! tip "For trainers running this session"
-    It also helps to check what learners already know, and how they currently have it organised, *before* introducing new material - connecting new concepts explicitly to things already in long-term memory makes the new material easier to absorb. This ties directly back to [P2 and P3](#part-iv-evidence-based-principles) from the evidence-based principles: prior knowledge and how it's organised both shape how new learning lands.
+{% capture tip_24 %}
+It also helps to check what learners already know, and how they currently have it organised, *before* introducing new material - connecting new concepts explicitly to things already in long-term memory makes the new material easier to absorb. This ties directly back to [P2 and P3](#part-iv-evidence-based-principles) from the evidence-based principles: prior knowledge and how it's organised both shape how new learning lands.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_24 %}
 
 ### Cognitive load: not all of it is bad
 
@@ -563,8 +621,10 @@ Some common sources of extraneous load, worth watching for in your own materials
 
 Minimising extraneous load comes down to clear, concise, well-structured instructional design - so learners can spend their limited working-memory capacity on the content that actually matters, not on decoding how it's presented.
 
-!!! tip "For trainers running this session"
-    If learners want to go deeper on this afterwards: *Cognitive Load Theory, Simplified* (MindTools) is a good accessible next step.
+{% capture tip_25 %}
+If learners want to go deeper on this afterwards: *Cognitive Load Theory, Simplified* (MindTools) is a good accessible next step.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_25 %}
 
 ### The split-attention effect
 
@@ -596,18 +656,22 @@ The working memory / long-term memory model makes us aware of a few concrete thi
 
 <a name="challenge-avoid-overload"></a>
 
-!!! question "Challenge - How could you avoid overloading learners' working memory? (5 min in groups + 7 min discussion)"
-    In your group, come up with concrete ways you could avoid overloading your learners' working memory in a session you run.
+{% capture challenge_avoid_overload %}
+In your group, come up with concrete ways you could avoid overloading your learners' working memory in a session you run.
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge - How could you avoid overloading learners' working memory? (5 min in groups + 7 min discussion)" content=challenge_avoid_overload %}
 
-!!! tip "For trainers running this session"
-    A few answers that tend to come up, if you'd like a prompt list ready in case discussion needs a nudge:
+{% capture tip_26 %}
+A few answers that tend to come up, if you'd like a prompt list ready in case discussion needs a nudge:
 
-    - Working together on exercises, and repeating ideas during peer discussion.
-    - Actively trying to close knowledge gaps rather than letting them accumulate.
-    - Keeping computer use in the room to a minimum, when it isn't strictly needed.
-    - Assigning prior materials to read at home, effectively setting a prerequisite.
-    - Providing assistants, or building in progressively increasing difficulty.
-    - Having additional exercises ready for learners who finish faster, or who need more support.
+- Working together on exercises, and repeating ideas during peer discussion.
+- Actively trying to close knowledge gaps rather than letting them accumulate.
+- Keeping computer use in the room to a minimum, when it isn't strictly needed.
+- Assigning prior materials to read at home, effectively setting a prerequisite.
+- Providing assistants, or building in progressively increasing difficulty.
+- Having additional exercises ready for learners who finish faster, or who need more support.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_26 %}
 
 ---
 
@@ -697,16 +761,18 @@ A mental model isn't fixed - it changes as we learn more, generally becoming ric
 
 ### Implications for classroom teaching
 
-!!! tip "For trainers running this session"
-    Ask the group what they think the implications are *before* giving your own answer. Possible outcomes worth having ready if the discussion needs a nudge:
+{% capture tip_27 %}
+Ask the group what they think the implications are *before* giving your own answer. Possible outcomes worth having ready if the discussion needs a nudge:
 
-    - Adjust the pace of the course to match where learners actually are.
-    - Prepare extra material in advance for learners who move faster and need more.
-    - Pair novices with more experienced peers.
-    - Ask look-ahead questions during the course to check understanding as you go.
-    - Use pre-course survey questions to get a sense of starting points before day one.
-    - Simply observe the room - body language and questions asked tell you a lot.
-    - Explicitly define the starting point you're teaching from, rather than assuming one.
+- Adjust the pace of the course to match where learners actually are.
+- Prepare extra material in advance for learners who move faster and need more.
+- Pair novices with more experienced peers.
+- Ask look-ahead questions during the course to check understanding as you go.
+- Use pre-course survey questions to get a sense of starting points before day one.
+- Simply observe the room - body language and questions asked tell you a lot.
+- Explicitly define the starting point you're teaching from, rather than assuming one.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_27 %}
 
 ### Putting the Dreyfus model and mental models together
 
@@ -739,13 +805,17 @@ A simple sequence to work through as a trainer:
 
 <a name="challenge-mental-model-reflection"></a>
 
-!!! question "Challenge - How has your mental model changed? (2 min reflection + 3 min discussion)"
-    Think back to your answer in the very first exercise of this session - [Challenge - How do you learn something new?](#challenge-how-you-learn)
+{% capture challenge_mental_model_reflection %}
+Think back to your answer in the very first exercise of this session - [Challenge - How do you learn something new?](#challenge-how-you-learn)
 
-    Has your mental model of *learning itself* changed since then? Can you spot any differences, now that you've gone through everything covered so far?
+Has your mental model of *learning itself* changed since then? Can you spot any differences, now that you've gone through everything covered so far?
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge - How has your mental model changed? (2 min reflection + 3 min discussion)" content=challenge_mental_model_reflection %}
 
-!!! tip "For trainers running this session"
-    If you'd like a second, optional angle on the same idea: ask learners to individually think of one topic where they feel like a novice, one where they're a competent practitioner, and one where they're genuinely an expert, and share with the group. It's a quick, personal way to make the novice/competent/expert distinction concrete before moving on.
+{% capture tip_28 %}
+If you'd like a second, optional angle on the same idea: ask learners to individually think of one topic where they feel like a novice, one where they're a competent practitioner, and one where they're genuinely an expert, and share with the group. It's a quick, personal way to make the novice/competent/expert distinction concrete before moving on.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_28 %}
 
 ---
 
@@ -763,8 +833,10 @@ As instructors, we tend to be firmly on the expert end of this - which means we 
 - Teach them how to abstract the relevant underlying principles from what they're learning, rather than only the surface facts.
 - Actively monitor how learners are processing new material, to check it's actually getting organised in a useful way - not just accumulated.
 
-!!! tip "For trainers running this session"
-    A citation note: the numbering above (P2, P3) matches how we've referred to these principles earlier in this handbook, using the 2023, eight-principle edition of *How Learning Works*. The original slide notes for this section cite them as "Principle 1" and "Principle 2," following the older seven-principle (2010) edition's numbering - same principles, different edition, different numbers.
+{% capture tip_29 %}
+A citation note: the numbering above (P2, P3) matches how we've referred to these principles earlier in this handbook, using the 2023, eight-principle edition of *How Learning Works*. The original slide notes for this section cite them as "Principle 1" and "Principle 2," following the older seven-principle (2010) edition's numbering - same principles, different edition, different numbers.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_29 %}
 
 The next and final model this session covers is Bloom's Taxonomy - which gives us a way to think about the *cognitive complexity* of what we're asking learners to do, complementing both the memory model and the Dreyfus/mental-model picture we've just covered.
 
@@ -794,10 +866,12 @@ flowchart BT
 
 Originally developed in 1956 and substantially revised in 2001, the taxonomy gives trainers a genuinely practical tool: each level comes with a set of **action verbs** - observable, assessable behaviours characteristic of that level - which makes the taxonomy directly useful for writing Learning Outcomes, designing learning experiences, and assessing whether learning actually happened.[^1]
 
-!!! tip "For trainers running this session"
-    Bloom's original taxonomy actually covers three domains - cognitive, affective, and psychomotor - but the cognitive domain (the six levels above) is by far the most widely used in course and curriculum design, and it's the one this session focuses on. It's also worth not treating the six levels as absolutely rigid or strictly linear: some versions of the taxonomy place *Create* (or "Synthesise," in older phrasing) differently in the hierarchy. Better to think of it as a continuum of increasing cognitive complexity than a fixed staircase.
+{% capture tip_30 %}
+Bloom's original taxonomy actually covers three domains - cognitive, affective, and psychomotor - but the cognitive domain (the six levels above) is by far the most widely used in course and curriculum design, and it's the one this session focuses on. It's also worth not treating the six levels as absolutely rigid or strictly linear: some versions of the taxonomy place *Create* (or "Synthesise," in older phrasing) differently in the hierarchy. Better to think of it as a continuum of increasing cognitive complexity than a fixed staircase.
 
-    A ready reference for the action verbs at each level: [tips.uark.edu/using-blooms-taxonomy](https://tips.uark.edu/using-blooms-taxonomy/).
+A ready reference for the action verbs at each level: [tips.uark.edu/using-blooms-taxonomy](https://tips.uark.edu/using-blooms-taxonomy/).
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_30 %}
 
 ### Seeing it in action: the coffee example
 
@@ -822,11 +896,15 @@ Notice how the verb itself - list, compare, brew, break down, judge, propose - c
 
 <a name="challenge-write-lo-for-your-course"></a>
 
-!!! question "Challenge - Think about one of your own courses (3 min to draft + 2 min to compare)"
-    Formulate and write one Learning Outcome for a course you actually teach. Specify which Bloom's level it targets - for this exercise, it doesn't matter which level you pick, just that you can name it.
+{% capture challenge_write_lo_for_your_course %}
+Formulate and write one Learning Outcome for a course you actually teach. Specify which Bloom's level it targets - for this exercise, it doesn't matter which level you pick, just that you can name it.
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge - Think about one of your own courses (3 min to draft + 2 min to compare)" content=challenge_write_lo_for_your_course %}
 
-!!! tip "For trainers running this session"
-    This activity is optional - worth including if there's time left in the session, but fine to skip if you're running short. Keep the Bloom's-level image visible on screen throughout the activity, since learners will want to refer back to it while drafting.
+{% capture tip_31 %}
+This activity is optional - worth including if there's time left in the session, but fine to skip if you're running short. Keep the Bloom's-level image visible on screen throughout the activity, since learners will want to refer back to it while drafting.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_31 %}
 
 ---
 
@@ -853,8 +931,10 @@ It also matters for **assessment**: a rubric that only checks whether a learner 
 
 The broader principle to take away: **Bloom tells you what learners should be able to do cognitively; Dreyfus tells you how they'll be able to do it, given their current stage of development.** Your Learning Outcomes, expressed in Bloom's terms, can stay fairly stable - but your instructional strategies, scaffolding, and assessment criteria need to adapt to the Dreyfus stage of the specific learners in front of you. Two courses with identical Bloom-based Learning Outcomes can, and should, look very different if one serves complete novices and the other serves advanced practitioners.
 
-!!! tip "For trainers running this session"
-    Ask the group what implications they'd draw from this relationship, before giving your own answer - same pattern as earlier discussions in this session.
+{% capture tip_32 %}
+Ask the group what implications they'd draw from this relationship, before giving your own answer - same pattern as earlier discussions in this session.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_32 %}
 
 ### Why Learning Outcomes come first
 
@@ -870,8 +950,10 @@ Choosing the right verb for a Learning Outcome isn't a wording nitpick - it dire
 
 <a name="challenge-reassess-action-verb"></a>
 
-!!! question "Challenge - Re-assess the quality of the action verb"
-    Describe the learning experience you'd design for a specific target audience - one that gives a sense of the Dreyfus level your learners are actually at.
+{% capture challenge_reassess_action_verb %}
+Describe the learning experience you'd design for a specific target audience - one that gives a sense of the Dreyfus level your learners are actually at.
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge - Re-assess the quality of the action verb" content=challenge_reassess_action_verb %}
 
 ### Connecting Bloom's Taxonomy, the Dreyfus model, and prior knowledge
 

@@ -24,20 +24,24 @@ The session emphasises the importance of **frequent feedback**. Since attention 
 
 The session also covers how to receive and use feedback on your *own* teaching. Negative or critical feedback can be difficult to hear, but it's also a valuable source of information for reflective practice - TtT encourages approaching feedback not as a personal attack, but as an opportunity to improve your training design and facilitation.
 
-!!! tip "For trainers running this session"
-    For TtT instructors specifically: this session is a chance to reinforce that assessment, feedback, and evaluation should be planned from the very beginning of course design - not bolted on at the end as an afterthought.
+{% capture tip_1 %}
+For TtT instructors specifically: this session is a chance to reinforce that assessment, feedback, and evaluation should be planned from the very beginning of course design - not bolted on at the end as an afterthought.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_1 %}
 
 ### Learning Outcomes for Session 4
 
 By the end of Session 4, you will be able to:
 
-- Describe the differences between formative and summative assessment.
-- Explain why frequent feedback is important.
-- Describe and exemplify a few techniques for formative assessment.
-- List a few techniques to cope with feedback on your own teaching efforts.
+- **Describe** the differences between formative and summative assessment.
+- **Explain** why frequent feedback is important.
+- **Describe** and **exemplify** a few techniques for formative assessment.
+- **List** a few techniques to cope with feedback on your own teaching efforts.
 
-!!! tip "For trainers running this session"
-    Take the opportunity, once again, to recall how action verbs from [Bloom's Taxonomy](glossary.md#glossary-blooms-taxonomy) help define what learners are expected to be able to do after a course.
+{% capture tip_2 %}
+Take the opportunity, once again, to recall how action verbs from [Bloom's Taxonomy](glossary.md#glossary-blooms-taxonomy) help define what learners are expected to be able to do after a course.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_2 %}
 
 ### Key concepts: assessment and feedback
 
@@ -69,8 +73,10 @@ flowchart LR
     PRE["Pre-course"] --> BEG["Beginning of course"] --> DUR["During"] --> RA["Right after"] --> LA["Long after"]
 ```
 
-!!! tip "For trainers running this session"
-    Before revealing the answer, steer a discussion: what would you, as trainers, try to assess in each of these time periods?
+{% capture tip_3 %}
+Before revealing the answer, steer a discussion: what would you, as trainers, try to assess in each of these time periods?
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_3 %}
 
 - **Pre-course** - verify the target audience: do they have the needed prerequisites, and are learner expectations aligned with trainer expectations?
 - **Beginning of course** - a preventive check, adjusting the course to the reality of the participants actually in the room.
@@ -112,18 +118,24 @@ Looking again at the timing dimension, but for feedback specifically:
 
 <a name="challenge-diagnostic-assessment"></a>
 
-!!! question "Challenge 4.1 - Diagnostic Assessment (group activity, 8 min)"
-    Discuss how you could collect information about learners' prior knowledge - before, and at the beginning of, a course - and how you could use that information.
+{% capture challenge_diagnostic_assessment %}
+Discuss how you could collect information about learners' prior knowledge - before, and at the beginning of, a course - and how you could use that information.
 
-    Write your discussion in the shared notes.
+Write your discussion in the shared notes.
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge 4.1 - Diagnostic Assessment (group activity, 8 min)" content=challenge_diagnostic_assessment %}
 
-!!! tip "For trainers running this session"
-    Break-out rooms of 2-5 people work well here, depending on group size - decide this in advance. Pre-course assessments are useful for finding out where a group of learners actually stands at the start of a course: they help set realistic Learning Outcomes, meet learner expectations, and adapt content to fill identified gaps (while avoiding time spent on topics that aren't actually necessary). Diagnostic questionnaires can be anonymous or not: anonymous questionnaires give a sense of the whole group's level; non-anonymous ones let you find out whether a *specific* learner has the needed prerequisites, so you can adjust your teaching accordingly if not.
+{% capture tip_4 %}
+Break-out rooms of 2-5 people work well here, depending on group size - decide this in advance. Pre-course assessments are useful for finding out where a group of learners actually stands at the start of a course: they help set realistic Learning Outcomes, meet learner expectations, and adapt content to fill identified gaps (while avoiding time spent on topics that aren't actually necessary). Diagnostic questionnaires can be anonymous or not: anonymous questionnaires give a sense of the whole group's level; non-anonymous ones let you find out whether a *specific* learner has the needed prerequisites, so you can adjust your teaching accordingly if not.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_4 %}
 
 ### Assessment vs. feedback: what's the difference?
 
-!!! tip "For trainers running this session"
-    Open this up as a discussion: ask learners, in the classroom, whether they can articulate the difference between assessment and feedback. Use the moment to correct any misconceptions that come up.
+{% capture tip_5 %}
+Open this up as a discussion: ask learners, in the classroom, whether they can articulate the difference between assessment and feedback. Use the moment to correct any misconceptions that come up.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_5 %}
 
 ---
 
@@ -161,10 +173,12 @@ While the product shows achievement, the process reveals growth, effort, and dee
 
 Formative assessment is like a GPS - it helps you adjust your route while you're still on the journey. Summative assessment is like a snapshot - it captures what learners have achieved once the journey is complete. Both are valuable: formative helps learners grow, summative helps measure that growth, and together they support a complete picture of learning.[^1]
 
-!!! tip "For trainers running this session"
-    Note that for summative assessment, "the end" doesn't necessarily mean the end of an entire course - summative assessments can be distributed throughout a course, after a particular unit or topic has been taught and graded.
+{% capture tip_6 %}
+Note that for summative assessment, "the end" doesn't necessarily mean the end of an entire course - summative assessments can be distributed throughout a course, after a particular unit or topic has been taught and graded.
 
-    Common summative methods: tests, interviews, observations, questionnaires, projects. **For this TtT course specifically, the focus from here on is formative assessment** - collecting information and feedback on how learning is progressing.
+Common summative methods: tests, interviews, observations, questionnaires, projects. **For this TtT course specifically, the focus from here on is formative assessment** - collecting information and feedback on how learning is progressing.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_6 %}
 
 ### Formative assessment: what to collect
 
@@ -184,17 +198,21 @@ Formative assessment means collecting information about learners' learning progr
 
 <a name="challenge-formative-assessment-info"></a>
 
-!!! question "Challenge 4.2 - Formative Assessment (group activity, 5 min)"
-    Discuss how you could collect information on learners':
+{% capture challenge_formative_assessment_info %}
+Discuss how you could collect information on learners':
 
-    - Goals and objectives
-    - Mental models
-    - Frequent mistakes
+- Goals and objectives
+- Mental models
+- Frequent mistakes
 
-    Write it in the shared notes.
+Write it in the shared notes.
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge 4.2 - Formative Assessment (group activity, 5 min)" content=challenge_formative_assessment_info %}
 
-!!! tip "For trainers running this session"
-    This is more specific than the previous challenge. Challenge 4.1 asked learners to reflect on assessing prior knowledge in general; here, the focus narrows to three specific things: learners' own goals for attending the course, their mental models (broken or correct, about a specific topic), and common, frequent mistakes.
+{% capture tip_7 %}
+This is more specific than the previous challenge. Challenge 4.1 asked learners to reflect on assessing prior knowledge in general; here, the focus narrows to three specific things: learners' own goals for attending the course, their mental models (broken or correct, about a specific topic), and common, frequent mistakes.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_7 %}
 
 ---
 
@@ -202,24 +220,28 @@ Formative assessment means collecting information about learners' learning progr
 
 <a name="challenge-mcq-mental-model"></a>
 
-!!! question "Challenge 4.3 - Multiple Choice Questions and mental model (individual, 3-5 min)"
-    For the question below, choose each wrong answer in turn and write down which misconception it likely reflects.
+{% capture challenge_mcq_mental_model %}
+For the question below, choose each wrong answer in turn and write down which misconception it likely reflects.
 
-    **Q: How much is 27 + 15?**
+**Q: How much is 27 + 15?**
 
-    - 42
-    - 32
-    - 312
-    - 33
+- 42
+- 32
+- 312
+- 33
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge 4.3 - Multiple Choice Questions and mental model (individual, 3-5 min)" content=challenge_mcq_mental_model %}
 
-!!! tip "For trainers running this session"
-    A well-designed multiple-choice question can reveal misconceptions, not just whether learners know the right answer.[^3] For this example: the correct answer is 42.
+{% capture tip_8 %}
+A well-designed multiple-choice question can reveal misconceptions, not just whether learners know the right answer.[^3] For this example: the correct answer is 42.
 
-    - **32** - the learner discarded the carried digit entirely.
-    - **312** - the learner knows they can't simply discard the carried '1', but doesn't understand it represents a ten that needs adding into the next column - they're treating each column as unconnected to its neighbors.
-    - **33** - the learner knows to carry the 1, but carries it back into the same column it came from, rather than the next one.
+- **32** - the learner discarded the carried digit entirely.
+- **312** - the learner knows they can't simply discard the carried '1', but doesn't understand it represents a ten that needs adding into the next column - they're treating each column as unconnected to its neighbors.
+- **33** - the learner knows to carry the 1, but carries it back into the same column it came from, rather than the next one.
 
-    When designing multiple-choice activities, it's worth deliberately crafting wrong answers that reveal *what* learners misunderstood, not just *whether* they got it right.
+When designing multiple-choice activities, it's worth deliberately crafting wrong answers that reveal *what* learners misunderstood, not just *whether* they got it right.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_8 %}
 
 ---
 
@@ -262,11 +284,13 @@ Learners can also evaluate each other - through self-assessment, or peer evaluat
 
 <a name="challenge-integrate-formative-assessment"></a>
 
-!!! question "Challenge 4.4 - How to integrate the results of formative assessment/feedback into your course (5 min)"
-    Thinking about this TtT course itself:
+{% capture challenge_integrate_formative_assessment %}
+Thinking about this TtT course itself:
 
-    - How did the instructors assess your learning? Write it in the shared notes.
-    - Choose one of the feedback-collection techniques covered in the previous slides, and write how you could integrate its results into your own lesson, on the fly.
+- How did the instructors assess your learning? Write it in the shared notes.
+- Choose one of the feedback-collection techniques covered in the previous slides, and write how you could integrate its results into your own lesson, on the fly.
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge 4.4 - How to integrate the results of formative assessment/feedback into your course (5 min)" content=challenge_integrate_formative_assessment %}
 
 ---
 
@@ -274,10 +298,12 @@ Learners can also evaluate each other - through self-assessment, or peer evaluat
 
 <a name="challenge-formative-assessment-frequency"></a>
 
-!!! question "Challenge 4.5 - How frequent should formative assessment be? (2 min)"
-    Thinking about this course: how many feedback opportunities have you had so far? How frequently do you think formative feedback should actually happen?
+{% capture challenge_formative_assessment_frequency %}
+Thinking about this course: how many feedback opportunities have you had so far? How frequently do you think formative feedback should actually happen?
 
-    Take notes for a short review afterward.
+Take notes for a short review afterward.
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge 4.5 - How frequent should formative assessment be? (2 min)" content=challenge_formative_assessment_frequency %}
 
 ---
 
@@ -397,8 +423,10 @@ Session 4 closed the loop on something implicit in every previous session: asses
 
 <a name="bonus-combining-the-four-sessions"></a>
 
-!!! tip "Editorial note"
-    Everything in this final part is **not actually part of Session 4** - the source material is explicit about this: it's a standalone, 45-minute closing session for the whole Train-the-Trainer course, bringing back key concepts from all four core sessions and asking learners to combine them. It's included here because it was in the same slide deck, but it may make more sense as its own file once this handbook is reorganized - see the note at the end of this section.
+{% capture tip_9 %}
+Everything in this final part is **not actually part of Session 4** - the source material is explicit about this: it's a standalone, 45-minute closing session for the whole Train-the-Trainer course, bringing back key concepts from all four core sessions and asking learners to combine them. It's included here because it was in the same slide deck, but it may make more sense as its own file once this handbook is reorganized - see the note at the end of this section.
+{% endcapture %}
+{% include admonition.html type="tip" title="Editorial note" content=tip_9 %}
 
 ### Recap: Curriculum design (Nicholls' cycle)
 
@@ -412,8 +440,10 @@ A full recap of [P1-P8](session_1.md#part-iv-evidence-based-principles) from Ses
 
 Likewise, a full recap of the [six evidence-based learning strategies](session_1.md#part-v-six-learning-strategies) from Session 1 - spaced practice, interleaving, elaboration, concrete examples, dual coding, and retrieval practice - each grounded in evidence from the cognitive sciences, and each a practical strategy built on top of the principles above (not a principle in itself).
 
-!!! tip "For trainers running this session"
-    Worth stressing explicitly to learners: strategies are not principles. A strategy is something you *do*, based on the evidence and reasoning a principle provides.
+{% capture tip_10 %}
+Worth stressing explicitly to learners: strategies are not principles. A strategy is something you *do*, based on the evidence and reasoning a principle provides.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_10 %}
 
 ---
 
@@ -421,24 +451,29 @@ Likewise, a full recap of the [six evidence-based learning strategies](session_1
 
 <a name="challenge-apply-principle-strategy"></a>
 
-!!! question "Challenge 4.6 - How do you see the 8 Principles of Learning now? (15 min)"
-    Work in small groups (around 6 groups of 2 people each). Each group is assigned one principle (group 1 works on Principle P1, and so on).
+{% capture challenge_apply_principle_strategy %}
+Work in small groups (around 6 groups of 2 people each). Each group is assigned one principle (group 1 works on Principle P1, and so on).
 
-    As a group, carefully read your assigned principle, then discuss:
+As a group, carefully read your assigned principle, then discuss:
 
-    - What would you do as a teacher or instructor to facilitate learning according to this principle?
-    - Which learning strategies could you use to facilitate that?
+- What would you do as a teacher or instructor to facilitate learning according to this principle?
+- Which learning strategies could you use to facilitate that?
+{% endcapture %}
+{% include admonition.html type="question" title="Challenge 4.6 - How do you see the 8 Principles of Learning now? (15 min)" content=challenge_apply_principle_strategy %}
 
-!!! tip "For trainers running this session"
-    If you have fewer than 7 groups, you can show one or both of the worked examples below as illustrations of what learners should be producing.
+{% capture tip_11 %}
+If you have fewer than 7 groups, you can show one or both of the worked examples below as illustrations of what learners should be producing.
 
-    **Example for P8** (*to become self-directed learners, students must learn to assess the demands of a task, evaluate their own knowledge and skills, plan their approach, monitor their progress, and adjust their strategies as needed*): be explicit in describing the task; have students create their own plan, making that the central goal of the assignment; have students do guided self-assessment; scaffold students into their own metacognitive processes.
+**Example for P8** (*to become self-directed learners, students must learn to assess the demands of a task, evaluate their own knowledge and skills, plan their approach, monitor their progress, and adjust their strategies as needed*): be explicit in describing the task; have students create their own plan, making that the central goal of the assignment; have students do guided self-assessment; scaffold students into their own metacognitive processes.
 
-    **Example for P3** (*how students organise knowledge influences how they learn and apply what they know*): teach learners about concept maps - how to build them, how to use them, and how new concepts or facts fit into them; explain this every time a new concept or fact is introduced, and reinforce the general overview regularly.
+**Example for P3** (*how students organise knowledge influences how they learn and apply what they know*): teach learners about concept maps - how to build them, how to use them, and how new concepts or facts fit into them; explain this every time a new concept or fact is introduced, and reinforce the general overview regularly.
 
-    A citation note: the source slides label these two examples "Principle 7" and "Principle 2" respectively - but that doesn't match the P1-P8 numbering used consistently elsewhere in this handbook (and even elsewhere in the same slide deck, a few slides earlier), where self-directed learning is P8 and knowledge organisation is P3. This looks like an internal numbering slip in the source material itself, not an intentional alternate numbering - the examples above use the corrected P8/P3 labels.
+A citation note: the source slides label these two examples "Principle 7" and "Principle 2" respectively - but that doesn't match the P1-P8 numbering used consistently elsewhere in this handbook (and even elsewhere in the same slide deck, a few slides earlier), where self-directed learning is P8 and knowledge organisation is P3. This looks like an internal numbering slip in the source material itself, not an intentional alternate numbering - the examples above use the corrected P8/P3 labels.
+{% endcapture %}
+{% include admonition.html type="tip" title="For trainers running this session" content=tip_11 %}
 
 ### Concluding the ELIXIR-GOBLET Train-the-Trainer course
 
 The first step to becoming a better trainer is attending this type of course in the first place - most of all, because it means you're already asking yourself *how*.
+
 
