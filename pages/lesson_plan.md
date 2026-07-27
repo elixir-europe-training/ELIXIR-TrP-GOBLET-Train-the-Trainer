@@ -1,3 +1,8 @@
+---
+title: Lesson Plan
+contributors: [Patricia Palagi]
+---
+
 # ELIXIR-GOBLET Train-the-Trainer - Lesson Plan
 
 A day-by-day lesson plan for running the full 4-day TtT course, following the same lesson-plan format taught in [Session 2](session-2.md#part-vii-developing-content-and-lesson-plan): Time, Activity, Description, Materials, Learning Outcomes, and Teaching Goal.

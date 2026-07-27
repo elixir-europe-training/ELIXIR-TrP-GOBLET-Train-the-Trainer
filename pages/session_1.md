@@ -3,7 +3,7 @@ title: Session 1 - Principles of learning - how they apply to training and teach
 contributors: [Patricia Palagi]
 ---
 
-## Presentation
+## Presentation 
 
 Here you can find the presentation for this session:
 
