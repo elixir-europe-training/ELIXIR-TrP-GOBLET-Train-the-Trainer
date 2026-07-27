@@ -423,10 +423,10 @@ Session 4 closed the loop on something implicit in every previous session: asses
 
 <a name="bonus-combining-the-four-sessions"></a>
 
-{% capture tip_9 %}
+{% capture important_1 %}
 Everything in this final part is **not actually part of Session 4** - the source material is explicit about this: it's a standalone, 45-minute closing session for the whole Train-the-Trainer course, bringing back key concepts from all four core sessions and asking learners to combine them. It's included here because it was in the same slide deck, but it may make more sense as its own file once this handbook is reorganized - see the note at the end of this section.
 {% endcapture %}
-{% include admonition.html type="tip" title="Editorial note" content=tip_9 %}
+{% include admonition.html type="important" title="Editorial note" content=important_1 %}
 
 ### Recap: Curriculum design (Nicholls' cycle)
 
@@ -475,5 +475,8 @@ A citation note: the source slides label these two examples "Principle 7" and "P
 ### Concluding the ELIXIR-GOBLET Train-the-Trainer course
 
 The first step to becoming a better trainer is attending this type of course in the first place - most of all, because it means you're already asking yourself *how*.
+
+
+
 
 
