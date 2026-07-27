@@ -1,0 +1,8 @@
+# Default Font Awesome icon per admonition type, shown before the title.
+# Override per-call with the `icon` parameter on the admonition.html include.
+tip: fa-solid fa-lightbulb
+question: fa-solid fa-circle-question
+overview: fa-solid fa-compass
+note: fa-solid fa-note-sticky
+warning: fa-solid fa-triangle-exclamation
+important: fa-solid fa-circle-exclamation

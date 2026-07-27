@@ -25,10 +25,27 @@
   .admonition-title {
     font-weight: bold;
     margin-bottom: 0.5rem;
+
+    .admonition-icon {
+      margin-right: 0.35rem;
+    }
   }
 
   > *:last-child {
     margin-bottom: 0;
+  }
+
+  // Collapsible admonitions are rendered as <details>/<summary> instead of
+  // <div>/<p>; the title only needs its bottom margin while expanded, since
+  // a collapsed summary has no visible content below it.
+  summary.admonition-title {
+    cursor: pointer;
+    margin-bottom: 0;
+    list-style-position: outside;
+  }
+
+  &[open] summary.admonition-title {
+    margin-bottom: 0.5rem;
   }
 }
 
@@ -56,6 +73,33 @@
 
   .admonition-title {
     color: $info;
+  }
+}
+
+.admonition-note {
+  border-color: $secondary;
+  background-color: rgba($secondary, 0.08);
+
+  .admonition-title {
+    color: $secondary;
+  }
+}
+
+.admonition-warning {
+  border-color: $warning;
+  background-color: rgba($warning, 0.08);
+
+  .admonition-title {
+    color: darken($warning, 15%);
+  }
+}
+
+.admonition-important {
+  border-color: $danger;
+  background-color: rgba($danger, 0.08);
+
+  .admonition-title {
+    color: $danger;
   }
 }
 
