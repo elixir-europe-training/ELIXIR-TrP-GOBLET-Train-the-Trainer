@@ -1,8 +1,16 @@
 subitems:
   - title: Home
     url: /index
-  - title: What is the TtT
-    url: /about
+  - title: About TtT
+    subitems:
+      - title: What is the TtT
+        url: /about
+      - title: Lesson plans
+        url: /lesson_plans
+      - title: How to contribute
+        url: /how_to_contribute
+      - title: Contributors
+        url: /contributors
   - title: Sessions
     subitems:
       - title: Session 1
