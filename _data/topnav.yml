@@ -9,6 +9,8 @@ subitems:
         url: /lesson_plan
       - title: Contributors
         url: /contributors
+      - title: How to Contribute
+        url: /how_to_contribute
   - title: Sessions
     subitems:
       - title: Session 1
