@@ -39,7 +39,7 @@ Warn learners up front that this session is dense. It covers a lot of theory in 
 
 ### Challenge - How do you learn something new?
 
-<a name="challenge-how-you-learn"></a>
+<a name="challenge_how_you_learn"></a>
 
 Before introducing any theory, get learners to reflect on their own experience. This grounds everything that follows in something concrete rather than abstract.
 
@@ -79,7 +79,7 @@ By the end of this session, participants will be able to:
 3. **Explain** why understanding learning - and the models and principles behind it - matters for classroom practice.
 
 {% capture tip_2 %}
-Walk through these three outcomes and briefly explain each. For outcome 1, you can point back to the [Challenge - How do you learn something new?](#challenge-how-you-learn) itself as the example: the activity where learners reflected on different types of learning *was* the teaching practice chosen to achieve that outcome.
+Walk through these three outcomes and briefly explain each. For outcome 1, you can point back to the [Challenge - How do you learn something new?](#challenge_how_you_learn) itself as the example: the activity where learners reflected on different types of learning *was* the teaching practice chosen to achieve that outcome.
 {% endcapture %}
 {% include admonition.html type="tip" title="For trainers running this session" content=tip_2 %}
 
@@ -104,7 +104,7 @@ If the difference feels subtle right now, that's completely normal - it'll come 
 
 ### Challenge - How would you define "learning"?
 
-<a name="challenge-define-learning"></a>
+<a name="challenge_define_learning"></a>
 
 Before handing learners a definition, get them to build one themselves. It makes whatever definition comes next land as a refinement of their own thinking, rather than as a fact dropped from above.
 
@@ -124,7 +124,7 @@ Read out a few of the definitions learners came up with, and comment on them. Us
 
 ### Permanence: the one thing every kind of learning shares
 
-Whatever a learner produced in the [Challenge - How would you define "learning"?](#challenge-define-learning), there's a good chance "permanence" shows up somewhere in it, even if not by that name. It's worth naming explicitly: **a change only counts as learning if it lasts.**
+Whatever a learner produced in the [Challenge - How would you define "learning"?](#challenge_define_learning), there's a good chance "permanence" shows up somewhere in it, even if not by that name. It's worth naming explicitly: **a change only counts as learning if it lasts.**
 
 A couple of examples make this concrete:
 
@@ -179,7 +179,7 @@ Try to have at least one example ready for each of the three features above befo
 
 ### Challenge - Why does this matter for you as an instructor?
 
-<a name="challenge-why-learning-matters"></a>
+<a name="challenge_why_learning_matters"></a>
 
 {% capture challenge_why_learning_matters %}
 Why is *learning about learning* relevant to you as a trainer?
@@ -542,7 +542,7 @@ For anything to end up in long-term memory, it first has to be attended to and p
 
 ### Challenge - How short is your short-term memory?
 
-<a name="challenge-short-term-memory-span"></a>
+<a name="challenge_short_term_memory_span"></a>
 
 This is a two-round exercise, and it works best if you run it exactly as described below, in order - the second round only works as intended if learners don't see it coming.
 
@@ -656,7 +656,7 @@ The working memory / long-term memory model makes us aware of a few concrete thi
 
 ### Challenge - How could you avoid overloading learners' working memory?
 
-<a name="challenge-avoid-overload"></a>
+<a name="challenge_avoid_overload"></a>
 
 {% capture challenge_avoid_overload %}
 In your group, come up with concrete ways you could avoid overloading your learners' working memory in a session you run.
@@ -805,10 +805,10 @@ A simple sequence to work through as a trainer:
 
 ### Challenge - How has your mental model changed?
 
-<a name="challenge-mental-model-reflection"></a>
+<a name="challenge_mental_model_reflection"></a>
 
 {% capture challenge_mental_model_reflection %}
-Think back to your answer in the very first exercise of this session - [Challenge - How do you learn something new?](#challenge-how-you-learn)
+Think back to your answer in the very first exercise of this session - [Challenge - How do you learn something new?](#challenge_how_you_learn)
 
 Has your mental model of *learning itself* changed since then? Can you spot any differences, now that you've gone through everything covered so far?
 {% endcapture %}
@@ -896,7 +896,7 @@ Notice how the verb itself - list, compare, brew, break down, judge, propose - c
 
 ### Challenge - Write a Learning Outcome for one of your own courses (optional)
 
-<a name="challenge-write-lo-for-your-course"></a>
+<a name="challenge_write_lo_for_your_course"></a>
 
 {% capture challenge_write_lo_for_your_course %}
 Formulate and write one Learning Outcome for a course you actually teach. Specify which Bloom's level it targets - for this exercise, it doesn't matter which level you pick, just that you can name it.
@@ -950,7 +950,7 @@ Choosing the right verb for a Learning Outcome isn't a wording nitpick - it dire
 
 ### Challenge - Re-assess the quality of an action verb
 
-<a name="challenge-reassess-action-verb"></a>
+<a name="challenge_reassess_action_verb"></a>
 
 {% capture challenge_reassess_action_verb %}
 Describe the learning experience you'd design for a specific target audience - one that gives a sense of the Dreyfus level your learners are actually at.

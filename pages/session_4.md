@@ -116,7 +116,7 @@ Looking again at the timing dimension, but for feedback specifically:
 
 ### Challenge - Diagnostic Assessment
 
-<a name="challenge-diagnostic-assessment"></a>
+<a name="challenge_diagnostic_assessment"></a>
 
 {% capture challenge_diagnostic_assessment %}
 Discuss how you could collect information about learners' prior knowledge - before, and at the beginning of, a course - and how you could use that information.
@@ -196,7 +196,7 @@ Formative assessment means collecting information about learners' learning progr
 
 ### Challenge - Formative Assessment
 
-<a name="challenge-formative-assessment-info"></a>
+<a name="challenge_formative_assessment_info"></a>
 
 {% capture challenge_formative_assessment_info %}
 Discuss how you could collect information on learners':
@@ -218,7 +218,7 @@ This is more specific than the previous challenge. Challenge 4.1 asked learners 
 
 ### Challenge - Multiple Choice Questions and Mental Models
 
-<a name="challenge-mcq-mental-model"></a>
+<a name="challenge_mcq_mental_model"></a>
 
 {% capture challenge_mcq_mental_model %}
 For the question below, choose each wrong answer in turn and write down which misconception it likely reflects.
@@ -282,7 +282,7 @@ Learners can also evaluate each other - through self-assessment, or peer evaluat
 
 ### Challenge - Integrating Formative Assessment Results
 
-<a name="challenge-integrate-formative-assessment"></a>
+<a name="challenge_integrate_formative_assessment"></a>
 
 {% capture challenge_integrate_formative_assessment %}
 Thinking about this TtT course itself:
@@ -296,7 +296,7 @@ Thinking about this TtT course itself:
 
 ### Challenge - How Frequent Should Formative Assessment Be?
 
-<a name="challenge-formative-assessment-frequency"></a>
+<a name="challenge_formative_assessment_frequency"></a>
 
 {% capture challenge_formative_assessment_frequency %}
 Thinking about this course: how many feedback opportunities have you had so far? How frequently do you think formative feedback should actually happen?
@@ -449,7 +449,7 @@ Worth stressing explicitly to learners: strategies are not principles. A strateg
 
 ### Challenge - Applying a Principle and a Strategy
 
-<a name="challenge-apply-principle-strategy"></a>
+<a name="challenge_apply_principle_strategy"></a>
 
 {% capture challenge_apply_principle_strategy %}
 Work in small groups (around 6 groups of 2 people each). Each group is assigned one principle (group 1 works on Principle P1, and so on).

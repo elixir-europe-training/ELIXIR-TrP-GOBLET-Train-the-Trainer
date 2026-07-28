@@ -49,7 +49,7 @@ By the end of this session, you will be able to:
 
 ### Challenge - How do you currently plan and design a training session?
 
-<a name="challenge-current-planning-practice"></a>
+<a name="challenge_current_planning_practice"></a>
 
 {% capture challenge_current_planning_practice %}
 Review the list of potential actions for planning and designing a training session (below). Reflect on your own practice:
@@ -96,6 +96,7 @@ flowchart LR
 This is a deliberately simplified picture. The full training life cycle covers more ground (finding suitable trainers, logistics, budget) than this session addresses - Session 2 focuses specifically on Plan, Design, Develop, Deliver, and Evaluate as they apply to building one mini-training.
 {% endcapture %}
 {% include admonition.html type="tip" title="For trainers running this session" content=tip_3 %}
+
 ---
 
 ## Session 2 - Part II - Learning Outcomes: Three Frameworks
@@ -104,7 +105,7 @@ This is a deliberately simplified picture. The full training life cycle covers m
 
 ### Challenge - What are Learning Outcomes?
 
-<a name="challenge-define-los-yourself"></a>
+<a name="challenge_define_los_yourself"></a>
 
 {% capture challenge_define_los_yourself %}
 In your own words, write in the shared doc what you think a Learning Outcome is.
@@ -243,7 +244,7 @@ Together, a Syllabus scaffolds long-term learning while a lesson plan delivers e
 
 ### Challenge - Draft a Syllabus
 
-<a name="challenge-draft-a-syllabus"></a>
+<a name="challenge_draft_a_syllabus"></a>
 
 {% capture challenge_draft_a_syllabus %}
 Choose a topic for a 3-minute lesson - something you could actually teach someone in three minutes.
@@ -281,7 +282,7 @@ If a Learning Experience doesn't align with its Learning Outcome, you have two o
 
 ### Challenge - Add Learning Experiences to your Syllabus
 
-<a name="challenge-add-les-to-syllabus"></a>
+<a name="challenge_add_les_to_syllabus"></a>
 
 {% capture challenge_add_les_to_syllabus %}
 For each Learning Outcome in your Syllabus draft, think through possible Learning Experiences that would be aligned with it. Choose one Learning Experience per LO, and add it to your Syllabus in the shared doc.
@@ -400,7 +401,7 @@ A useful mindset shift to leave participants with: from "what can I teach?" to "
 
 ### Challenge - Draw a concept map for your mini-lesson
 
-<a name="challenge-draw-concept-map"></a>
+<a name="challenge_draw_concept_map"></a>
 
 {% capture challenge_draw_concept_map %}
 Create a concept map for your 3-minute training topic:
@@ -452,7 +453,7 @@ When *receiving* feedback, the goal is to stay open and curious - ask questions,
 
 ### Challenge - Share your concept map
 
-<a name="challenge-share-concept-map"></a>
+<a name="challenge_share_concept_map"></a>
 
 {% capture challenge_share_concept_map %}
 Pair up (breakout rooms). Exchange concept maps - show which one is yours, without explaining it.
@@ -537,7 +538,7 @@ For each segment of your lesson plan, define:
 
 ### Challenge - Produce the content for your mini-training
 
-<a name="challenge-produce-mini-training-content"></a>
+<a name="challenge_produce_mini_training_content"></a>
 
 {% capture challenge_produce_mini_training_content %}
 It's time to prepare the actual content of your mini-training. Suggested structure:
@@ -563,7 +564,7 @@ Use your concept map as support. Ask yourself: do you need any material support?
 
 ### Challenge - Deliver your mini-training
 
-<a name="challenge-deliver-mini-training"></a>
+<a name="challenge_deliver_mini_training"></a>
 
 {% capture challenge_deliver_mini_training %}
 Each participant has 3 minutes to deliver their session.
@@ -600,7 +601,7 @@ Two recap diagrams from earlier in the session are worth revisiting at this poin
 
 ### Challenge - Self-reflect on your initial Learning Outcomes
 
-<a name="challenge-reflect-on-initial-los"></a>
+<a name="challenge_reflect_on_initial_los"></a>
 
 {% capture challenge_reflect_on_initial_los %}
 Based on the delivery of your mini-training session, look back at the Learning Outcomes you set at the very start:

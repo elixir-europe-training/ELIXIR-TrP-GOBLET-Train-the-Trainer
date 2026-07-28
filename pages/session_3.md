@@ -48,7 +48,7 @@ Two tips worth sharing with participants up front: you don't have to talk for le
 
 ### Challenge - What makes training effective? What makes a good trainer?
 
-<a name="challenge-effective-training-and-trainer"></a>
+<a name="challenge_effective_training_and_trainer"></a>
 
 {% capture challenge_effective_training_and_trainer %}
 Recall concrete examples from your own past training experience - as a learner, or as a trainer - and share them with your colleague.
@@ -108,7 +108,7 @@ A few concrete notes per area, worth sharing:
 
 ### Challenge - Reflect on your skills as a trainer
 
-<a name="challenge-reflect-goblet-skills"></a>
+<a name="challenge_reflect_goblet_skills"></a>
 
 {% capture challenge_reflect_goblet_skills %}
 Examine the GOBLET skills matrix (in the shared notes) and reflect: in which area(s) do you feel you need to improve? What exactly should you work on?
@@ -133,7 +133,7 @@ A short (13-minute) video featuring Eric Mazur, professor of Physics at Harvard 
 
 ### Challenge - Reflect on Mazur's interview
 
-<a name="challenge-reflect-mazur-interview"></a>
+<a name="challenge_reflect_mazur_interview"></a>
 
 {% capture challenge_reflect_mazur_interview %}
 Write in the shared notes what impressed you in Mazur's interview.
@@ -257,7 +257,7 @@ A further list of practices worth knowing (and, ideally, practising): brief ques
 
 ### Challenge - Evaluate strategies for active learning
 
-<a name="challenge-classify-active-learning-strategies"></a>
+<a name="challenge_classify_active_learning_strategies"></a>
 
 {% capture challenge_classify_active_learning_strategies %}
 Classify the list of active learning strategies (in the shared doc) into: Practiced (P), Known (K), Unknown (U).
@@ -290,7 +290,7 @@ There are also many other practices you can naturally incorporate to support int
 - Use blended, multimedia materials to create engaging activities.
 
 {% capture tip_12 %}
-Note: several of these strategies (working together on exercises, closing knowledge gaps, minimizing computer use, assigning prior reading as a prerequisite, providing assistants or progressive difficulty, having extra exercises ready) are the same ones that came up when we discussed avoiding working-memory overload back in [Session 1](session_1.md#challenge-avoid-overload) - a good sign that these practices genuinely reinforce each other across different parts of the course design.
+Note: several of these strategies (working together on exercises, closing knowledge gaps, minimizing computer use, assigning prior reading as a prerequisite, providing assistants or progressive difficulty, having extra exercises ready) are the same ones that came up when we discussed avoiding working-memory overload back in [Session 1](session_1.md#challenge_avoid_overload) - a good sign that these practices genuinely reinforce each other across different parts of the course design.
 {% endcapture %}
 {% include admonition.html type="tip" title="For trainers running this session" content=tip_12 %}
 
@@ -298,7 +298,7 @@ Note: several of these strategies (working together on exercises, closing knowle
 
 ### Challenge - Link teaching practices, Learning Outcomes, and Bloom's levels
 
-<a name="challenge-link-practices-los-blooms"></a>
+<a name="challenge_link_practices_los_blooms"></a>
 
 {% capture challenge_link_practices_los_blooms %}
 Using the list of techniques in the shared doc, identify the highest Bloom's level supported by each technique.
@@ -330,7 +330,7 @@ Motivation is personal, and it's genuinely difficult to work with deeply demotiv
 
 ### Challenge - Recall a motivating learning experience
 
-<a name="challenge-recall-motivating-experience"></a>
+<a name="challenge_recall_motivating_experience"></a>
 
 {% capture challenge_recall_motivating_experience %}
 Write in the shared doc about a motivating experience in your life as a learner, how it impacted you, and - if you can - what made it motivating.
@@ -458,7 +458,7 @@ Motivation and demotivation are closely connected. Adult learners usually arrive
 
 ### Challenge - Recall a demotivating learning experience
 
-<a name="challenge-recall-demotivating-experience"></a>
+<a name="challenge_recall_demotivating_experience"></a>
 
 {% capture challenge_recall_demotivating_experience %}
 Write in the shared doc about a demotivating experience in your life as a learner, and how it impacted you.
@@ -478,7 +478,7 @@ Motivation is personal, and it's genuinely difficult to work with deeply demotiv
 
 ### Challenge - Strategies to improve motivation
 
-<a name="challenge-motivation-strategies"></a>
+<a name="challenge_motivation_strategies"></a>
 
 {% capture challenge_motivation_strategies %}
 Read, in the shared doc, the strategies to increase learner motivation and avoid demotivating them.
@@ -487,7 +487,7 @@ As a group, pick one or more strategies from one of the three pillars (value, ex
 {% endcapture %}
 {% include admonition.html type="question" title="Challenge 3.8 - Strategies to improve motivation (10 min in groups + 10 min discussion)" content=challenge_motivation_strategies %}
 
-A concrete list of strategies to draw on for this challenge - several of which should look familiar from [Session 1](session_1.md#challenge-avoid-overload) and from the "other supporting practices" discussed earlier in this session:
+A concrete list of strategies to draw on for this challenge - several of which should look familiar from [Session 1](session_1.md#challenge_avoid_overload) and from the "other supporting practices" discussed earlier in this session:
 
 - Work together on exercises, and repeat ideas during peer discussion.
 - Actively try to close knowledge gaps rather than let them accumulate.
