@@ -544,7 +544,7 @@ For anything to end up in long-term memory, it first has to be attended to and p
 
 <a name="challenge_short_term_memory_span"></a>
 
-This is a two-round exercise, and it works best if you run it exactly as described below, in order - the second round only works as intended if learners don't see it coming.
+This is a two-round exercise (7 min total, alone), and it works best if you run it exactly as described below, in order - the second round only works as intended if learners don't see it coming.
 
 {% capture challenge_short_term_memory_span_round1 %}
 You'll see a sequence of letters displayed for 10 seconds. Try to remember as many as you can, in order.
@@ -899,7 +899,11 @@ Notice how the verb itself - list, compare, brew, break down, judge, propose - c
 <a name="challenge_write_lo_for_your_course"></a>
 
 {% capture challenge_write_lo_for_your_course %}
-Formulate and write one Learning Outcome for a course you actually teach. Specify which Bloom's level it targets - for this exercise, it doesn't matter which level you pick, just that you can name it.
+Think about one of your own courses:
+
+- Formulate and write 1 Learning Outcome.
+- Specify to what Bloom's level you are referring.
+- Use the [shared Gdoc](https://docs.google.com/document/d/1Dy9Apr4OJrv4YMDtlIQBV9tXTlLIexNb/edit).
 {% endcapture %}
 {% include admonition.html type="question" title="Challenge - Think about one of your own courses (3 min to draft + 2 min to compare)" content=challenge_write_lo_for_your_course %}
 
@@ -948,12 +952,13 @@ Choosing the right verb for a Learning Outcome isn't a wording nitpick - it dire
 
 ---
 
-### Challenge - Re-assess the quality of an action verb
+### Challenge - Re-assess the quality of the action verb
 
 <a name="challenge_reassess_action_verb"></a>
 
 {% capture challenge_reassess_action_verb %}
-Describe the learning experience you'd design for a specific target audience - one that gives a sense of the Dreyfus level your learners are actually at.
+- Describe the intended learning experience based on the target audience of your course (giving an idea of the Dreyfus level of your students).
+- Write it in the [GDoc](https://docs.google.com/document/d/1Dy9Apr4OJrv4YMDtlIQBV9tXTlLIexNb/edit?rtpof=true#heading=h.gjdgxs).
 {% endcapture %}
 {% include admonition.html type="question" title="Challenge - Re-assess the quality of the action verb" content=challenge_reassess_action_verb %}
 

@@ -123,7 +123,7 @@ Discuss how you could collect information about learners' prior knowledge - befo
 
 Write your discussion in the shared notes.
 {% endcapture %}
-{% include admonition.html type="question" title="Challenge 4.1 - Diagnostic Assessment (group activity, 8 min)" content=challenge_diagnostic_assessment %}
+{% include admonition.html type="question" title="Challenge 4.1 - Diagnostic Assessment (group activity, 8 min + 5 min report and comment)" content=challenge_diagnostic_assessment %}
 
 {% capture tip_4 %}
 Break-out rooms of 2-5 people work well here, depending on group size - decide this in advance. Pre-course assessments are useful for finding out where a group of learners actually stands at the start of a course: they help set realistic Learning Outcomes, meet learner expectations, and adapt content to fill identified gaps (while avoiding time spent on topics that aren't actually necessary). Diagnostic questionnaires can be anonymous or not: anonymous questionnaires give a sense of the whole group's level; non-anonymous ones let you find out whether a *specific* learner has the needed prerequisites, so you can adjust your teaching accordingly if not.
@@ -207,7 +207,7 @@ Discuss how you could collect information on learners':
 
 Write it in the shared notes.
 {% endcapture %}
-{% include admonition.html type="question" title="Challenge 4.2 - Formative Assessment (group activity, 5 min)" content=challenge_formative_assessment_info %}
+{% include admonition.html type="question" title="Challenge 4.2 - Formative Assessment (group activity, 8 min + 5 min discussion)" content=challenge_formative_assessment_info %}
 
 {% capture tip_7 %}
 This is more specific than the previous challenge. Challenge 4.1 asked learners to reflect on assessing prior knowledge in general; here, the focus narrows to three specific things: learners' own goals for attending the course, their mental models (broken or correct, about a specific topic), and common, frequent mistakes.
@@ -230,7 +230,7 @@ For the question below, choose each wrong answer in turn and write down which mi
 - 312
 - 33
 {% endcapture %}
-{% include admonition.html type="question" title="Challenge 4.3 - Multiple Choice Questions and mental model (individual, 3-5 min)" content=challenge_mcq_mental_model %}
+{% include admonition.html type="question" title="Challenge 4.3 - Multiple Choice Questions and mental model (individual, 3 min + 5 min discussion)" content=challenge_mcq_mental_model %}
 
 {% capture tip_8 %}
 A well-designed multiple-choice question can reveal misconceptions, not just whether learners know the right answer.[^3] For this example: the correct answer is 42.
@@ -290,7 +290,7 @@ Thinking about this TtT course itself:
 - How did the instructors assess your learning? Write it in the shared notes.
 - Choose one of the feedback-collection techniques covered in the previous slides, and write how you could integrate its results into your own lesson, on the fly.
 {% endcapture %}
-{% include admonition.html type="question" title="Challenge 4.4 - How to integrate the results of formative assessment/feedback into your course (5 min)" content=challenge_integrate_formative_assessment %}
+{% include admonition.html type="question" title="Challenge 4.4 - How to integrate the results of formative assessment/feedback into your course (5 min, alone)" content=challenge_integrate_formative_assessment %}
 
 ---
 
@@ -303,7 +303,7 @@ Thinking about this course: how many feedback opportunities have you had so far?
 
 Take notes for a short review afterward.
 {% endcapture %}
-{% include admonition.html type="question" title="Challenge 4.5 - How frequent should formative assessment be? (2 min)" content=challenge_formative_assessment_frequency %}
+{% include admonition.html type="question" title="Challenge 4.5 - How frequent should formative assessment be? (3 min)" content=challenge_formative_assessment_frequency %}
 
 ---
 
@@ -458,8 +458,10 @@ As a group, carefully read your assigned principle, then discuss:
 
 - What would you do as a teacher or instructor to facilitate learning according to this principle?
 - Which learning strategies could you use to facilitate that?
+
+After the breakout time, each group reports back to the main room (about 5 min per group - this can add up to around 20 min total, depending on how many groups report).
 {% endcapture %}
-{% include admonition.html type="question" title="Challenge 4.6 - How do you see the 8 Principles of Learning now? (15 min)" content=challenge_apply_principle_strategy %}
+{% include admonition.html type="question" title="Challenge 4.6 - How do you see the 8 Principles of Learning now? (15 min in breakout rooms + 5 min per group to report back)" content=challenge_apply_principle_strategy %}
 
 {% capture tip_11 %}
 If you have fewer than 7 groups, you can show one or both of the worked examples below as illustrations of what learners should be producing.

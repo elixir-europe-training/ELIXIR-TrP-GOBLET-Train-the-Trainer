@@ -463,7 +463,7 @@ Each of you writes in the shared doc:
 - One thing you're confused about, or not sure about, in your partner's map.
 - One thing you like, or that is clear, about your partner's map.
 {% endcapture %}
-{% include admonition.html type="question" title="Challenge - Share the Concept Map (6 min, pairs)" content=challenge_share_concept_map %}
+{% include admonition.html type="question" title="Challenge - Share the Concept Map (7 min, pairs)" content=challenge_share_concept_map %}
 
 {% capture tip_11 %}
 Follow with about 5 minutes of open sharing time before moving on.
@@ -581,7 +581,7 @@ Each participant has 3 minutes to deliver their session.
 
 Useful criteria to keep in mind while observing: Learning Outcomes, Learning Experiences, Teaching Goal, and whether the timing actually fit.
 {% endcapture %}
-{% include admonition.html type="question" title="Challenge - Deliver mini-training (~20 min, groups)" content=challenge_deliver_mini_training %}
+{% include admonition.html type="question" title="Challenge - Deliver mini-training (~20 min, split into groups of 3)" content=challenge_deliver_mini_training %}
 
 {% capture tip_13 %}
 Follow with about 5 minutes of open sharing time before moving to the Evaluate phase.

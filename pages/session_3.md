@@ -60,7 +60,7 @@ Write in the shared notes:
 
 This can be done with sticky notes or in the shared doc.
 {% endcapture %}
-{% include admonition.html type="question" title="Challenge - What makes training effective? What makes a good trainer? (breakout rooms, 2 people per room, 10 min)" content=challenge_effective_training_and_trainer %}
+{% include admonition.html type="question" title="Challenge - What makes training effective? What makes a good trainer? (breakout rooms, 2 people per room, 5 min + 5 min discussion)" content=challenge_effective_training_and_trainer %}
 
 ### A good trainer and effective training
 
