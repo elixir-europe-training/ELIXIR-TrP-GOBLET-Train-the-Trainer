@@ -54,14 +54,16 @@ The full presentation can be downloaded <a href="<Google Slides edit/download li
 
 ### Admonitions
 
-Callout boxes ("admonitions") are added to a page with the `admonition.html` include. Content is passed in via `{% capture %}` rather than as a direct string, since it needs to run through Markdown rendering first:
+Callout boxes ("admonitions") are added to a page with the `admonition.html` include. Content is passed in via `{% raw %}{% capture %}{% endraw %}` rather than as a direct string, since it needs to run through Markdown rendering first:
 
+{% raw %}
 ```liquid
 {% capture VARIABLE_NAME %}
 Some **markdown** content here.
 {% endcapture %}
 {% include admonition.html type="tip" title="..." content=VARIABLE_NAME %}
 ```
+{% endraw %}
 
 `content` variable names only need to be unique *within a single page* - not across the whole repo. That said, this handbook uses its own, more structured naming convention on top of that minimum requirement, for traceability:
 
@@ -88,17 +90,21 @@ Colors are defined in `_sass/_custom_classes.scss` (`.admonition-<type>`), and d
 
 Every admonition gets its type's default icon automatically. To use a different icon instead, pass any [Font Awesome](https://fontawesome.com/search?ic=free) class string via `icon`:
 
+{% raw %}
 ```liquid
 {% include admonition.html type="tip" title="Pro tip" content=admonition_1 icon="fa-solid fa-star" %}
 ```
+{% endraw %}
 
 #### Collapsible admonitions
 
 Add `collapsible=true` to only show the title until the reader clicks it. Add `open=true` as well to have it expanded by default:
 
+{% raw %}
 ```liquid
 {% include admonition.html type="tip" title="For trainers running this session" content=admonition_1 collapsible=true %}
 ```
+{% endraw %}
 
 This is how the spoiler pattern (see "Challenges: slugs and the index" below) should be implemented: `collapsible=true`, without `open=true`, so the answer stays hidden until a reader deliberately clicks to reveal it.
 
@@ -111,7 +117,7 @@ This is how the spoiler pattern (see "Challenges: slugs and the index" below) sh
 - If a Challenge has a surprise/twist mechanism that only works if learners don't see it coming, don't spell the mechanism out in plain text - use a collapsible admonition for the reveal instead: `collapsible=true` (without `open=true`), as described under "Admonitions" above.
 - Before adding a new Challenge, check `challenges_index.md` first, to avoid reusing a slug or duplicating an existing one.
 
-**Why underscores, not hyphens:** Challenge slugs originally used hyphens (`challenge-slug-here`), following normal web-URL "kebab-case" habits. But the Liquid `{% capture %}` variable name used for that same Challenge's admonition (see "Admonitions" above) *cannot* contain hyphens - so we ended up maintaining two near-identical names for the same thing (slug vs. variable), differing only by hyphen-vs-underscore. That's a real source of future copy-paste errors. To eliminate it, the slug, the anchor, the `challenges_index.md` entry, and the Liquid variable are now all **the exact same underscored string**, everywhere - no conversion step, no room for the two to drift apart.
+**Why underscores, not hyphens:** Challenge slugs originally used hyphens (`challenge-slug-here`), following normal web-URL "kebab-case" habits. But the Liquid `{% raw %}{% capture %}{% endraw %}` variable name used for that same Challenge's admonition (see "Admonitions" above) *cannot* contain hyphens - so we ended up maintaining two near-identical names for the same thing (slug vs. variable), differing only by hyphen-vs-underscore. That's a real source of future copy-paste errors. To eliminate it, the slug, the anchor, the `challenges_index.md` entry, and the Liquid variable are now all **the exact same underscored string**, everywhere - no conversion step, no room for the two to drift apart.
 
 ### Glossary
 
