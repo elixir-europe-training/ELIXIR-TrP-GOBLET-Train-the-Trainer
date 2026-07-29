@@ -1,0 +1,12 @@
+---
+title: Patricia Palagi
+organization: ELIXIR-CH / SIB Swiss Institute of Bioinformatics
+location: Switzerland
+github: ppalagi
+sessions: [1,2,3,4]
+email: Patricia.Palagi@sib.swiss
+---
+
+## Biography
+
+Patricia Palagi is a coordinator and experienced trainer with ELIXIR-CH, participating in all four training sessions of the Train-the-Trainer programme.

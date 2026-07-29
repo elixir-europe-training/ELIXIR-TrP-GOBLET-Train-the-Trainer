@@ -28,6 +28,18 @@ defaults:
       permalink: /:basename
       layout: "page"
       sidebar: main
+  -
+    scope:
+      path: ""
+      type: "ttt_community"
+    values:
+      layout: "profile"
+
+
+collections:
+  ttt_community:
+    output: true
+    permalink: /ttt-community/:name/
 
 theme_variables:
   topnav_banner: "This lesson is under active development and considered pre-alpha."
