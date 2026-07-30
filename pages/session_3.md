@@ -1,6 +1,6 @@
 ---
 title: Session 3 - Enhancing learner participation and engagement
-contributors: [Patricia Palagi]
+contributors: [Allegra Via, Roland Krause]
 ---
 
 ## Presentation

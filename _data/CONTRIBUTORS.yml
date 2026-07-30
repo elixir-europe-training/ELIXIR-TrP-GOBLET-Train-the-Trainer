@@ -10,12 +10,7 @@ Allegra Via:
     email: allegra.via@uniroma1.it
     affiliation: University of Rome "La Sapienza" / ELIXIR Switzerland
     orcid: 0000-0002-3398-5462
-Pedro L Fernandes:
-    git: pfern
-    email: pedro.fernandes@igc.gulbenkian.pt
-    affiliation: Instituto Gulbenkian de Ciência / ELIXIR Portugal
-    orcid: 0000-0003-2124-0241
-Bruna Pereck:
+Bruna Piereck:
     git: bpiereck
     email: bruna.piereckmoura@vib.be
     affiliation: VIB / ELIXIR Belgium
@@ -25,4 +20,7 @@ Roland Krause:
     email: roland.krause@gmail.com
     affiliation: University of Luxembourg / ELIXIR Luxenbourg
     orcid: 0000-0001-9938-7126     
+Jessica Lindvall:
+    affiliation: NBIS, SciLifeLab / ELIXIR Sweden
+    orcid: 0000-0002-5042-8481
   

@@ -1,6 +1,6 @@
 ---
 title: Session 1 - Principles of learning - how they apply to training and teaching
-contributors: [Patricia Palagi]
+contributors: [Allegra Via, Patricia Palagi, Jessica Lindvall]
 ---
 
 ## Presentation

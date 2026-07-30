@@ -1,6 +1,6 @@
 ---
 title: Session 4 - Assessment and feedback in training and teaching
-contributors: [Patricia Palagi]
+contributors: [Patricia Palagi, Allegra Via]
 ---
 
 ## Presentation
