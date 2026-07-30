@@ -42,7 +42,7 @@ collections:
     permalink: /ttt-community/:name/
 
 theme_variables:
-  topnav_banner: "This lesson is under active development and considered pre-alpha."
+  topnav_banner: "This lesson is under active development."
   topnav:
     brand_logo: assets/img/ELIXIR_logo_standard.svg
 
