@@ -7,6 +7,9 @@ subitems:
         url: /about
       - title: Lesson plan
         url: /lesson_plan
+        subitems:
+          - title: Lesson plan extended
+            url: /lesson_plan_extended  
       - title: Trainers
         url: /trainers
       - title: Contributors
