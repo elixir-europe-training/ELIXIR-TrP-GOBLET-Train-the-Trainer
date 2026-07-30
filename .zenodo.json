@@ -1,0 +1,76 @@
+{
+  "title": "ELIXIR-GOBLET Train-the-Trainer (TtT) Handbook",
+  "description": "This handbook contains the core lessons of the ELIXIR-GOBLET Train-the-Trainer (TtT) course, along with supporting materials - a lesson plan, a guide for contributors, and a directory of trainers by session - plus links to complementary lessons on related topics.",
+  "upload_type": "lesson",
+  "license": "cc-by-sa-4.0",
+  "keywords": [
+    "ELIXIR",
+    "GOBLET",
+    "Train-the-Trainer",
+    "Training",
+    "Bioinformatics",
+    "FAIR",
+    "Instructional design",
+    "Learning outcomes",
+    "Bloom's Taxonomy",
+    "Backward design",
+    "Active learning",
+    "Learner engagement",
+    "Motivation",
+    "Formative assessment",
+    "Feedback",
+    "Working memory",
+    "Long-term memory",
+    "Cognitive load",
+    "Mental models",
+    "Dreyfus model",
+    "Evidence-based teaching",
+    "Concept maps",
+    "Course design",
+    "Self-efficacy"
+  ],
+  "creators": [
+    {
+      "name": "Palagi, Patricia",
+      "affiliation": "SIB Swiss Institute of Bioinformatics / ELIXIR Switzerland",
+      "orcid": "0000-0001-9062-6303"
+    },
+    {
+      "name": "Via, Allegra",
+      "affiliation": "University of Rome \"La Sapienza\" / ELIXIR Switzerland",
+      "orcid": "0000-0002-3398-5462"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Palagi, Patricia",
+      "affiliation": "SIB Swiss Institute of Bioinformatics / ELIXIR Switzerland",
+      "orcid": "0000-0001-9062-6303",
+      "type": "ProjectLeader"
+    },
+    {
+      "name": "Via, Allegra",
+      "affiliation": "University of Rome \"La Sapienza\" / ELIXIR Switzerland",
+      "orcid": "0000-0002-3398-5462",
+      "type": "ProjectLeader"
+    },
+    {
+      "name": "Krause, Roland",
+      "affiliation": "University of Luxembourg / ELIXIR Luxembourg",
+      "type": "ProjectMember",
+      "orcid": "0000-0001-9938-7126"
+    },
+    {
+      "name": "Pereck, Bruna",
+      "affiliation": "VIB / ELIXIR Belgium",
+      "type": "ProjectMember",
+      "orcid": "0000-0001-5958-0669"
+    },
+    {
+      "name": "Lindvall, Jessica",
+      "affiliation": "NBIS, SciLifeLab / ELIXIR Sweden",
+      "type": "ProjectMember",
+      "orcid": "0000-0002-5042-8481"
+    }
+  ]
+}

@@ -30,8 +30,6 @@ The process documents and data are made available under a CC-BY-04 license. More
 
 ELIXIR-GOBLET Train-the-Trainer is supported by [ELIXIR Europe](https://elixir-europe.org/) and [GLOBET](https://www.mygoblet.org).
 
-<br>
-<br>
 <p align="center">
   <a href="https://elixir-europe.org" target="_blank">
     <img src="assets/img/ELIXIR_logo_standard.svg" alt="ELIXIR" width="15%">
@@ -49,7 +47,7 @@ The session card layout and navigation on the home page were adapted from the "m
 
 We would like to thank Geert van Geest for building the GitHub repo and integrating all the needed templates. 
 
----
+
 [![theme badge](https://img.shields.io/badge/ELIXIR%20toolkit%20theme-jekyll-blue?color=0d6efd)](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
 
 ## Running locally
