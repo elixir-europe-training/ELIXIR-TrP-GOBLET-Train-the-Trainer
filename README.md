@@ -16,6 +16,39 @@ https://elixir-europe-training.github.io/ELIXIR-TrP-LessonTemplateInstructions-M
 > The ELIXIR Training Lesson Template - Developing Training Together (v1.0.0-alpha). Zenodo. 
 > https://doi.org/10.5281/zenodo.7913092 <-->
 
+
+## How to contribute
+
+For any suggestions, please follow the instructions in the [How to contribute](how_to_contribute) file.
+
+
+## License
+
+The process documents and data are made available under a CC-BY-04 license. More information about our license can be found on our [license](LICENSE) page.
+
+## Acknowledgements
+
+ELIXIR-GOBLET Train-the-Trainer is supported by [ELIXIR Europe](https://elixir-europe.org/) and [GLOBET](https://www.mygoblet.org).
+
+<br>
+<br>
+<p align="center">
+  <a href="https://elixir-europe.org" target="_blank">
+    <img src="assets/img/ELIXIR_logo_standard.svg" alt="ELIXIR" width="15%">
+  </a>
+  <a href="https://mygoblet.org" target="_blank">
+    <img src="https://mygoblet.org/wp-content/uploads/2020/04/goblet-small-logo.png" alt="GOBLET" width="150">
+  </a>
+</p>
+
+This website is built on the [ELIXIR toolkit theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme), a Jekyll theme maintained by ELIXIR Belgium for ELIXIR documentation and training websites.
+
+The session card layout and navigation on the home page were adapted from the "module types" pattern used in [ELIXIR-ELITMa](https://github.com/elixir-europe-training/ELIXIR-ELITMa), the ELIXIR Training Programme in Management.
+
+### Custom GitHub repo
+
+We would like to thank Geert van Geest for building the GitHub repo and integrating all the needed templates. 
+
 ---
 [![theme badge](https://img.shields.io/badge/ELIXIR%20toolkit%20theme-jekyll-blue?color=0d6efd)](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
 
@@ -31,36 +64,3 @@ bundle exec jekyll serve
 ```
 
 Check it out with your browser at [http://localhost:4000/](http://localhost:4000/).
-
-## Admonitions and any other editorial style
-
-Follow the instructions in the [How to contribute](how_to_contribute) file.
-
-
-## License
-
-The process documents and data are made available under a CC-BY-04 license. More information about our license can be found on our [license](LICENSE) page.
-
-## Acknowledgements
-
-ELIXIR-GOBLET Train-the-Trainer is supported by [ELIXIR Europe](https://elixir-europe.org/) and [GLOBET](https://www.mygoblet.org).
-
-<br>
-<br>
-<p align="center">
-  <a href="https://elixir-europe.org" target="_blank">
-    <img src="assets/img/ELIXIR_logo_standard" alt="ELIXIR" width="15%">
-  </a>
-  <a href="https://mygoblet.org" target="_blank">
-    <img src="assets/img/goblet-logo.png" alt="GOBLET" width="150">
-  </a>
-</p>
-
-This website is built on the [ELIXIR toolkit theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme), a Jekyll theme maintained by ELIXIR Belgium for ELIXIR documentation and training websites.
-
-The session card layout and navigation on the home page were adapted from the "module types" pattern used in [ELIXIR-ELITMa](https://github.com/elixir-europe-training/ELIXIR-ELITMa), the ELIXIR Training Programme in Management.
-
-### Custom GitHub repo
-
-We would like to thank Geert van Geest for building the GitHub repo and integrating all the needed templates. 
-
