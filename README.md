@@ -1,8 +1,6 @@
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21703554.svg)](https://doi.org/10.5281/zenodo.21703554)
 
 # ELIXIR-GOBLET Train-the-Trainer (TtT) handbook
-
-To be updated with the handbook doi[![DOI](https://zenodo.org/badge/564252010.svg)](https://zenodo.org/badge/latestdoi/564252010)
 
 
 This handbook contains the core lessons of the ELIXIR-GOBLET Train-the-Trainer (TtT) course, along with supporting materials - a lesson plan, a guide for contributors, a directory of trainers by session, etc. - plus links to complementary lessons on related topics.
