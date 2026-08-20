@@ -1,6 +1,6 @@
 ---
 title: Daniela Brites
-organization: ELIXIR-CH / SIB Swiss Institute of Bioinformatics
+organization: ELIXIR-CH / Swiss TPH and SIB Swiss Institute of Bioinformatics
 location: Switzerland
 sessions: [3]
 ---
