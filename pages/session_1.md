@@ -10,7 +10,7 @@ Here you can find the presentation for this session:
 <iframe src="https://docs.google.com/presentation/d/1ziXD-n2Q6ihKPGTkIp66X8RVqcjLCr0E/preview" width="640" height="360" allow="autoplay"></iframe>
 
 
-The full presentation can be downloaded <a href="https://docs.google.com/presentation/d/1h_7aIcUhMIIpW5_-qMhX8vwh3mQ0LY4x/edit?usp=share_link&ouid=117857355916723671329&rtpof=true&sd=true">[here]</a>.
+The full presentation can be downloaded <a href="https://docs.google.com/presentation/d/1ziXD-n2Q6ihKPGTkIp66X8RVqcjLCr0E/edit?usp=sharing&ouid=117857355916723671329&rtpof=true&sd=true">[here]</a>.
 
 ## Session 1 - Part I - Introduction and Learning Outcomes
 
