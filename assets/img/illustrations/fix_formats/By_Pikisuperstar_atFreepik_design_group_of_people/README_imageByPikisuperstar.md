@@ -1,11 +1,15 @@
-Title: Hand drawn flat design group of people background composition
+Title: 
+------
+[Hand drawn flat design group of people background composition](https://www.magnific.com/free-vector/hand-drawn-flat-design-group-people-background-composition_20548117.htm)
 
-Author: pikisuperstar
+Author: 
+--------
+pikisuperstar
 
-Image database website: former Freepik now Magnificent - https://www.magnific.com/
+Image database website: 
+-----------------------
+former Freepik now Magnific - https://www.magnific.com/
 
-Link: https://www.magnific.com/free-vector/hand-drawn-flat-design-group-people-background-composition_20548117.htm
-
-License: Free with attribution
-
-License link: https://www.magnific.com/ai/docs/licenses-attribution#merchandise-license
+License: 
+---------
+[Free with attribution](https://www.magnific.com/ai/docs/licenses-attribution#merchandise-license)
