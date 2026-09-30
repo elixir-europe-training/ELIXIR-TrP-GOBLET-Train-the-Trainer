@@ -6,7 +6,7 @@ redirect_from:
 
 ## About this handbook
 
-This handbook presents the core lessons of the ELIXIR-GOBLET Train-the-Trainer course, commonly referred to as **TtT**. It is intended as a resource for trainers who will deliver the 2-days TtT course, as well as for those who want to learn more about good practices in teaching and training.
+This handbook presents the core lessons of the [ELIXIR](https://elixir-europe.org/platforms/training)-[GOBLET](https://www.mygoblet.org/) Train-the-Trainer course, commonly referred to as **TtT**. It is intended as a resource for trainers who will deliver the 2-days TtT course, as well as for those who want to learn more about good practices in teaching and training.
 
 The handbook brings together the pedagogical principles, practical approaches, and facilitation strategies that underpin the TtT course. It is designed to help TtT instructors understand not only *what* is taught during the course, but also *why* it is taught and *how* it can be facilitated effectively.
 

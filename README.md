@@ -3,7 +3,7 @@
 # ELIXIR-GOBLET Train-the-Trainer (TtT) handbook
 
 
-This handbook contains the core lessons of the ELIXIR-GOBLET Train-the-Trainer (TtT) course, along with supporting materials - a lesson plan, a guide for contributors, a directory of trainers by session, etc. - plus links to complementary lessons on related topics.
+This handbook contains the core lessons of the [ELIXIR](https://elixir-europe.org/platforms/training)-[GOBLET](https://www.mygoblet.org/) Train-the-Trainer (TtT) course, along with supporting materials - a lesson plan, a guide for contributors, a directory of trainers by session, etc. - plus links to complementary lessons on related topics.
 
 <!-- ## Template used to generate this handbook
 
@@ -26,7 +26,7 @@ The process documents and data are made available under a CC-BY-04 license. More
 
 ## Acknowledgements
 
-ELIXIR-GOBLET Train-the-Trainer is supported by [ELIXIR Europe](https://elixir-europe.org/) and [GLOBET](https://www.mygoblet.org).
+ELIXIR-GOBLET Train-the-Trainer is supported by [ELIXIR Europe](https://elixir-europe.org/) and [GOBLET](https://www.mygoblet.org).
 
 <p align="center">
   <a href="https://elixir-europe.org" target="_blank">
